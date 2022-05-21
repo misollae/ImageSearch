@@ -1,0 +1,9 @@
+Username:12921146@N04
+URL:http://flickr.com/photos/12921146@N04/2328099454
+ID:2328099454
+Title:Mourning Dove
+Description:null
+
+Latitude:32.28331
+Longitude:-111.03223
+Date:Mon Mar 03 10:35:16 GMT 2008

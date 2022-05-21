@@ -1,0 +1,9 @@
+Username:7486487@N08
+URL:http://flickr.com/photos/7486487@N08/822657052
+ID:822657052
+Title:Connel bridge, thund'ry sky
+Description:null
+
+Latitude:56.454945
+Longitude:-5.394131
+Date:Sat Jul 14 15:04:51 BST 2007

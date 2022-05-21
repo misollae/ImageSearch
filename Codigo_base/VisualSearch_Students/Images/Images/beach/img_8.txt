@@ -1,0 +1,9 @@
+Username:48889068537@N01
+URL:http://flickr.com/photos/48889068537@N01/2332989762
+ID:2332989762
+Title:The ocean approaches
+Description:null
+
+Latitude:45.88856
+Longitude:-123.96641
+Date:Sat Mar 01 11:03:19 GMT 2008

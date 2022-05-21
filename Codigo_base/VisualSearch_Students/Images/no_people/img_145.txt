@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/521022530
+ID:521022530
+Title:23 La città dalla collina
+Description:null
+
+Latitude:45.108795
+Longitude:7.470391
+Date:Thu May 10 18:33:31 BST 2007

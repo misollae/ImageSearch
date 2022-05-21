@@ -1,0 +1,9 @@
+Username:14093872@N04
+URL:http://flickr.com/photos/14093872@N04/2185614968
+ID:2185614968
+Title:bimba dondolo
+Description:null
+
+Latitude:45.97466
+Longitude:9.194333
+Date:Fri Jan 11 17:01:34 GMT 2008

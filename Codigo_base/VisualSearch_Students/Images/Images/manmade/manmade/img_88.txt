@@ -1,0 +1,9 @@
+Username:8581973@N02
+URL:http://flickr.com/photos/8581973@N02/521878287
+ID:521878287
+Title:Old machinery texture
+Description:null
+
+Latitude:-23.49073
+Longitude:-46.83863
+Date:Mon Mar 26 10:34:52 BST 2007

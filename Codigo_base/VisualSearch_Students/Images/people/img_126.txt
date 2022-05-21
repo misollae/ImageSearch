@@ -1,0 +1,9 @@
+Username:7455207@N05
+URL:http://flickr.com/photos/7455207@N05/2302527433
+ID:2302527433
+Title:Bar Cristal
+Description:null
+
+Latitude:39.57621
+Longitude:2.653219
+Date:Thu Dec 27 19:36:37 GMT 2007

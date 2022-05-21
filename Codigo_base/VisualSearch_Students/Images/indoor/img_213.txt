@@ -1,0 +1,9 @@
+Username:34427466731@N01
+URL:http://flickr.com/photos/34427466731@N01/309242223
+ID:309242223
+Title:ammunition
+Description:null
+
+Latitude:38.760284
+Longitude:-93.44071
+Date:Thu Nov 23 15:13:15 GMT 2006

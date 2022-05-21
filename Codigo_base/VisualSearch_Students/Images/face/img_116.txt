@@ -1,0 +1,9 @@
+Username:59316475@N00
+URL:http://flickr.com/photos/59316475@N00/2310874147
+ID:2310874147
+Title:Rich W
+Description:null
+
+Latitude:13.745252
+Longitude:100.532166
+Date:Tue Mar 04 19:30:15 GMT 2008

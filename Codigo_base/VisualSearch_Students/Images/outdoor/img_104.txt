@@ -1,0 +1,9 @@
+Username:42955034@N00
+URL:http://flickr.com/photos/42955034@N00/2285562355
+ID:2285562355
+Title:Waiting for Mickey
+Description:null
+
+Latitude:28.416603
+Longitude:-81.58238
+Date:Fri Apr 08 14:13:23 BST 2005

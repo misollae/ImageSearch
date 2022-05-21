@@ -1,0 +1,9 @@
+Username:11700853@N07
+URL:http://flickr.com/photos/11700853@N07/2303384562
+ID:2303384562
+Title:sahara_2008_40D_IMG_2137
+Description:null
+
+Latitude:30.763866
+Longitude:-5.502777
+Date:Sat Feb 09 10:51:52 GMT 2008

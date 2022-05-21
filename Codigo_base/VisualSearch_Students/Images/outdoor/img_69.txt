@@ -1,0 +1,9 @@
+Username:9424255@N05
+URL:http://flickr.com/photos/9424255@N05/2300399724
+ID:2300399724
+Title:zmrzlina
+Description:null
+
+Latitude:50.06451
+Longitude:14.052516
+Date:Sat Feb 16 11:50:41 GMT 2008

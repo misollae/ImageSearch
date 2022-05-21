@@ -1,0 +1,9 @@
+Username:85278812@N00
+URL:http://flickr.com/photos/85278812@N00/2282242529
+ID:2282242529
+Title:High Falls
+Description:null
+
+Latitude:44.70999
+Longitude:-74.172905
+Date:Sun Feb 17 13:26:13 GMT 2008

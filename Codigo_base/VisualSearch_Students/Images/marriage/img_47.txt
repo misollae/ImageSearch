@@ -1,0 +1,9 @@
+Username:87004986@N00
+URL:http://flickr.com/photos/87004986@N00/2283921571
+ID:2283921571
+Title:493736-R1-030-13A_011_0001
+Description:null
+
+Latitude:27.384794
+Longitude:-82.56476
+Date:Sat Feb 16 00:06:06 GMT 2008

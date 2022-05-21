@@ -1,0 +1,9 @@
+Username:7486487@N08
+URL:http://flickr.com/photos/7486487@N08/2325261800
+ID:2325261800
+Title:Avenue of Shadows
+Description:null
+
+Latitude:51.78519
+Longitude:-2.195876
+Date:Sat Mar 01 10:25:16 GMT 2008

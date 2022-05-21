@@ -1,0 +1,9 @@
+Username:93174672@N00
+URL:http://flickr.com/photos/93174672@N00/438864199
+ID:438864199
+Title:Denver City and County Building
+Description:null
+
+Latitude:39.73925
+Longitude:-104.98641
+Date:Wed Mar 28 22:07:16 BST 2007

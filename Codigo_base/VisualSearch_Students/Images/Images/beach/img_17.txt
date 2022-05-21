@@ -1,0 +1,9 @@
+Username:10591108@N02
+URL:http://flickr.com/photos/10591108@N02/2332001851
+ID:2332001851
+Title:Jumping
+Description:null
+
+Latitude:43.54103
+Longitude:-70.325195
+Date:Thu Mar 13 14:52:10 GMT 2008

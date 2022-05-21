@@ -1,0 +1,9 @@
+Username:53463930@N00
+URL:http://flickr.com/photos/53463930@N00/2329111711
+ID:2329111711
+Title:snow 1
+Description:null
+
+Latitude:45.57559
+Longitude:6.785227
+Date:Sun Mar 02 15:06:45 GMT 2008

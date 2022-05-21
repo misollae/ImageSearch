@@ -1,0 +1,9 @@
+Username:58939349@N00
+URL:http://flickr.com/photos/58939349@N00/2320236347
+ID:2320236347
+Title:Student alone
+Description:null
+
+Latitude:50.06136
+Longitude:19.939219
+Date:Sun Mar 09 09:18:22 GMT 2008

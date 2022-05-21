@@ -1,0 +1,9 @@
+Username:95104082@N00
+URL:http://flickr.com/photos/95104082@N00/2280934240
+ID:2280934240
+Title:Skates
+Description:null
+
+Latitude:53.527676
+Longitude:-113.54974
+Date:Sat Feb 16 13:42:49 GMT 2008

@@ -1,0 +1,9 @@
+Username:79053562@N00
+URL:http://flickr.com/photos/79053562@N00/2304440222
+ID:2304440222
+Title:Cube toys
+Description:null
+
+Latitude:37.799004
+Longitude:-122.40112
+Date:Tue Sep 11 16:17:03 BST 2007

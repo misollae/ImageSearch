@@ -1,0 +1,9 @@
+Username:22475604@N00
+URL:http://flickr.com/photos/22475604@N00/306517913
+ID:306517913
+Title:Stuff block
+Description:null
+
+Latitude:52.217445
+Longitude:0.12174
+Date:Sun Nov 26 02:56:38 GMT 2006

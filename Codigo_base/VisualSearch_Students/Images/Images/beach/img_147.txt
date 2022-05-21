@@ -1,0 +1,9 @@
+Username:24589046@N03
+URL:http://flickr.com/photos/24589046@N03/2328962982
+ID:2328962982
+Title:Charleston 02
+Description:null
+
+Latitude:32.7577
+Longitude:-79.85876
+Date:Tue Jul 31 19:43:52 BST 2007

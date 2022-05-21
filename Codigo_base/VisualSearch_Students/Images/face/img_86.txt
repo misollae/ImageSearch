@@ -1,0 +1,9 @@
+Username:75169302@N00
+URL:http://flickr.com/photos/75169302@N00/2316018708
+ID:2316018708
+Title:
+Description:null
+
+Latitude:44.957493
+Longitude:-64.9695
+Date:Thu Mar 06 10:36:14 GMT 2008

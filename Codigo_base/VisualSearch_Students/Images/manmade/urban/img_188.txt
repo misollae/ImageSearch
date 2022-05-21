@@ -1,0 +1,9 @@
+Username:22908912@N04
+URL:http://flickr.com/photos/22908912@N04/2198511207
+ID:2198511207
+Title:Montgomery Wall
+Description:null
+
+Latitude:33.73222
+Longitude:-117.995834
+Date:Thu Jan 17 08:47:39 GMT 2008

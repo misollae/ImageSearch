@@ -1,0 +1,9 @@
+Username:16612517@N00
+URL:http://flickr.com/photos/16612517@N00/2194055324
+ID:2194055324
+Title:Tunneless
+Description:null
+
+Latitude:42.32946
+Longitude:-83.038666
+Date:Sat Jan 12 10:04:16 GMT 2008

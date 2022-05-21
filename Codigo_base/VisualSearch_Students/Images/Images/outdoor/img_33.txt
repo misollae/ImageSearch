@@ -1,0 +1,9 @@
+Username:29522315@N00
+URL:http://flickr.com/photos/29522315@N00/2302781430
+ID:2302781430
+Title:DSC_1323
+Description:null
+
+Latitude:45.466976
+Longitude:6.901158
+Date:Sat Mar 01 19:09:05 GMT 2008

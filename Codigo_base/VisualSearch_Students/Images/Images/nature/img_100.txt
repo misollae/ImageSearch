@@ -1,0 +1,9 @@
+Username:8369605@N05
+URL:http://flickr.com/photos/8369605@N05/2326917597
+ID:2326917597
+Title:Vogue
+Description:null
+
+Latitude:47.920944
+Longitude:-122.29293
+Date:Tue Mar 11 11:25:48 GMT 2008

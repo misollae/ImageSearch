@@ -1,0 +1,9 @@
+Username:78176977@N00
+URL:http://flickr.com/photos/78176977@N00/324962617
+ID:324962617
+Title:Taikoo MTR Station, Hong Kong
+Description:null
+
+Latitude:22.287914
+Longitude:114.21688
+Date:Sun Dec 17 14:27:07 GMT 2006

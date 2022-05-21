@@ -1,0 +1,9 @@
+Username:9048663@N05
+URL:http://flickr.com/photos/9048663@N05/1312455826
+ID:1312455826
+Title:Lichen Brush 1810
+Description:null
+
+Latitude:29.972502
+Longitude:-92.13518
+Date:Sat Sep 01 09:34:45 BST 2007

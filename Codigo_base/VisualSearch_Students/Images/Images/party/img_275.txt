@@ -1,0 +1,9 @@
+Username:45382436@N00
+URL:http://flickr.com/photos/45382436@N00/2266427376
+ID:2266427376
+Title:Brian Mason  speech 4
+Description:null
+
+Latitude:51.045708
+Longitude:-114.06578
+Date:Thu Feb 14 13:49:42 GMT 2008

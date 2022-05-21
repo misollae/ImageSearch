@@ -1,0 +1,9 @@
+Username:25396215@N00
+URL:http://flickr.com/photos/25396215@N00/2325150292
+ID:2325150292
+Title:me and my flowers!  thanks mom!
+Description:null
+
+Latitude:49.26088
+Longitude:-123.25338
+Date:Mon Mar 10 12:11:48 GMT 2008

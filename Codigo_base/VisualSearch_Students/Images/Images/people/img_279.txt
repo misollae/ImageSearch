@@ -1,0 +1,9 @@
+Username:53353745@N00
+URL:http://flickr.com/photos/53353745@N00/2230210365
+ID:2230210365
+Title:Mom's new sweater
+Description:null
+
+Latitude:39.314003
+Longitude:-84.52552
+Date:Mon Dec 24 20:28:39 GMT 2007

@@ -1,0 +1,9 @@
+Username:97863854@N00
+URL:http://flickr.com/photos/97863854@N00/2280398276
+ID:2280398276
+Title:2008-02-16 - Reno Day 2_0123
+Description:null
+
+Latitude:39.328888
+Longitude:-119.87861
+Date:Sat Feb 16 13:35:02 GMT 2008

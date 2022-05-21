@@ -1,0 +1,9 @@
+Username:8417015@N06
+URL:http://flickr.com/photos/8417015@N06/2331102197
+ID:2331102197
+Title:Kiba, Ranama and Akane
+Description:null
+
+Latitude:38.849266
+Longitude:-77.401
+Date:Sun Mar 02 14:28:27 GMT 2008

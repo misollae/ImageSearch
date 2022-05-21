@@ -1,0 +1,9 @@
+Username:22908912@N04
+URL:http://flickr.com/photos/22908912@N04/2199292444
+ID:2199292444
+Title:Fire Retardant
+Description:null
+
+Latitude:33.730583
+Longitude:-117.997444
+Date:Thu Jan 17 08:38:32 GMT 2008

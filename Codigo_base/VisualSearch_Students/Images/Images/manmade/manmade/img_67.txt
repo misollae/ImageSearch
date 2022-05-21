@@ -1,0 +1,9 @@
+Username:78553262@N00
+URL:http://flickr.com/photos/78553262@N00/706195596
+ID:706195596
+Title:IMG_0212
+Description:null
+
+Latitude:33.68387
+Longitude:-117.79045
+Date:Mon Jul 02 01:24:22 BST 2007

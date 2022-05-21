@@ -1,0 +1,9 @@
+Username:95104082@N00
+URL:http://flickr.com/photos/95104082@N00/2280147695
+ID:2280147695
+Title:Figure Skating
+Description:null
+
+Latitude:53.528465
+Longitude:-113.5502
+Date:Sat Feb 16 14:17:59 GMT 2008

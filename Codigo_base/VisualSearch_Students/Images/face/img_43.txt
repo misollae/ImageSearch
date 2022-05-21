@@ -1,0 +1,9 @@
+Username:9454850@N08
+URL:http://flickr.com/photos/9454850@N08/2328112690
+ID:2328112690
+Title:Waitress, Ocean Drive
+Description:null
+
+Latitude:25.778929
+Longitude:-80.13103
+Date:Tue Mar 11 13:34:42 GMT 2008

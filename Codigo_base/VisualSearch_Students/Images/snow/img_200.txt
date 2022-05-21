@@ -1,0 +1,9 @@
+Username:87296837@N00
+URL:http://flickr.com/photos/87296837@N00/2279782395
+ID:2279782395
+Title:Maxwell's Fire, Minneapolis
+Description:null
+
+Latitude:44.974636
+Longitude:-93.25173
+Date:Wed Feb 20 14:21:19 GMT 2008

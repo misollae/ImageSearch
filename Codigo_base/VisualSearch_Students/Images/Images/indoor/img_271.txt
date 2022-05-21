@@ -1,0 +1,9 @@
+Username:34427466731@N01
+URL:http://flickr.com/photos/34427466731@N01/305968701
+ID:305968701
+Title:the fine print
+Description:null
+
+Latitude:39.050343
+Longitude:-84.66343
+Date:Wed Nov 22 21:05:30 GMT 2006

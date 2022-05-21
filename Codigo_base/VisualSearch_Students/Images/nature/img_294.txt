@@ -1,0 +1,9 @@
+Username:14061584@N08
+URL:http://flickr.com/photos/14061584@N08/2250127778
+ID:2250127778
+Title:Flowers in the street
+Description:null
+
+Latitude:37.78656
+Longitude:-122.40176
+Date:Thu Feb 07 12:44:44 GMT 2008

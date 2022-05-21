@@ -1,0 +1,9 @@
+Username:34427466731@N01
+URL:http://flickr.com/photos/34427466731@N01/303338246
+ID:303338246
+Title:becca shoes
+Description:null
+
+Latitude:43.611107
+Longitude:-73.17755
+Date:Fri Nov 17 17:25:12 GMT 2006

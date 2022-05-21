@@ -1,0 +1,9 @@
+Username:8264376@N03
+URL:http://flickr.com/photos/8264376@N03/838421418
+ID:838421418
+Title:Dubai, Emirates
+Description:null
+
+Latitude:25.192898
+Longitude:55.296677
+Date:Mon Jul 09 13:20:19 BST 2007

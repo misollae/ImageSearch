@@ -1,0 +1,9 @@
+Username:66778099@N00
+URL:http://flickr.com/photos/66778099@N00/2069904503
+ID:2069904503
+Title:Stupid twigs...
+Description:null
+
+Latitude:40.456333
+Longitude:-90.692184
+Date:Mon Nov 26 21:52:22 GMT 2007

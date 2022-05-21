@@ -1,0 +1,9 @@
+Username:90134196@N00
+URL:http://flickr.com/photos/90134196@N00/454101220
+ID:454101220
+Title:Stacked Bowls
+Description:null
+
+Latitude:32.361385
+Longitude:-96.892365
+Date:Fri Apr 06 22:23:24 BST 2007

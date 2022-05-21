@@ -1,0 +1,9 @@
+Username:7328892@N03
+URL:http://flickr.com/photos/7328892@N03/1360575559
+ID:1360575559
+Title:Hold On!
+Description:null
+
+Latitude:1.301746
+Longitude:103.88039
+Date:Mon Sep 10 18:44:18 BST 2007

@@ -1,0 +1,9 @@
+Username:81301219@N00
+URL:http://flickr.com/photos/81301219@N00/2188962214
+ID:2188962214
+Title:P1030073
+Description:null
+
+Latitude:33.997215
+Longitude:-117.85478
+Date:Sat Jan 12 13:19:15 GMT 2008

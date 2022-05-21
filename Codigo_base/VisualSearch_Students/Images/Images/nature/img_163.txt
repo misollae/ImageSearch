@@ -1,0 +1,9 @@
+Username:29498428@N00
+URL:http://flickr.com/photos/29498428@N00/2251278506
+ID:2251278506
+Title:CL + CN
+Description:null
+
+Latitude:40.83243
+Longitude:-74.187195
+Date:Fri Jan 18 13:00:07 GMT 2008

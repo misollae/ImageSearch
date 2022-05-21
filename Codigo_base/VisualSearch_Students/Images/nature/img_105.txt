@@ -1,0 +1,9 @@
+Username:48094050@N00
+URL:http://flickr.com/photos/48094050@N00/2326180189
+ID:2326180189
+Title:Departing owl at sunset
+Description:null
+
+Latitude:37.846012
+Longitude:-122.54953
+Date:Mon Mar 10 18:09:42 GMT 2008

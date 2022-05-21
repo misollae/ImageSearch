@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/519456557
+ID:519456557
+Title:03 Nuvole illuminate dal basso
+Description:null
+
+Latitude:45.031834
+Longitude:7.644386
+Date:Mon May 07 20:54:55 BST 2007

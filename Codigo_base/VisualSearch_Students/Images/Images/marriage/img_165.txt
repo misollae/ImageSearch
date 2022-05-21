@@ -1,0 +1,9 @@
+Username:7332624@N06
+URL:http://flickr.com/photos/7332624@N06/1027273915
+ID:1027273915
+Title:The First Dance II
+Description:null
+
+Latitude:52.13501
+Longitude:-0.465331
+Date:Sat Aug 04 21:01:15 BST 2007

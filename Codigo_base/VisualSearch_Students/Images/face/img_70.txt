@@ -1,0 +1,9 @@
+Username:80122196@N00
+URL:http://flickr.com/photos/80122196@N00/2319786358
+ID:2319786358
+Title:Petrified
+Description:null
+
+Latitude:47.67109
+Longitude:-122.35066
+Date:Mon Feb 18 14:51:53 GMT 2008

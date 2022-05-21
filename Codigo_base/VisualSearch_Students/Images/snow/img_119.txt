@@ -1,0 +1,9 @@
+Username:7196003@N02
+URL:http://flickr.com/photos/7196003@N02/2282693588
+ID:2282693588
+Title:Just waiting - Aux aguets
+Description:null
+
+Latitude:45.34688
+Longitude:-73.9846
+Date:Thu Feb 14 16:48:55 GMT 2008

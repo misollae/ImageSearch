@@ -1,0 +1,9 @@
+Username:10591108@N02
+URL:http://flickr.com/photos/10591108@N02/2282283119
+ID:2282283119
+Title:Audubon Building
+Description:null
+
+Latitude:43.70605
+Longitude:-70.2406
+Date:Thu Feb 21 14:58:22 GMT 2008

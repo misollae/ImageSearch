@@ -1,0 +1,9 @@
+Username:34427466731@N01
+URL:http://flickr.com/photos/34427466731@N01/1361930882
+ID:1361930882
+Title:70 to Sidney
+Description:null
+
+Latitude:48.630035
+Longitude:-123.42018
+Date:Mon Sep 03 14:57:51 BST 2007

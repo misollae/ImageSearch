@@ -1,0 +1,9 @@
+Username:58563092@N00
+URL:http://flickr.com/photos/58563092@N00/2176060335
+ID:2176060335
+Title:dublin in colour
+Description:null
+
+Latitude:53.344162
+Longitude:-6.267319
+Date:Fri Sep 28 17:35:23 BST 2007

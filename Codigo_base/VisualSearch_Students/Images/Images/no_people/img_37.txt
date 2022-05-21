@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/2051475132
+ID:2051475132
+Title:36 Castello storto
+Description:null
+
+Latitude:44.838394
+Longitude:11.619168
+Date:Sun Jul 08 20:22:58 BST 2007

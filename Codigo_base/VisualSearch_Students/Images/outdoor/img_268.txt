@@ -1,0 +1,9 @@
+Username:34427466731@N01
+URL:http://flickr.com/photos/34427466731@N01/1313377909
+ID:1313377909
+Title:waiting on the ferry
+Description:null
+
+Latitude:49.008045
+Longitude:-123.13072
+Date:Mon Aug 27 05:39:55 BST 2007

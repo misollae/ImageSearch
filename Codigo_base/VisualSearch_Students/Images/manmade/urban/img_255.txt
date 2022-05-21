@@ -1,0 +1,9 @@
+Username:29368678@N00
+URL:http://flickr.com/photos/29368678@N00/2195964701
+ID:2195964701
+Title:CRW_1024
+Description:null
+
+Latitude:47.613953
+Longitude:-122.3321
+Date:Fri Jan 11 16:57:34 GMT 2008

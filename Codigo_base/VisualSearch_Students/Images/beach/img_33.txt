@@ -1,0 +1,9 @@
+Username:92583342@N00
+URL:http://flickr.com/photos/92583342@N00/2331675250
+ID:2331675250
+Title:Giardini Naxos (Italy) - Seen from Taormina
+Description:null
+
+Latitude:37.85016
+Longitude:15.287261
+Date:Sat Feb 16 17:11:59 GMT 2008

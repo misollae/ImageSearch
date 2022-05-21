@@ -1,0 +1,9 @@
+Username:35371784@N00
+URL:http://flickr.com/photos/35371784@N00/2335323485
+ID:2335323485
+Title:Doug's 7th Birhday
+Description:null
+
+Latitude:49.67115
+Longitude:-115.9716
+Date:Wed Oct 30 15:52:57 GMT 1974

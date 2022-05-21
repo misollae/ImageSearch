@@ -1,0 +1,9 @@
+Username:61161362@N00
+URL:http://flickr.com/photos/61161362@N00/2303709365
+ID:2303709365
+Title:Waiting for results
+Description:null
+
+Latitude:60.161438
+Longitude:24.903206
+Date:Sun Mar 02 14:38:35 GMT 2008

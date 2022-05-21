@@ -1,0 +1,9 @@
+Username:61417564@N00
+URL:http://flickr.com/photos/61417564@N00/2283811760
+ID:2283811760
+Title:Crooked Logos
+Description:null
+
+Latitude:51.49471
+Longitude:-0.146788
+Date:Thu Feb 21 21:10:45 GMT 2008

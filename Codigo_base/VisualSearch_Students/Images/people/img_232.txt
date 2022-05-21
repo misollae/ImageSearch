@@ -1,0 +1,9 @@
+Username:14246866@N05
+URL:http://flickr.com/photos/14246866@N05/2233122900
+ID:2233122900
+Title:Scott at Larrabee
+Description:null
+
+Latitude:48.651028
+Longitude:-122.49369
+Date:Sat Nov 01 17:27:29 GMT 2003

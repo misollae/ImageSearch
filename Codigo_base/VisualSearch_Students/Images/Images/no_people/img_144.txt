@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/521020670
+ID:521020670
+Title:15 Sembra di decollare
+Description:null
+
+Latitude:45.106697
+Longitude:7.47405
+Date:Thu May 10 18:20:10 BST 2007

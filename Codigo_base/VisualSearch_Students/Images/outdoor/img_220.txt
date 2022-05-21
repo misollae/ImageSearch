@@ -1,0 +1,9 @@
+Username:12698115@N06
+URL:http://flickr.com/photos/12698115@N06/1337622075
+ID:1337622075
+Title:Discord in the Garden
+Description:null
+
+Latitude:42.45993
+Longitude:-75.06913
+Date:Thu Sep 06 04:42:42 BST 2007

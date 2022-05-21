@@ -1,0 +1,9 @@
+Username:96932198@N00
+URL:http://flickr.com/photos/96932198@N00/365602470
+ID:365602470
+Title:Middle of the dam
+Description:null
+
+Latitude:38.1678
+Longitude:23.905762
+Date:Sun Jan 21 17:01:47 GMT 2007

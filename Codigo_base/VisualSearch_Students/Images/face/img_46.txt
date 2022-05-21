@@ -1,0 +1,9 @@
+Username:87304876@N00
+URL:http://flickr.com/photos/87304876@N00/2326559201
+ID:2326559201
+Title:Malecon sand sculpture two detail
+Description:null
+
+Latitude:20.611813
+Longitude:-105.23441
+Date:Sat Mar 01 16:49:15 GMT 2008

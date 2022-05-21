@@ -1,0 +1,9 @@
+Username:20675126@N00
+URL:http://flickr.com/photos/20675126@N00/2179301773
+ID:2179301773
+Title:20080106-001237
+Description:null
+
+Latitude:43.767624
+Longitude:-79.559494
+Date:Sun Jan 06 00:12:37 GMT 2008

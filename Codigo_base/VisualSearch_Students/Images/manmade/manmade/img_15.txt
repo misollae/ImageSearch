@@ -1,0 +1,9 @@
+Username:8997662@N06
+URL:http://flickr.com/photos/8997662@N06/2229778148
+ID:2229778148
+Title:Alleyway towards Old Doctor Butler's Head
+Description:null
+
+Latitude:51.51585
+Longitude:-0.09098
+Date:Tue Jan 29 19:57:15 GMT 2008

@@ -1,0 +1,9 @@
+Username:19217720@N00
+URL:http://flickr.com/photos/19217720@N00/1028942021
+ID:1028942021
+Title:DSC09641
+Description:null
+
+Latitude:42.60333
+Longitude:-71.348656
+Date:Sat Aug 04 17:30:44 BST 2007

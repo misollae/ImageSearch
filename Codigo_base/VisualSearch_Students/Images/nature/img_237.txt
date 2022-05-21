@@ -1,0 +1,9 @@
+Username:22204040@N02
+URL:http://flickr.com/photos/22204040@N02/2251889662
+ID:2251889662
+Title:White Bird
+Description:null
+
+Latitude:27.772787
+Longitude:-82.778046
+Date:Mon Dec 31 17:26:50 GMT 2007

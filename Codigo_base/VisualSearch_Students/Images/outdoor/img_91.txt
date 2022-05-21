@@ -1,0 +1,9 @@
+Username:8272981@N03
+URL:http://flickr.com/photos/8272981@N03/2291276547
+ID:2291276547
+Title:Auréolé
+Description:null
+
+Latitude:43.59621
+Longitude:1.452029
+Date:Mon Jul 31 18:39:20 BST 2006

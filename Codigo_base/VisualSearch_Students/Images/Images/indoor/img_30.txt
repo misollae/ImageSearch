@@ -1,0 +1,9 @@
+Username:61417564@N00
+URL:http://flickr.com/photos/61417564@N00/2299369673
+ID:2299369673
+Title:St Pancras
+Description:null
+
+Latitude:51.53035
+Longitude:-0.125298
+Date:Wed Feb 27 16:16:18 GMT 2008

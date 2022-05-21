@@ -1,0 +1,9 @@
+Username:7623066@N02
+URL:http://flickr.com/photos/7623066@N02/1245116806
+ID:1245116806
+Title:Nikon 2007-08-26_225
+Description:null
+
+Latitude:33.867245
+Longitude:-118.06406
+Date:Sun Aug 26 15:58:06 BST 2007

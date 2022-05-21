@@ -1,0 +1,9 @@
+Username:22908912@N04
+URL:http://flickr.com/photos/22908912@N04/2198515725
+ID:2198515725
+Title:A Pigeon
+Description:null
+
+Latitude:33.73247
+Longitude:-117.996185
+Date:Thu Jan 17 08:52:01 GMT 2008

@@ -1,0 +1,9 @@
+Username:66778099@N00
+URL:http://flickr.com/photos/66778099@N00/2069900747
+ID:2069900747
+Title:Junk in the fore, garbage in the back...
+Description:null
+
+Latitude:40.456333
+Longitude:-90.692184
+Date:Mon Nov 26 21:43:21 GMT 2007

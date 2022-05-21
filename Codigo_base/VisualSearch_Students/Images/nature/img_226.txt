@@ -1,0 +1,9 @@
+Username:22209535@N05
+URL:http://flickr.com/photos/22209535@N05/2247695230
+ID:2247695230
+Title:Sidewalk
+Description:null
+
+Latitude:34.010338
+Longitude:-81.04364
+Date:Fri Feb 01 17:27:21 GMT 2008

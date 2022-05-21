@@ -1,0 +1,9 @@
+Username:56029500@N00
+URL:http://flickr.com/photos/56029500@N00/1287617594
+ID:1287617594
+Title:Sanatorium d'Aincourt #28
+Description:null
+
+Latitude:49.078
+Longitude:1.758016
+Date:Wed Aug 15 16:08:08 BST 2007

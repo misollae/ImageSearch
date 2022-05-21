@@ -1,0 +1,9 @@
+Username:89716538@N00
+URL:http://flickr.com/photos/89716538@N00/2199436067
+ID:2199436067
+Title:Lisbon Architecture
+Description:null
+
+Latitude:38.70957
+Longitude:-9.137229
+Date:Thu Dec 13 12:02:55 GMT 2007

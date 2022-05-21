@@ -1,0 +1,9 @@
+Username:53463930@N00
+URL:http://flickr.com/photos/53463930@N00/2329281685
+ID:2329281685
+Title:looking up from the apartment
+Description:null
+
+Latitude:45.57559
+Longitude:6.785227
+Date:Wed Mar 05 09:50:47 GMT 2008

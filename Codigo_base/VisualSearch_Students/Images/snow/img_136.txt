@@ -1,0 +1,9 @@
+Username:89047946@N00
+URL:http://flickr.com/photos/89047946@N00/2281499948
+ID:2281499948
+Title:Merced River by moonlight (from Vernal Falls Bridge)
+Description:null
+
+Latitude:37.7259
+Longitude:-119.54913
+Date:Sun Feb 17 18:23:42 GMT 2008

@@ -1,0 +1,9 @@
+Username:22908912@N04
+URL:http://flickr.com/photos/22908912@N04/2199298266
+ID:2199298266
+Title:I hate Palm Trees
+Description:null
+
+Latitude:33.731457
+Longitude:-117.996574
+Date:Thu Jan 17 08:43:11 GMT 2008

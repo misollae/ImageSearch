@@ -1,0 +1,9 @@
+Username:24038028@N04
+URL:http://flickr.com/photos/24038028@N04/2286479751
+ID:2286479751
+Title:ortaköy1
+Description:null
+
+Latitude:41.04734
+Longitude:29.02649
+Date:Thu Jun 29 19:34:15 BST 2006

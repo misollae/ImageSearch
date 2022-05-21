@@ -1,0 +1,9 @@
+Username:76475621@N00
+URL:http://flickr.com/photos/76475621@N00/2332787900
+ID:2332787900
+Title:A view upon the City.
+Description:null
+
+Latitude:44.95509
+Longitude:-93.27536
+Date:Fri Feb 29 11:22:18 GMT 2008

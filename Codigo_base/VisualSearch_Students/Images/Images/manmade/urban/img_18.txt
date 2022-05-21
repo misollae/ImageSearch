@@ -1,0 +1,9 @@
+Username:91357526@N00
+URL:http://flickr.com/photos/91357526@N00/2330535020
+ID:2330535020
+Title:Moon, Clock, Contrail, and P&L Building
+Description:null
+
+Latitude:39.09783
+Longitude:-94.582664
+Date:Wed Mar 12 18:09:14 GMT 2008

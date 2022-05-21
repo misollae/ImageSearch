@@ -1,0 +1,9 @@
+Username:29368678@N00
+URL:http://flickr.com/photos/29368678@N00/2196783206
+ID:2196783206
+Title:The silver lining
+Description:null
+
+Latitude:47.606655
+Longitude:-122.333046
+Date:Fri Jan 11 17:56:12 GMT 2008

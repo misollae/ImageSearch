@@ -1,0 +1,9 @@
+Username:24222214@N07
+URL:http://flickr.com/photos/24222214@N07/2298836409
+ID:2298836409
+Title:After swimming
+Description:null
+
+Latitude:26.366938
+Longitude:-80.21026
+Date:Sun Jul 22 09:22:52 BST 2007

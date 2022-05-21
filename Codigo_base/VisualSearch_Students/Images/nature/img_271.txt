@@ -1,0 +1,9 @@
+Username:54091131@N00
+URL:http://flickr.com/photos/54091131@N00/2250676183
+ID:2250676183
+Title:Pic200704 054
+Description:null
+
+Latitude:48.409485
+Longitude:16.418348
+Date:Sat Apr 14 15:18:04 BST 2007

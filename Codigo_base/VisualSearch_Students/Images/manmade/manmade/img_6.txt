@@ -1,0 +1,9 @@
+Username:32676438@N00
+URL:http://flickr.com/photos/32676438@N00/2313474428
+ID:2313474428
+Title:Wooden Texture
+Description:null
+
+Latitude:47.47726
+Longitude:19.13799
+Date:Thu Feb 28 15:58:25 GMT 2008

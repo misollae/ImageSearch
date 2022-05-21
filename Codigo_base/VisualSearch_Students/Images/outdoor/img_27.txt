@@ -1,0 +1,9 @@
+Username:29522315@N00
+URL:http://flickr.com/photos/29522315@N00/2301992857
+ID:2301992857
+Title:DSC_1325
+Description:null
+
+Latitude:45.466976
+Longitude:6.901158
+Date:Sat Mar 01 19:12:53 GMT 2008

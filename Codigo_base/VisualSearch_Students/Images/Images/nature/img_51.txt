@@ -1,0 +1,9 @@
+Username:11327523@N03
+URL:http://flickr.com/photos/11327523@N03/2329415861
+ID:2329415861
+Title:ColorBurst
+Description:null
+
+Latitude:26.63456
+Longitude:-81.88089
+Date:Mon Mar 03 11:47:38 GMT 2008

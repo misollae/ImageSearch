@@ -1,0 +1,9 @@
+Username:22908912@N04
+URL:http://flickr.com/photos/22908912@N04/2199311302
+ID:2199311302
+Title:Montgomery Corridor
+Description:null
+
+Latitude:33.73245
+Longitude:-117.9965
+Date:Thu Jan 17 08:55:50 GMT 2008

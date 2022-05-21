@@ -1,0 +1,9 @@
+Username:8550255@N03
+URL:http://flickr.com/photos/8550255@N03/1295219865
+ID:1295219865
+Title:2007-0805WildAnimalPark (22)
+Description:null
+
+Latitude:33.101032
+Longitude:-116.999825
+Date:Sun Aug 05 16:42:25 BST 2007

@@ -1,0 +1,9 @@
+Username:98086205@N00
+URL:http://flickr.com/photos/98086205@N00/2171722297
+ID:2171722297
+Title:
+Description:null
+
+Latitude:48.839706
+Longitude:2.284399
+Date:Sun Jan 06 01:41:36 GMT 2008

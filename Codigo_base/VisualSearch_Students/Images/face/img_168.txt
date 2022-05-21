@@ -1,0 +1,9 @@
+Username:8550255@N03
+URL:http://flickr.com/photos/8550255@N03/1305129183
+ID:1305129183
+Title:2007-0727Playground (22)
+Description:null
+
+Latitude:32.858845
+Longitude:-116.92014
+Date:Fri Jul 27 17:28:58 BST 2007

@@ -1,0 +1,9 @@
+Username:68455893@N00
+URL:http://flickr.com/photos/68455893@N00/2230949393
+ID:2230949393
+Title:30/365 - Shrouded in Shadow
+Description:null
+
+Latitude:40.049603
+Longitude:-79.89826
+Date:Wed Jan 30 16:15:00 GMT 2008

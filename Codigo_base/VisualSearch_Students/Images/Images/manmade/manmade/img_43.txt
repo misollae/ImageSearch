@@ -1,0 +1,9 @@
+Username:10555054@N03
+URL:http://flickr.com/photos/10555054@N03/1409153947
+ID:1409153947
+Title:P1000526
+Description:null
+
+Latitude:40.12566
+Longitude:-81.50334
+Date:Wed Sep 19 02:31:42 BST 2007

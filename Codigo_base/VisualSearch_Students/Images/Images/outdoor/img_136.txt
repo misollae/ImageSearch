@@ -1,0 +1,9 @@
+Username:42955034@N00
+URL:http://flickr.com/photos/42955034@N00/2282456187
+ID:2282456187
+Title:Small town West Virginia
+Description:null
+
+Latitude:39.325706
+Longitude:-77.74063
+Date:Sat Jun 03 16:35:10 BST 2006

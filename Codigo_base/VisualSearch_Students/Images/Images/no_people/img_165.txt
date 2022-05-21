@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/518235518
+ID:518235518
+Title:07 Edicoletta
+Description:null
+
+Latitude:44.20376
+Longitude:8.039031
+Date:Sun May 06 11:01:49 BST 2007

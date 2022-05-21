@@ -1,0 +1,9 @@
+Username:7895519@N07
+URL:http://flickr.com/photos/7895519@N07/534157980
+ID:534157980
+Title:nightlife II (or lack thereof)
+Description:null
+
+Latitude:5.978894
+Longitude:116.0699
+Date:Wed Jun 06 23:31:29 BST 2007

@@ -1,0 +1,9 @@
+Username:26677062@N00
+URL:http://flickr.com/photos/26677062@N00/1972105068
+ID:1972105068
+Title:
+Description:null
+
+Latitude:53.32805
+Longitude:-6.263977
+Date:Sat Nov 10 15:17:41 GMT 2007

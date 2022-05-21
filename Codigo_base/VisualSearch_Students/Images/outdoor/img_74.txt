@@ -1,0 +1,9 @@
+Username:12281871@N04
+URL:http://flickr.com/photos/12281871@N04/2297283473
+ID:2297283473
+Title:Bride's Family
+Description:null
+
+Latitude:18.272844
+Longitude:-78.36753
+Date:Sat Dec 29 21:32:21 GMT 2007

@@ -1,0 +1,9 @@
+Username:11763518@N00
+URL:http://flickr.com/photos/11763518@N00/1269632270
+ID:1269632270
+Title:Northington - pew end in St John's church
+Description:null
+
+Latitude:51.13307
+Longitude:-1.194934
+Date:Sat Aug 25 12:26:09 BST 2007

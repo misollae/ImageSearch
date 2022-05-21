@@ -1,0 +1,9 @@
+Username:62252002@N00
+URL:http://flickr.com/photos/62252002@N00/2188696998
+ID:2188696998
+Title:1/10/08
+Description:null
+
+Latitude:40.725906
+Longitude:-74.00422
+Date:Thu Jan 10 10:15:08 GMT 2008

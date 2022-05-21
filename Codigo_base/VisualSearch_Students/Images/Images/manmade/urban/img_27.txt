@@ -1,0 +1,9 @@
+Username:8014397@N04
+URL:http://flickr.com/photos/8014397@N04/2328303243
+ID:2328303243
+Title:Lines
+Description:null
+
+Latitude:45.00497
+Longitude:7.665952
+Date:Sat Mar 08 09:13:58 GMT 2008

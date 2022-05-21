@@ -1,0 +1,9 @@
+Username:26808937@N00
+URL:http://flickr.com/photos/26808937@N00/2198191815
+ID:2198191815
+Title:Urban Life
+Description:null
+
+Latitude:-34.906868
+Longitude:-56.200893
+Date:Tue Jan 01 18:51:33 GMT 2008

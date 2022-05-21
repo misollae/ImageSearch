@@ -1,0 +1,9 @@
+Username:9554957@N04
+URL:http://flickr.com/photos/9554957@N04/2329545515
+ID:2329545515
+Title:John Hancock Tower and Zakim Bridge from Bunker Hill Monument
+Description:null
+
+Latitude:42.37593
+Longitude:-71.06115
+Date:Sun Mar 09 15:49:14 GMT 2008

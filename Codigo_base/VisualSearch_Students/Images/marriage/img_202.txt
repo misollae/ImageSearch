@@ -1,0 +1,9 @@
+Username:7332624@N06
+URL:http://flickr.com/photos/7332624@N06/1021783984
+ID:1021783984
+Title:Elliot and Fran
+Description:null
+
+Latitude:52.137794
+Longitude:-0.444205
+Date:Sat Aug 04 13:14:47 BST 2007

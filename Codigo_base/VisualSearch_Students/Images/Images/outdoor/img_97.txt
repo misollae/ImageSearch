@@ -1,0 +1,9 @@
+Username:42955034@N00
+URL:http://flickr.com/photos/42955034@N00/2288374430
+ID:2288374430
+Title:Atlantic City Beach, Away from the Casinos
+Description:null
+
+Latitude:39.360332
+Longitude:-74.437256
+Date:Wed Feb 23 12:31:13 GMT 2005

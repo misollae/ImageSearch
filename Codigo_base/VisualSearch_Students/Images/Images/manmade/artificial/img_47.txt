@@ -1,0 +1,9 @@
+Username:11541209@N06
+URL:http://flickr.com/photos/11541209@N06/1820502806
+ID:1820502806
+Title:Tree of Life, Disney's Animal Kingdom Park, Walt Disney World
+Description:null
+
+Latitude:28.357666
+Longitude:-81.59047
+Date:Thu Nov 01 20:15:53 GMT 2007

@@ -1,0 +1,9 @@
+Username:31849008@N00
+URL:http://flickr.com/photos/31849008@N00/2330634796
+ID:2330634796
+Title:Albert Street
+Description:null
+
+Latitude:49.89691
+Longitude:-97.140076
+Date:Wed Mar 12 23:21:34 GMT 2008

@@ -1,0 +1,9 @@
+Username:89716538@N00
+URL:http://flickr.com/photos/89716538@N00/2200249206
+ID:2200249206
+Title:Mac Murder
+Description:null
+
+Latitude:38.712135
+Longitude:-9.130234
+Date:Thu Dec 13 13:17:48 GMT 2007

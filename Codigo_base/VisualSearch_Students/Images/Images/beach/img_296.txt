@@ -1,0 +1,9 @@
+Username:58924194@N00
+URL:http://flickr.com/photos/58924194@N00/2255805748
+ID:2255805748
+Title:Ocean Park Beach, PR
+Description:null
+
+Latitude:18.454815
+Longitude:-66.05588
+Date:Thu Jan 31 17:22:57 GMT 2008

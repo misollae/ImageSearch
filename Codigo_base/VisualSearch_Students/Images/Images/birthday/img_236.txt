@@ -1,0 +1,9 @@
+Username:22613857@N05
+URL:http://flickr.com/photos/22613857@N05/2178274061
+ID:2178274061
+Title:Waldorf Flora
+Description:null
+
+Latitude:40.756714
+Longitude:-73.973015
+Date:Sun Nov 12 04:37:37 GMT 2006

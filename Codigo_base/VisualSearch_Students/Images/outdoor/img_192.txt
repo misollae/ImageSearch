@@ -1,0 +1,9 @@
+Username:12698115@N06
+URL:http://flickr.com/photos/12698115@N06/1360300837
+ID:1360300837
+Title:003; sept. 11 2007
+Description:null
+
+Latitude:42.459854
+Longitude:-75.06921
+Date:Mon Sep 10 23:21:52 BST 2007

@@ -1,0 +1,9 @@
+Username:8998833@N07
+URL:http://flickr.com/photos/8998833@N07/2327827133
+ID:2327827133
+Title:In front of Coit Tower
+Description:null
+
+Latitude:37.80268
+Longitude:-122.405846
+Date:Sat Mar 08 04:42:40 GMT 2008

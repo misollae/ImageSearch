@@ -1,0 +1,9 @@
+Username:9458273@N07
+URL:http://flickr.com/photos/9458273@N07/1247729376
+ID:1247729376
+Title:Mountain face at Zumwalt Meadow
+Description:null
+
+Latitude:36.793194
+Longitude:-118.586365
+Date:Sun Aug 26 16:04:38 BST 2007

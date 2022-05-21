@@ -1,0 +1,9 @@
+Username:24421334@N07
+URL:http://flickr.com/photos/24421334@N07/2316734479
+ID:2316734479
+Title:family-sample-8 copy
+Description:null
+
+Latitude:35.09355
+Longitude:-80.6801
+Date:Fri Mar 07 16:53:45 GMT 2008

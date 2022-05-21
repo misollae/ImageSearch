@@ -1,0 +1,9 @@
+Username:28783003@N00
+URL:http://flickr.com/photos/28783003@N00/2328895133
+ID:2328895133
+Title:Snocone Monster?
+Description:null
+
+Latitude:29.425768
+Longitude:-98.486404
+Date:Sat Mar 01 18:44:47 GMT 2008

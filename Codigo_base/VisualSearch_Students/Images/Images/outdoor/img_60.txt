@@ -1,0 +1,9 @@
+Username:9424255@N05
+URL:http://flickr.com/photos/9424255@N05/2300399534
+ID:2300399534
+Title:rough weather
+Description:null
+
+Latitude:50.07021
+Longitude:14.085219
+Date:Sat Feb 16 10:32:06 GMT 2008

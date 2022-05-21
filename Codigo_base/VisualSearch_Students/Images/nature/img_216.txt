@@ -1,0 +1,9 @@
+Username:66007423@N00
+URL:http://flickr.com/photos/66007423@N00/2247124727
+ID:2247124727
+Title:IMG_0448
+Description:null
+
+Latitude:21.886976
+Longitude:-159.50026
+Date:Wed Feb 06 04:10:31 GMT 2008

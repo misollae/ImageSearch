@@ -1,0 +1,9 @@
+Username:14485539@N00
+URL:http://flickr.com/photos/14485539@N00/2331759622
+ID:2331759622
+Title:Inscripció d'un matrimoni de lliberts, British Museum
+Description:null
+
+Latitude:51.519276
+Longitude:-0.126954
+Date:Sun Jul 30 12:32:40 BST 2006

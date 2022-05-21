@@ -1,0 +1,9 @@
+Username:9424255@N05
+URL:http://flickr.com/photos/9424255@N05/2300400894
+ID:2300400894
+Title:v outdóru v únóru
+Description:null
+
+Latitude:49.99016
+Longitude:14.069502
+Date:Sun Feb 24 14:10:25 GMT 2008

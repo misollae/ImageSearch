@@ -1,0 +1,9 @@
+Username:7486487@N08
+URL:http://flickr.com/photos/7486487@N08/939139705
+ID:939139705
+Title:A Monolith to Bureaucracy: Hadrian's wall, Black Carts Turret
+Description:null
+
+Latitude:55.03639
+Longitude:-2.184041
+Date:Sat Jul 28 17:53:05 BST 2007

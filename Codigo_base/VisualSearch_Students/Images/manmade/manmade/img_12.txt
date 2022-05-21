@@ -1,0 +1,9 @@
+Username:9098127@N06
+URL:http://flickr.com/photos/9098127@N06/2245314707
+ID:2245314707
+Title:Infinity
+Description:null
+
+Latitude:37.004875
+Longitude:-122.18496
+Date:Fri Feb 01 14:57:09 GMT 2008

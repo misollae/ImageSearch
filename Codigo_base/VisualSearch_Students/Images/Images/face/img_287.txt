@@ -1,0 +1,9 @@
+Username:31608675@N00
+URL:http://flickr.com/photos/31608675@N00/1248743507
+ID:1248743507
+Title:Camping-082607- 088-6x9
+Description:null
+
+Latitude:42.62635
+Longitude:-72.079
+Date:Sat Aug 25 20:38:08 BST 2007

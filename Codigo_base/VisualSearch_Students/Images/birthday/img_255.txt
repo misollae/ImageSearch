@@ -1,0 +1,9 @@
+Username:7669826@N03
+URL:http://flickr.com/photos/7669826@N03/2173220409
+ID:2173220409
+Title:Kasey
+Description:null
+
+Latitude:46.665585
+Longitude:-92.42523
+Date:Fri Jan 04 18:59:47 GMT 2008

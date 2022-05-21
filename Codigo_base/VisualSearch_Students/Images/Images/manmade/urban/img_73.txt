@@ -1,0 +1,9 @@
+Username:7486487@N08
+URL:http://flickr.com/photos/7486487@N08/2324444975
+ID:2324444975
+Title:Painswick, circa 11:14
+Description:null
+
+Latitude:51.785976
+Longitude:-2.195039
+Date:Sat Mar 01 11:14:54 GMT 2008

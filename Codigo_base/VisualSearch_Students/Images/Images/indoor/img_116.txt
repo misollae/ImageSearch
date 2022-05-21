@@ -1,0 +1,9 @@
+Username:34427466731@N01
+URL:http://flickr.com/photos/34427466731@N01/310068200
+ID:310068200
+Title:trin & my red socks!
+Description:null
+
+Latitude:38.760284
+Longitude:-93.44071
+Date:Thu Nov 23 18:13:37 GMT 2006

@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/521058131
+ID:521058131
+Title:52 Paco prende possesso del Musinè
+Description:null
+
+Latitude:45.113785
+Longitude:7.455382
+Date:Thu May 10 19:38:11 BST 2007

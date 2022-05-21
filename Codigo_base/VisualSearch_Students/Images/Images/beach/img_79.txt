@@ -1,0 +1,9 @@
+Username:45209995@N00
+URL:http://flickr.com/photos/45209995@N00/2329222362
+ID:2329222362
+Title:Bike Week 08
+Description:null
+
+Latitude:29.218834
+Longitude:-81.02262
+Date:Sun Mar 09 15:36:02 GMT 2008

@@ -1,0 +1,9 @@
+Username:70981241@N00
+URL:http://flickr.com/photos/70981241@N00/2231520820
+ID:2231520820
+Title:Karaoke Clique
+Description:null
+
+Latitude:47.43375
+Longitude:9.635041
+Date:Tue Jan 29 23:34:54 GMT 2008

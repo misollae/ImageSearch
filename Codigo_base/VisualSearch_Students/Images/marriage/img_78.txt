@@ -1,0 +1,9 @@
+Username:10969685@N00
+URL:http://flickr.com/photos/10969685@N00/2252834953
+ID:2252834953
+Title:Wedding Day
+Description:null
+
+Latitude:41.734043
+Longitude:-111.82852
+Date:Fri Jun 16 14:20:30 BST 1989

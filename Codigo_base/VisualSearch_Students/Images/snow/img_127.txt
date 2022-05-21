@@ -1,0 +1,9 @@
+Username:33621289@N00
+URL:http://flickr.com/photos/33621289@N00/2281922344
+ID:2281922344
+Title:Mirror Lake
+Description:null
+
+Latitude:37.74783
+Longitude:-119.54962
+Date:Sat Feb 16 14:50:07 GMT 2008

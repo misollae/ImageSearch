@@ -1,0 +1,9 @@
+Username:10591108@N02
+URL:http://flickr.com/photos/10591108@N02/2332826926
+ID:2332826926
+Title:The Dunes
+Description:null
+
+Latitude:43.54137
+Longitude:-70.32525
+Date:Thu Mar 13 14:53:38 GMT 2008

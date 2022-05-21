@@ -1,0 +1,9 @@
+Username:65919269@N00
+URL:http://flickr.com/photos/65919269@N00/557900072
+ID:557900072
+Title:Void place
+Description:null
+
+Latitude:49.835926
+Longitude:18.292418
+Date:Sat Jun 16 16:03:00 BST 2007

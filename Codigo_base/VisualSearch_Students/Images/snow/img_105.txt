@@ -1,0 +1,9 @@
+Username:12085353@N00
+URL:http://flickr.com/photos/12085353@N00/2282982682
+ID:2282982682
+Title:Ice Pool, No.3
+Description:null
+
+Latitude:39.868034
+Longitude:-79.49614
+Date:Sat Feb 16 11:25:46 GMT 2008

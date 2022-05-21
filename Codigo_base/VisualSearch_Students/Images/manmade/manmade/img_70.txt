@@ -1,0 +1,9 @@
+Username:78553262@N00
+URL:http://flickr.com/photos/78553262@N00/705321161
+ID:705321161
+Title:IMG_0218
+Description:null
+
+Latitude:33.68387
+Longitude:-117.79045
+Date:Mon Jul 02 01:25:56 BST 2007

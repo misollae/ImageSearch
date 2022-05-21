@@ -1,0 +1,9 @@
+Username:53463930@N00
+URL:http://flickr.com/photos/53463930@N00/2332182980
+ID:2332182980
+Title:evening sun 2
+Description:null
+
+Latitude:45.57559
+Longitude:6.785227
+Date:Fri Mar 07 18:38:43 GMT 2008

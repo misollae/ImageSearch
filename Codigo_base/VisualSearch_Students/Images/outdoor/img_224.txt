@@ -1,0 +1,9 @@
+Username:95727254@N00
+URL:http://flickr.com/photos/95727254@N00/1337089370
+ID:1337089370
+Title:Paws
+Description:null
+
+Latitude:41.87276
+Longitude:-71.36987
+Date:Fri Aug 31 20:42:08 BST 2007

@@ -1,0 +1,9 @@
+Username:54815908@N00
+URL:http://flickr.com/photos/54815908@N00/2331188251
+ID:2331188251
+Title:David and Valeria
+Description:null
+
+Latitude:51.50934
+Longitude:-0.137414
+Date:Thu Mar 13 00:07:25 GMT 2008

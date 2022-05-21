@@ -1,0 +1,9 @@
+Username:51345245@N00
+URL:http://flickr.com/photos/51345245@N00/484615321
+ID:484615321
+Title:rooftops
+Description:null
+
+Latitude:34.096176
+Longitude:-118.304565
+Date:Thu Apr 26 00:13:25 BST 2007

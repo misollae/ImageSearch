@@ -1,0 +1,9 @@
+Username:49353807@N00
+URL:http://flickr.com/photos/49353807@N00/2266903717
+ID:2266903717
+Title:Basketball
+Description:null
+
+Latitude:34.05415
+Longitude:-117.25833
+Date:Thu Feb 14 04:25:38 GMT 2008

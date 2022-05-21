@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/2050709579
+ID:2050709579
+Title:23 Parco Massari - ingresso
+Description:null
+
+Latitude:44.84216
+Longitude:11.623567
+Date:Sun Jul 08 13:47:42 BST 2007

@@ -1,0 +1,9 @@
+Username:56848777@N00
+URL:http://flickr.com/photos/56848777@N00/2327924169
+ID:2327924169
+Title:Genii Loci...
+Description:null
+
+Latitude:37.827606
+Longitude:23.787374
+Date:Wed Feb 14 17:19:30 GMT 2007

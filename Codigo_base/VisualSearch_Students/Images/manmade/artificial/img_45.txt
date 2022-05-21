@@ -1,0 +1,9 @@
+Username:80378665@N00
+URL:http://flickr.com/photos/80378665@N00/1932512452
+ID:1932512452
+Title:KMUTT's skyline #1
+Description:null
+
+Latitude:13.649755
+Longitude:100.49247
+Date:Wed Nov 07 10:14:15 GMT 2007

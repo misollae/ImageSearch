@@ -1,0 +1,9 @@
+Username:31093428@N00
+URL:http://flickr.com/photos/31093428@N00/302341471
+ID:302341471
+Title:Autechre Train Station
+Description:null
+
+Latitude:47.37718
+Longitude:8.539525
+Date:Tue Jun 10 21:02:22 BST 2003

@@ -1,0 +1,9 @@
+Username:64367613@N00
+URL:http://flickr.com/photos/64367613@N00/2196667875
+ID:2196667875
+Title:Kindness In The Hard Crowd
+Description:null
+
+Latitude:43.35134
+Longitude:-80.97552
+Date:Thu Nov 08 16:47:52 GMT 2007

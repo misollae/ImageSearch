@@ -1,0 +1,9 @@
+Username:14093872@N04
+URL:http://flickr.com/photos/14093872@N04/2189416774
+ID:2189416774
+Title:lumachine
+Description:null
+
+Latitude:45.97466
+Longitude:9.194333
+Date:Sun Jan 13 13:07:41 GMT 2008

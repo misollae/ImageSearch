@@ -1,0 +1,9 @@
+Username:11052807@N06
+URL:http://flickr.com/photos/11052807@N06/2199189503
+ID:2199189503
+Title:...contre champ.
+Description:null
+
+Latitude:43.597694
+Longitude:1.441102
+Date:Thu Jan 17 17:13:43 GMT 2008

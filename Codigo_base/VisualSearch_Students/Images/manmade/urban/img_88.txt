@@ -1,0 +1,9 @@
+Username:26398540@N00
+URL:http://flickr.com/photos/26398540@N00/2323086749
+ID:2323086749
+Title:Craig
+Description:null
+
+Latitude:50.807243
+Longitude:-1.128024
+Date:Sat Jan 14 05:25:58 GMT 2006

@@ -1,0 +1,9 @@
+Username:19217720@N00
+URL:http://flickr.com/photos/19217720@N00/1029805840
+ID:1029805840
+Title:DSC09680
+Description:null
+
+Latitude:42.60333
+Longitude:-71.348656
+Date:Sat Aug 04 19:21:04 BST 2007

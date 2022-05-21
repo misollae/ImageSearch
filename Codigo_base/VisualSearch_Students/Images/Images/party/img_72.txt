@@ -1,0 +1,9 @@
+Username:85543821@N00
+URL:http://flickr.com/photos/85543821@N00/2337878522
+ID:2337878522
+Title:its the asphalt
+Description:null
+
+Latitude:35.08468
+Longitude:-106.65231
+Date:Sat Mar 15 18:04:19 GMT 2008

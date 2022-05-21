@@ -1,0 +1,9 @@
+Username:42955034@N00
+URL:http://flickr.com/photos/42955034@N00/2282703456
+ID:2282703456
+Title:4th of July
+Description:null
+
+Latitude:39.041584
+Longitude:-77.39974
+Date:Sat Jul 01 21:32:44 BST 2006

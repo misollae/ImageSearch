@@ -1,0 +1,9 @@
+Username:8448875@N08
+URL:http://flickr.com/photos/8448875@N08/2198306784
+ID:2198306784
+Title:Trevi
+Description:null
+
+Latitude:41.903297
+Longitude:12.489491
+Date:Sat Feb 18 00:56:31 GMT 2006

@@ -1,0 +1,9 @@
+Username:70382627@N00
+URL:http://flickr.com/photos/70382627@N00/2174672348
+ID:2174672348
+Title:Friends know what to get me
+Description:null
+
+Latitude:37.79406
+Longitude:-122.2686
+Date:Sun Jan 06 14:11:54 GMT 2008

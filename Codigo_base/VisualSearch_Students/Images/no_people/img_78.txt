@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/863788813
+ID:863788813
+Title:47 Imitando Auriga Fenice
+Description:null
+
+Latitude:44.4063
+Longitude:8.939228
+Date:Sun Jun 10 19:58:06 BST 2007

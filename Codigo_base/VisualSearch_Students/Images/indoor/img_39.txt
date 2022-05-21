@@ -1,0 +1,9 @@
+Username:23048656@N07
+URL:http://flickr.com/photos/23048656@N07/2288943547
+ID:2288943547
+Title:IMG_8545
+Description:null
+
+Latitude:50.540833
+Longitude:4.459429
+Date:Wed Feb 20 22:29:07 GMT 2008

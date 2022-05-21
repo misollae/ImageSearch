@@ -1,0 +1,9 @@
+Username:89716538@N00
+URL:http://flickr.com/photos/89716538@N00/2199403639
+ID:2199403639
+Title:Parasols
+Description:null
+
+Latitude:38.73222
+Longitude:-9.15108
+Date:Sat Dec 15 10:54:58 GMT 2007

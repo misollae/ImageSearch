@@ -1,0 +1,9 @@
+Username:8998833@N07
+URL:http://flickr.com/photos/8998833@N07/2326374462
+ID:2326374462
+Title:Waiting
+Description:null
+
+Latitude:37.79606
+Longitude:-122.40672
+Date:Sat Mar 08 02:37:46 GMT 2008

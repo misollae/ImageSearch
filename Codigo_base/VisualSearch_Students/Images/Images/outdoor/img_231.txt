@@ -1,0 +1,9 @@
+Username:56965175@N00
+URL:http://flickr.com/photos/56965175@N00/1332383602
+ID:1332383602
+Title:Outdoor chess
+Description:null
+
+Latitude:35.230618
+Longitude:23.683289
+Date:Sat Aug 11 20:51:54 BST 2007

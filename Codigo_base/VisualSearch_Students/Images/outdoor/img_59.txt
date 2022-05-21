@@ -1,0 +1,9 @@
+Username:9424255@N05
+URL:http://flickr.com/photos/9424255@N05/2299605783
+ID:2299605783
+Title:ivan zasažen vysokým nap?tím
+Description:null
+
+Latitude:50.07935
+Longitude:14.430405
+Date:Fri Feb 22 00:38:04 GMT 2008

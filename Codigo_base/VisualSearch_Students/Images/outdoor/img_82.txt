@@ -1,0 +1,9 @@
+Username:57085766@N00
+URL:http://flickr.com/photos/57085766@N00/2294941723
+ID:2294941723
+Title:cowpeople
+Description:null
+
+Latitude:34.145954
+Longitude:-118.15004
+Date:Tue Jan 01 08:32:46 GMT 2008

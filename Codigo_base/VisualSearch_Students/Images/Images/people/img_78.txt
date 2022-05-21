@@ -1,0 +1,9 @@
+Username:21318269@N05
+URL:http://flickr.com/photos/21318269@N05/2304409609
+ID:2304409609
+Title:Manèges , fête de village dans la Somme
+Description:null
+
+Latitude:50.108116
+Longitude:2.334229
+Date:Fri Jun 01 00:00:00 BST 2001

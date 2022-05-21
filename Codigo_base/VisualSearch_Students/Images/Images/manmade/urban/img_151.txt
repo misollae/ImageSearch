@@ -1,0 +1,9 @@
+Username:89716538@N00
+URL:http://flickr.com/photos/89716538@N00/2199382519
+ID:2199382519
+Title:Monument in Edward VII Park
+Description:null
+
+Latitude:38.730343
+Longitude:-9.154728
+Date:Wed Dec 12 17:52:01 GMT 2007

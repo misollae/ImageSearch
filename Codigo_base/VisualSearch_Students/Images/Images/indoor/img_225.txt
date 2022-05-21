@@ -1,0 +1,9 @@
+Username:22475604@N00
+URL:http://flickr.com/photos/22475604@N00/306514749
+ID:306514749
+Title:IMG_1304
+Description:null
+
+Latitude:52.217445
+Longitude:0.12174
+Date:Sun Nov 26 01:43:29 GMT 2006

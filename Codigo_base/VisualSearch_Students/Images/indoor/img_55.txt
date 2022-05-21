@@ -1,0 +1,9 @@
+Username:24183489@N00
+URL:http://flickr.com/photos/24183489@N00/2272869030
+ID:2272869030
+Title:Cathédrale de Bordeaux
+Description:null
+
+Latitude:44.83774
+Longitude:-0.577801
+Date:Sat Nov 03 13:49:39 GMT 2007

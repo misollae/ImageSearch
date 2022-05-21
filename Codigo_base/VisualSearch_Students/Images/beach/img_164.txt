@@ -1,0 +1,9 @@
+Username:22765078@N07
+URL:http://flickr.com/photos/22765078@N07/2255253673
+ID:2255253673
+Title:Chercheur d'or
+Description:null
+
+Latitude:43.69502
+Longitude:7.272831
+Date:Sun Feb 10 21:52:59 GMT 2008

@@ -1,0 +1,9 @@
+Username:9424255@N05
+URL:http://flickr.com/photos/9424255@N05/2299603913
+ID:2299603913
+Title:geov?z škodillac
+Description:null
+
+Latitude:50.096046
+Longitude:14.40443
+Date:Tue Feb 12 21:41:59 GMT 2008

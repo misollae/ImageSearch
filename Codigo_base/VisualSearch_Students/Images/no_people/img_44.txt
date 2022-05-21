@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/2047840729
+ID:2047840729
+Title:29 Cortile della pinacoteca
+Description:null
+
+Latitude:44.84188
+Longitude:11.621035
+Date:Sun Jul 08 18:28:59 BST 2007

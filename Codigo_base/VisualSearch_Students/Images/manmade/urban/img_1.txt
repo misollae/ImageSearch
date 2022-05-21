@@ -1,0 +1,9 @@
+Username:59984889@N00
+URL:http://flickr.com/photos/59984889@N00/2331058811
+ID:2331058811
+Title:Spatial Planning
+Description:null
+
+Latitude:52.080418
+Longitude:4.323992
+Date:Thu Feb 14 11:37:12 GMT 2008

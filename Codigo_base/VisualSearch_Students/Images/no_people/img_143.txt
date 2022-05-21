@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/521020944
+ID:521020944
+Title:18 Sentè per la fontan-a dl Merlo
+Description:null
+
+Latitude:45.10696
+Longitude:7.473224
+Date:Thu May 10 18:25:40 BST 2007

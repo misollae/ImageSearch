@@ -1,0 +1,9 @@
+Username:9424255@N05
+URL:http://flickr.com/photos/9424255@N05/2299606163
+ID:2299606163
+Title:p?i výstupu na kopec
+Description:null
+
+Latitude:49.990097
+Longitude:14.069561
+Date:Sun Feb 24 14:09:09 GMT 2008

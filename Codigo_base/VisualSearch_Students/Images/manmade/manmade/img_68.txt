@@ -1,0 +1,9 @@
+Username:78553262@N00
+URL:http://flickr.com/photos/78553262@N00/705320731
+ID:705320731
+Title:IMG_0214
+Description:null
+
+Latitude:33.68387
+Longitude:-117.79045
+Date:Mon Jul 02 01:25:19 BST 2007

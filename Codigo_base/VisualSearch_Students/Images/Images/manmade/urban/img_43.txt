@@ -1,0 +1,9 @@
+Username:24294955@N03
+URL:http://flickr.com/photos/24294955@N03/2326682349
+ID:2326682349
+Title:Los Angeles
+Description:null
+
+Latitude:34.03007
+Longitude:-118.47852
+Date:Fri Aug 17 17:13:29 BST 2007

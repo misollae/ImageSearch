@@ -1,0 +1,9 @@
+Username:8853508@N05
+URL:http://flickr.com/photos/8853508@N05/1356689296
+ID:1356689296
+Title:Metallic cloud
+Description:null
+
+Latitude:60.445965
+Longitude:22.25991
+Date:Sun Sep 09 13:40:37 BST 2007

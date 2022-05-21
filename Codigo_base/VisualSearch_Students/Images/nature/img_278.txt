@@ -1,0 +1,9 @@
+Username:29498428@N00
+URL:http://flickr.com/photos/29498428@N00/2250478037
+ID:2250478037
+Title:MT
+Description:null
+
+Latitude:40.83243
+Longitude:-74.187195
+Date:Fri Jan 18 12:49:59 GMT 2008

@@ -1,0 +1,9 @@
+Username:15581442@N00
+URL:http://flickr.com/photos/15581442@N00/1311170280
+ID:1311170280
+Title:Please, don't shoo fly
+Description:null
+
+Latitude:42.162365
+Longitude:-83.78691
+Date:Sun Sep 02 18:30:02 BST 2007

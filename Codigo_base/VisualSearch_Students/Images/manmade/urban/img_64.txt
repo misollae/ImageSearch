@@ -1,0 +1,9 @@
+Username:7200765@N08
+URL:http://flickr.com/photos/7200765@N08/2325299289
+ID:2325299289
+Title:Uptown Charlotte - Fresco
+Description:null
+
+Latitude:35.21048
+Longitude:-80.86063
+Date:Mon Mar 10 18:46:47 GMT 2008

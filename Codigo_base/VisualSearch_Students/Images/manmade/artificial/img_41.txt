@@ -1,0 +1,9 @@
+Username:64977319@N00
+URL:http://flickr.com/photos/64977319@N00/2067450936
+ID:2067450936
+Title:Fail
+Description:null
+
+Latitude:40.152454
+Longitude:-82.93859
+Date:Thu Nov 22 13:08:37 GMT 2007

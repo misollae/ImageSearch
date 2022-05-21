@@ -1,0 +1,9 @@
+Username:58924194@N00
+URL:http://flickr.com/photos/58924194@N00/2255001703
+ID:2255001703
+Title:Numero Uno Beach House - Ocean Park Beach
+Description:null
+
+Latitude:18.45485
+Longitude:-66.05519
+Date:Thu Jan 31 16:58:14 GMT 2008

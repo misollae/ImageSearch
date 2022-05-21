@@ -1,0 +1,9 @@
+Username:21455786@N02
+URL:http://flickr.com/photos/21455786@N02/2159581687
+ID:2159581687
+Title:
+Description:null
+
+Latitude:48.891872
+Longitude:2.346332
+Date:Thu Dec 07 10:58:59 GMT 2006

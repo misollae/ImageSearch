@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/827222443
+ID:827222443
+Title:11 Campane
+Description:null
+
+Latitude:45.09308
+Longitude:7.662137
+Date:Tue May 15 16:51:09 BST 2007

@@ -1,0 +1,9 @@
+Username:48973657@N00
+URL:http://flickr.com/photos/48973657@N00/2233365505
+ID:2233365505
+Title:Dodgeball / 20080130.10D.47721 / SML
+Description:null
+
+Latitude:40.72421
+Longitude:-73.995255
+Date:Wed Jan 30 18:37:10 GMT 2008

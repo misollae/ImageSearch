@@ -1,0 +1,9 @@
+Username:37434451@N00
+URL:http://flickr.com/photos/37434451@N00/2327471099
+ID:2327471099
+Title:Tracks in the Snow
+Description:null
+
+Latitude:41.61318
+Longitude:-83.58423
+Date:Tue Mar 11 22:37:55 GMT 2008

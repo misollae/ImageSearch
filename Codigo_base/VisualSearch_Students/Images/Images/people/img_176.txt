@@ -1,0 +1,9 @@
+Username:21641566@N03
+URL:http://flickr.com/photos/21641566@N03/2234311744
+ID:2234311744
+Title:Waiting
+Description:null
+
+Latitude:-6.194016
+Longitude:106.821625
+Date:Tue Jul 31 13:19:43 BST 2007

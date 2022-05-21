@@ -1,0 +1,9 @@
+Username:53463930@N00
+URL:http://flickr.com/photos/53463930@N00/2329123327
+ID:2329123327
+Title:alpine sky
+Description:null
+
+Latitude:45.57559
+Longitude:6.785227
+Date:Sun Mar 02 17:57:11 GMT 2008

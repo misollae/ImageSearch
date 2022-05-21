@@ -1,0 +1,9 @@
+Username:58924194@N00
+URL:http://flickr.com/photos/58924194@N00/2255010261
+ID:2255010261
+Title:Viejo and Nuevo Condado
+Description:null
+
+Latitude:18.451786
+Longitude:-66.0617
+Date:Thu Jan 31 17:39:41 GMT 2008

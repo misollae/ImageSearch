@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/519457961
+ID:519457961
+Title:03 Il ponte per la Gran Madre e Superga
+Description:null
+
+Latitude:45.06252
+Longitude:7.694694
+Date:Wed May 09 22:03:33 BST 2007

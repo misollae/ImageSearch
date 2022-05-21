@@ -1,0 +1,9 @@
+Username:8369605@N05
+URL:http://flickr.com/photos/8369605@N05/2326919989
+ID:2326919989
+Title:Leash and Poop?
+Description:null
+
+Latitude:47.921295
+Longitude:-122.2931
+Date:Tue Mar 11 11:26:46 GMT 2008

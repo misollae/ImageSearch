@@ -1,0 +1,9 @@
+Username:58446476@N00
+URL:http://flickr.com/photos/58446476@N00/2038678438
+ID:2038678438
+Title:Terminal Station - Lisboa
+Description:null
+
+Latitude:38.714497
+Longitude:-9.140517
+Date:Fri Nov 16 19:59:41 GMT 2007

@@ -1,0 +1,9 @@
+Username:30379316@N00
+URL:http://flickr.com/photos/30379316@N00/606838480
+ID:606838480
+Title:Real birds in artificial rainforest
+Description:null
+
+Latitude:34.017025
+Longitude:-118.28879
+Date:Fri Jun 01 20:15:02 BST 2007

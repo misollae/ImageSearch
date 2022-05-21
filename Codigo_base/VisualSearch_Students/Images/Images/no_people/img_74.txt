@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/876921662
+ID:876921662
+Title:5 mesi sulla stazione spaziale, se ho capito bene...
+Description:null
+
+Latitude:44.12239
+Longitude:8.254262
+Date:Sun Jun 17 21:15:08 BST 2007

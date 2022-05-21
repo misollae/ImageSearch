@@ -1,0 +1,9 @@
+Username:70505071@N00
+URL:http://flickr.com/photos/70505071@N00/2195339284
+ID:2195339284
+Title:Anish Kapoor's "Cloud Gate," Chicago, January 2008
+Description:null
+
+Latitude:41.88272
+Longitude:-87.62333
+Date:Sat Jan 12 15:36:31 GMT 2008

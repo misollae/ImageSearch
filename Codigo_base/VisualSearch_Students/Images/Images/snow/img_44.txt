@@ -1,0 +1,9 @@
+Username:81808814@N00
+URL:http://flickr.com/photos/81808814@N00/2331105390
+ID:2331105390
+Title:Der Märchenwald
+Description:null
+
+Latitude:48.73431
+Longitude:10.014868
+Date:Sat Dec 29 07:41:35 GMT 2007

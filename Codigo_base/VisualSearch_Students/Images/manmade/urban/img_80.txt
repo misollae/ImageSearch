@@ -1,0 +1,9 @@
+Username:9048663@N05
+URL:http://flickr.com/photos/9048663@N05/2325009318
+ID:2325009318
+Title:BITC 2163
+Description:null
+
+Latitude:30.225588
+Longitude:-92.01643
+Date:Sat Mar 08 16:25:15 GMT 2008

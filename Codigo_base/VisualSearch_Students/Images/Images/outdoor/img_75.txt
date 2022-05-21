@@ -1,0 +1,9 @@
+Username:12281871@N04
+URL:http://flickr.com/photos/12281871@N04/2297280327
+ID:2297280327
+Title:First Kiss
+Description:null
+
+Latitude:18.272799
+Longitude:-78.36762
+Date:Sat Dec 29 21:28:07 GMT 2007

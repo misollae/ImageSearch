@@ -1,0 +1,9 @@
+Username:76414778@N00
+URL:http://flickr.com/photos/76414778@N00/2283125854
+ID:2283125854
+Title:tree shadow
+Description:null
+
+Latitude:39.1567
+Longitude:-75.52037
+Date:Thu Feb 21 17:35:05 GMT 2008

@@ -1,0 +1,9 @@
+Username:34427466731@N01
+URL:http://flickr.com/photos/34427466731@N01/306080810
+ID:306080810
+Title:early morning on the farm
+Description:null
+
+Latitude:38.760284
+Longitude:-93.44071
+Date:Thu Nov 23 09:26:23 GMT 2006

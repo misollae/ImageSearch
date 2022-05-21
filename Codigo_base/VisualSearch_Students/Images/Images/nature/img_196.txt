@@ -1,0 +1,9 @@
+Username:7862936@N08
+URL:http://flickr.com/photos/7862936@N08/2249334560
+ID:2249334560
+Title:Le Chêne Andreau
+Description:null
+
+Latitude:49.278835
+Longitude:2.576551
+Date:Thu Feb 07 21:20:54 GMT 2008

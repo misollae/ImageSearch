@@ -1,0 +1,9 @@
+Username:12179651@N07
+URL:http://flickr.com/photos/12179651@N07/1306412552
+ID:1306412552
+Title:Court Courtiers
+Description:null
+
+Latitude:39.0008
+Longitude:-76.58396
+Date:Sun Sep 02 17:05:22 BST 2007

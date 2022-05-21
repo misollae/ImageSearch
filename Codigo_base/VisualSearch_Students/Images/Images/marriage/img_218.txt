@@ -1,0 +1,9 @@
+Username:31982878@N00
+URL:http://flickr.com/photos/31982878@N00/1002464538
+ID:1002464538
+Title:20070630 : Wedding Dinner
+Description:null
+
+Latitude:3.070881
+Longitude:101.60899
+Date:Sat Jun 30 18:29:18 BST 2007

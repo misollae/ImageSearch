@@ -1,0 +1,9 @@
+Username:42034882@N00
+URL:http://flickr.com/photos/42034882@N00/1290964345
+ID:1290964345
+Title:Eye to Eye
+Description:null
+
+Latitude:39.93028
+Longitude:-105.29373
+Date:Fri Aug 31 18:50:01 BST 2007

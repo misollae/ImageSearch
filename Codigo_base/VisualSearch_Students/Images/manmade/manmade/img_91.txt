@@ -1,0 +1,9 @@
+Username:37978719@N00
+URL:http://flickr.com/photos/37978719@N00/490722103
+ID:490722103
+Title:rocky river
+Description:null
+
+Latitude:41.481213
+Longitude:-81.831955
+Date:Fri May 05 20:41:25 BST 2006

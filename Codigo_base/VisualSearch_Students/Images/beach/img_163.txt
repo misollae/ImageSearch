@@ -1,0 +1,9 @@
+Username:23723860@N08
+URL:http://flickr.com/photos/23723860@N08/2255299867
+ID:2255299867
+Title:Against the Tide II
+Description:null
+
+Latitude:-33.918816
+Longitude:151.25934
+Date:Mon Apr 02 15:28:58 BST 2007

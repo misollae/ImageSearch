@@ -1,0 +1,9 @@
+Username:9424255@N05
+URL:http://flickr.com/photos/9424255@N05/2299604669
+ID:2299604669
+Title:eaten signs
+Description:null
+
+Latitude:50.058792
+Longitude:14.082836
+Date:Sat Feb 16 10:05:12 GMT 2008

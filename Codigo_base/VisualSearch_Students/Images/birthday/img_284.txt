@@ -1,0 +1,9 @@
+Username:96414716@N00
+URL:http://flickr.com/photos/96414716@N00/2172170961
+ID:2172170961
+Title:Me and Derrick
+Description:null
+
+Latitude:36.15172
+Longitude:-86.803276
+Date:Sun Jan 06 01:49:19 GMT 2008

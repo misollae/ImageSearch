@@ -1,0 +1,9 @@
+Username:12560202@N04
+URL:http://flickr.com/photos/12560202@N04/1302420607
+ID:1302420607
+Title:Face of Lokesvara
+Description:null
+
+Latitude:13.441272
+Longitude:103.85899
+Date:Sat Aug 18 14:32:09 BST 2007

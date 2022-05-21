@@ -1,0 +1,9 @@
+Username:68583628@N00
+URL:http://flickr.com/photos/68583628@N00/2329786516
+ID:2329786516
+Title:Lahaina Sunset
+Description:null
+
+Latitude:20.890429
+Longitude:-156.68494
+Date:Wed Sep 29 18:12:56 BST 2004

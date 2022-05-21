@@ -1,0 +1,9 @@
+Username:10890485@N03
+URL:http://flickr.com/photos/10890485@N03/2251819922
+ID:2251819922
+Title:Sunset over Lake Louisa
+Description:null
+
+Latitude:28.453674
+Longitude:-81.727196
+Date:Mon Feb 04 18:40:51 GMT 2008

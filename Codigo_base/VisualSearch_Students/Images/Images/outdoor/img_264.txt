@@ -1,0 +1,9 @@
+Username:89618826@N00
+URL:http://flickr.com/photos/89618826@N00/1317951164
+ID:1317951164
+Title:Lick Fire
+Description:null
+
+Latitude:37.14019
+Longitude:-121.64695
+Date:Mon Sep 03 19:26:03 BST 2007

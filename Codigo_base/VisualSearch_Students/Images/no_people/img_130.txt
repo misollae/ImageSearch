@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/521074475
+ID:521074475
+Title:28 La cima si avvicina
+Description:null
+
+Latitude:45.10874
+Longitude:7.466154
+Date:Thu May 10 18:42:41 BST 2007

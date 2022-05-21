@@ -1,0 +1,9 @@
+Username:29498428@N00
+URL:http://flickr.com/photos/29498428@N00/2249653990
+ID:2249653990
+Title:Sun Over a Field of Melting Snow
+Description:null
+
+Latitude:40.83243
+Longitude:-74.187195
+Date:Fri Jan 18 12:52:46 GMT 2008

@@ -1,0 +1,9 @@
+Username:24602720@N04
+URL:http://flickr.com/photos/24602720@N04/2330328680
+ID:2330328680
+Title:Bart, Channa and Guido
+Description:null
+
+Latitude:52.12309
+Longitude:5.0858
+Date:Thu Feb 14 01:49:08 GMT 2008

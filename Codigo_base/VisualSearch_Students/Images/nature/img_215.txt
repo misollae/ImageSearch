@@ -1,0 +1,9 @@
+Username:18590474@N06
+URL:http://flickr.com/photos/18590474@N06/2247147813
+ID:2247147813
+Title:Newburyport-8550
+Description:null
+
+Latitude:42.81379
+Longitude:-70.87299
+Date:Mon Jan 21 15:26:55 GMT 2008

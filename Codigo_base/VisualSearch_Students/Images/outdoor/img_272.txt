@@ -1,0 +1,9 @@
+Username:12179651@N07
+URL:http://flickr.com/photos/12179651@N07/1312803022
+ID:1312803022
+Title:Forest canopy above most of the faire
+Description:null
+
+Latitude:39.0008
+Longitude:-76.58396
+Date:Sat Sep 01 15:36:17 BST 2007

@@ -1,0 +1,9 @@
+Username:51345245@N00
+URL:http://flickr.com/photos/51345245@N00/429503540
+ID:429503540
+Title:cups
+Description:null
+
+Latitude:38.96763
+Longitude:-95.23514
+Date:Tue Mar 20 08:22:35 GMT 2007

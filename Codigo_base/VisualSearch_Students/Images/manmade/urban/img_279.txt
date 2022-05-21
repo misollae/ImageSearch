@@ -1,0 +1,9 @@
+Username:44378953@N00
+URL:http://flickr.com/photos/44378953@N00/2194110200
+ID:2194110200
+Title:Street scene, Hanoi
+Description:null
+
+Latitude:21.029675
+Longitude:105.8491
+Date:Fri Dec 21 11:22:45 GMT 2007

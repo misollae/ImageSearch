@@ -1,0 +1,9 @@
+Username:95104082@N00
+URL:http://flickr.com/photos/95104082@N00/2283290714
+ID:2283290714
+Title:Snow Sculpture
+Description:null
+
+Latitude:53.527676
+Longitude:-113.54974
+Date:Sat Feb 16 13:39:39 GMT 2008

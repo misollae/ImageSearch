@@ -1,0 +1,9 @@
+Username:37978719@N00
+URL:http://flickr.com/photos/37978719@N00/490708546
+ID:490708546
+Title:golf dome
+Description:null
+
+Latitude:41.4089
+Longitude:-81.62089
+Date:Mon May 08 19:50:37 BST 2006

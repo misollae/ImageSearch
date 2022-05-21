@@ -1,0 +1,9 @@
+Username:37434451@N00
+URL:http://flickr.com/photos/37434451@N00/2327472757
+ID:2327472757
+Title:Evergreen and white
+Description:null
+
+Latitude:41.604412
+Longitude:-83.59392
+Date:Tue Mar 11 22:38:52 GMT 2008

@@ -1,0 +1,9 @@
+Username:34976104@N00
+URL:http://flickr.com/photos/34976104@N00/2282723396
+ID:2282723396
+Title:Sign
+Description:null
+
+Latitude:52.203808
+Longitude:0.118435
+Date:Thu Feb 08 09:35:51 GMT 2007

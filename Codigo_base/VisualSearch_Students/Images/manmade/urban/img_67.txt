@@ -1,0 +1,9 @@
+Username:7200765@N08
+URL:http://flickr.com/photos/7200765@N08/2325287505
+ID:2325287505
+Title:Uptown Charlotte - Portrait
+Description:null
+
+Latitude:35.220985
+Longitude:-80.82635
+Date:Mon Mar 10 19:20:27 GMT 2008

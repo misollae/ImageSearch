@@ -1,0 +1,9 @@
+Username:15518699@N05
+URL:http://flickr.com/photos/15518699@N05/2324466903
+ID:2324466903
+Title:_AAA0869 i1.jpg
+Description:null
+
+Latitude:-22.936293
+Longitude:-43.042885
+Date:Mon Nov 05 09:49:42 GMT 2007

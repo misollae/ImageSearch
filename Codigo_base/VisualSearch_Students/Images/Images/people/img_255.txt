@@ -1,0 +1,9 @@
+Username:70981241@N00
+URL:http://flickr.com/photos/70981241@N00/2230730981
+ID:2230730981
+Title:Red Rose
+Description:null
+
+Latitude:47.43375
+Longitude:9.635041
+Date:Wed Jan 30 00:24:43 GMT 2008

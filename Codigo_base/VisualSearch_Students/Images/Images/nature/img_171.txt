@@ -1,0 +1,9 @@
+Username:16271841@N05
+URL:http://flickr.com/photos/16271841@N05/2250931844
+ID:2250931844
+Title:Winter hedgecutting in the lane
+Description:null
+
+Latitude:53.205757
+Longitude:-4.38746
+Date:Thu Feb 07 10:59:12 GMT 2008

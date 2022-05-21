@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/1336000161
+ID:1336000161
+Title:01 Scalinata Rossoblù
+Description:null
+
+Latitude:44.414158
+Longitude:8.948053
+Date:Sun Jun 24 09:00:45 BST 2007

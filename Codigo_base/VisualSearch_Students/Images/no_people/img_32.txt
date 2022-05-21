@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/2050788211
+ID:2050788211
+Title:27 Un'oasi di parco
+Description:null
+
+Latitude:44.842484
+Longitude:11.623642
+Date:Sun Jul 08 18:17:57 BST 2007

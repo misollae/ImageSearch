@@ -1,0 +1,9 @@
+Username:99872288@N00
+URL:http://flickr.com/photos/99872288@N00/2304948783
+ID:2304948783
+Title:Tango?
+Description:null
+
+Latitude:38.70872
+Longitude:-9.136888
+Date:Sun Mar 02 15:55:32 GMT 2008

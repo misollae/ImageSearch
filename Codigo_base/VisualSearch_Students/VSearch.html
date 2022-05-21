@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="PCM Final Project - Visual Search">
+    <meta name="keywords" content="HTML5, CSS, JavaScript">
+    <meta name="author" content="Rui Jesus">
+    <meta charset="UTF-8">
+    <title>PCM Final ⁂ Visual Search</title>
+    <link rel="stylesheet" href="./css/VSearchStyle.css">
+    <script src="./js/Image_Processing.js"></script>
+    <script src="./js/XML_Database.js"></script>
+    <script src="./js/ISearchEngine.js"></script>
+    <script src="./js/ISearchEngine_Manager.js"></script>
+    <script src="https://kit.fontawesome.com/b9cceb484a.js" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+</head>
+<body>
+<header id="header"></header>
+
+<section id="query">
+
+</section>
+
+<section id="tools">
+
+</section>
+
+<section id="visualizacao"  >
+    <canvas id="canvas" width="1500" height="950">
+        Your browser doesn't recognize the canvas element
+    </canvas>
+</section>
+
+<div id="upper-menu">
+    <svg width="1529" height="90">
+        <rect width="1529" height="90"/>
+    </svg>
+</div>
+
+
+<header id="header1" onclick="app.mainMenu()">LD Visual Search <i class="fas fa-images"></i> </i></header>
+<div id="main-page" class="search-box">
+    
+    
+    <input class="color-btn" id="color-btn" type="checkbox" href="#"></input>
+    
+    <input type="text" id="textfield" class="search-input" placeholder="What are you looking for?" autocomplete="off">
+    <a class="search-btn" id="lupa" href="#" onclick="app.searchKeywords('search');"><i class="fas fa-search"></i></a>
+    
+    <a href="#" class="category-choice category-1" onclick="app.writeKeyword('Beach');">Beach</a>
+    <a href="#" class="category-choice category-2" onclick = "app.writeKeyword('Birthday')">Birthday</a>
+    <a href="#" class="category-choice category-3" onclick = "app.writeKeyword('Face')">Face</a>
+    <a href="#" class="category-choice category-4" onclick = "app.writeKeyword('Indoor')">Indoor</a>
+    <a href="#" class="category-choice category-5" onclick = "app.writeKeyword('Manmade')">Manmade</a>
+    <a href="#" class="category-choice category-6" onclick = "app.writeKeyword('Marriage')">Marriage</a>
+    <a href="#" class="category-choice category-7" onclick = "app.writeKeyword('Nature')">Nature</a>
+    <a href="#" class="category-choice category-8" onclick = "app.writeKeyword('No People')">No People</a>
+    <a href="#" class="category-choice category-9" onclick = "app.writeKeyword('Outdoor')">Outdoor</a>
+    <a href="#" class="category-choice category-10" onclick = "app.writeKeyword('Party')">Party</a>
+    <a href="#" class="category-choice category-11" onclick = "app.writeKeyword('People')">People</a>
+    <a href="#" class="category-choice category-12" onclick = "app.writeKeyword('Snow')">Snow</a>
+    <a href="#" class="category-choice category-13" onclick = "app.writeKeyword('Artificial')">Artificial</a>
+    <a href="#" class="category-choice category-14" onclick = "app.writeKeyword('Urban')">Urban</a>
+
+    
+    <label class="color-btn-icon" id="palete" for="color-btn"><i class="fas fa-palette"></i></label>
+    
+    
+    <a href="#" class="color-choice item-1" id="item-1" onclick = "app.searchColor('search', 'red')"></a>
+    <a href="#" class="color-choice item-2" id="item-2" onclick = "app.searchColor('search', 'orange')"></a>
+    <a href="#" class="color-choice item-3" id="item-3" onclick = "app.searchColor('search', 'yellow')"></a>
+    <a href="#" class="color-choice item-4" id="item-4" onclick = "app.searchColor('search', 'green')"></a>
+    <a href="#" class="color-choice item-5" id="item-5" onclick = "app.searchColor('search', 'Blue-green')"></a>
+    <a href="#" class="color-choice item-6" id="item-6" onclick = "app.searchColor('search', 'blue')"></a>
+    <a href="#" class="color-choice item-7" id="item-7" onclick = "app.searchColor('search', 'purple')"></a>
+    <a href="#" class="color-choice item-8" id="item-8" onclick = "app.searchColor('search', 'pink')"></a>
+    <a href="#" class="color-choice item-9" id="item-9" onclick = "app.searchColor('search', 'white')"></a>
+    <a href="#" class="color-choice item-10" id="item-10" onclick = "app.searchColor('search', 'grey')"></a>
+    <a href="#" class="color-choice item-11" id="item-11" onclick = "app.searchColor('search', 'brown')"></a>
+    <a href="#" class="color-choice item-12" id="item-12" onclick = "app.searchColor('search', 'black')"></a>
+    
+    <a href="#" class="upper-color-choice upper-item-1" id="upper-item-1" onclick = "app.searchColor('search', 'white')"></a>
+    <a href="#" class="upper-color-choice upper-item-2" id="upper-item-2" onclick = "app.searchColor('search', 'yellow')"></a>
+    <a href="#" class="upper-color-choice upper-item-3" id="upper-item-3" onclick = "app.searchColor('search', 'orange')"></a>
+    <a href="#" class="upper-color-choice upper-item-4" id="upper-item-4" onclick = "app.searchColor('search', 'red')"></a>
+    <a href="#" class="upper-color-choice upper-item-5" id="upper-item-5" onclick = "app.searchColor('search', 'pink')"></a>
+    <a href="#" class="upper-color-choice upper-item-6" id="upper-item-6" onclick = "app.searchColor('search', 'purple')"></a>
+    <a href="#" class="upper-color-choice upper-item-7" id="upper-item-7" onclick = "app.searchColor('search', 'blue')"></a>
+    <a href="#" class="upper-color-choice upper-item-8" id="upper-item-8" onclick = "app.searchColor('search', 'Blue-green')"></a>
+    <a href="#" class="upper-color-choice upper-item-9" id="upper-item-9" onclick = "app.searchColor('search', 'green')"></a>
+    <a href="#" class="upper-color-choice upper-item-10" id="upper-item-10" onclick = "app.searchColor('search', 'grey')"></a>
+    <a href="#" class="upper-color-choice upper-item-11" id="upper-item-11" onclick = "app.searchColor('search', 'brown')"></a>
+    <a href="#" class="upper-color-choice upper-item-12" id="upper-item-12" onclick = "app.searchColor('search', 'black')"></a>
+
+   
+</div>
+
+<div id="loadingpage" class="loading">
+    <a class="loader"></a>
+</div>
+
+<!-- Audio -->
+<section id="music">
+    <img id="imageMusic" type="button" src = "./visual/music_note.svg" 
+    onclick="play();"/>
+</section>
+<audio id="audioID" autoplay loop> <source src="./visual/sound.mp3" type="audio/mp3"> 
+</audio>
+
+<a class="memory-btn" id="next" href="#" onclick="app.searchMemory('next');"><i class="fas fa-angle-right" style="top: 40px;"></i></a>
+<a class="memory-btn" id="previous" href="#" onclick="app.searchMemory('previous');"><i class="fas fa-angle-left"></i></a>
+
+<section id="shownimage">
+    <img id="selected" src="./Images/manmade/manmade/img_1.jpg" alt="Paris">
+    <div id="icons">
+        <a class="similar-btn" id="similar" href="#" onclick="app.searchSimilar();"><i class="fas fa-search" style="top: 40px;"></i></a>
+        <a class="download-btn" id="download" href="./Images/manmade/manmade/img_1.jpg" download="visualsearch"><i class="fas fa-download" style="top: 40px;"></i></a>
+        <a class="close-btn" id="close" href="#" onclick="app.close();"><i class="fas fa-times" style="top: 40px;"></i></a>
+    </div>
+    <div id="arrows">
+        <a class="move-btn" id="nextImg" href="#" onclick="app.moveImage('next');"><i class="fas fa-angle-right"></i></a>
+        <a class="move-btn" id="previousImg" href="#" onclick="app.moveImage('previous');"><i class="fas fa-angle-left"></i></a>
+    </div>
+    
+</section>
+
+
+<footer>
+    <!--<p>Rui Jesus</p>-->
+</footer>
+
+
+
+<script> 
+    window.onload = main();
+    window.addEventListener("scroll", (event) => {
+        let scroll = this.scrollY;
+        let height = document.body.offsetHeight - this.innerHeight;
+        console.log(scroll)
+        console.log(height)
+
+    });
+ </script>
+</body>
+</html>

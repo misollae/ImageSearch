@@ -1,0 +1,9 @@
+Username:46247762@N00
+URL:http://flickr.com/photos/46247762@N00/2325839831
+ID:2325839831
+Title:James-st-south.jpg
+Description:null
+
+Latitude:54.595512
+Longitude:-5.930348
+Date:Tue Mar 11 09:17:55 GMT 2008

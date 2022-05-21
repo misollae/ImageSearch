@@ -1,0 +1,9 @@
+Username:55639959@N00
+URL:http://flickr.com/photos/55639959@N00/2331263044
+ID:2331263044
+Title:haystack tilt
+Description:null
+
+Latitude:45.88703
+Longitude:-123.96659
+Date:Tue Feb 26 11:55:35 GMT 2008

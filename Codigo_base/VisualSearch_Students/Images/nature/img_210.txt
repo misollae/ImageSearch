@@ -1,0 +1,9 @@
+Username:12921146@N04
+URL:http://flickr.com/photos/12921146@N04/2248799940
+ID:2248799940
+Title:Western Crowned-Pigeon
+Description:null
+
+Latitude:32.208813
+Longitude:-110.92004
+Date:Sun Dec 31 13:04:24 GMT 2006

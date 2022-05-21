@@ -1,0 +1,9 @@
+Username:75363214@N00
+URL:http://flickr.com/photos/75363214@N00/2332901942
+ID:2332901942
+Title:gruttenhutte
+Description:null
+
+Latitude:47.5541
+Longitude:12.3111
+Date:Sun Mar 09 14:34:44 GMT 2008

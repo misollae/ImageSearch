@@ -1,0 +1,9 @@
+Username:24508388@N04
+URL:http://flickr.com/photos/24508388@N04/2319740944
+ID:2319740944
+Title:Ink Splatter Blue
+Description:null
+
+Latitude:33.947678
+Longitude:-83.3797
+Date:Sun Nov 19 03:04:23 GMT 2006

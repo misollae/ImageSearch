@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/827192633
+ID:827192633
+Title:05 Ciminiera in prospettiva
+Description:null
+
+Latitude:45.092976
+Longitude:7.66277
+Date:Tue May 15 07:45:42 BST 2007

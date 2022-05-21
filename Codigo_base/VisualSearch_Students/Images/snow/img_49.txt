@@ -1,0 +1,9 @@
+Username:9268200@N07
+URL:http://flickr.com/photos/9268200@N07/2329790033
+ID:2329790033
+Title:Abandoned Bridge and Pilings on the Fox
+Description:null
+
+Latitude:44.258892
+Longitude:-88.38903
+Date:Wed Mar 12 21:15:12 GMT 2008

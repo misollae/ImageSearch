@@ -1,0 +1,9 @@
+Username:26677062@N00
+URL:http://flickr.com/photos/26677062@N00/1675512415
+ID:1675512415
+Title:street
+Description:null
+
+Latitude:53.34444
+Longitude:-6.269738
+Date:Sat Sep 29 23:54:29 BST 2007

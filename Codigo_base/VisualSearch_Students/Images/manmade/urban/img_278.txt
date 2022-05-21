@@ -1,0 +1,9 @@
+Username:76994867@N00
+URL:http://flickr.com/photos/76994867@N00/2194399158
+ID:2194399158
+Title:View from the fire escape
+Description:null
+
+Latitude:39.302383
+Longitude:-76.6153
+Date:Fri Jan 26 08:12:32 GMT 2007

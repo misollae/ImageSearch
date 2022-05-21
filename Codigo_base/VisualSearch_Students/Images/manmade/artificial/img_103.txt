@@ -1,0 +1,9 @@
+Username:51586455@N00
+URL:http://flickr.com/photos/51586455@N00/232285519
+ID:232285519
+Title:Putting Up Vines
+Description:null
+
+Latitude:42.331306
+Longitude:-83.04666
+Date:Mon Jul 24 16:05:49 BST 2006

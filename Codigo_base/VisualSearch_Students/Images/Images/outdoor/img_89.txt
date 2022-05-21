@@ -1,0 +1,9 @@
+Username:75169302@N00
+URL:http://flickr.com/photos/75169302@N00/2292823964
+ID:2292823964
+Title:Ch-ch-ch-chicken
+Description:null
+
+Latitude:44.86291
+Longitude:-65.30983
+Date:Mon Feb 25 18:01:05 GMT 2008

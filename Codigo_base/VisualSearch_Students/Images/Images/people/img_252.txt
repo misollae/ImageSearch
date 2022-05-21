@@ -1,0 +1,9 @@
+Username:70021771@N00
+URL:http://flickr.com/photos/70021771@N00/2231644234
+ID:2231644234
+Title:bw 80s 3
+Description:null
+
+Latitude:52.626904
+Longitude:1.295189
+Date:Mon Oct 01 00:00:00 BST 1984

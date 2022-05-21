@@ -1,0 +1,9 @@
+Username:88581376@N00
+URL:http://flickr.com/photos/88581376@N00/2326292148
+ID:2326292148
+Title:Face
+Description:null
+
+Latitude:45.514435
+Longitude:-122.65597
+Date:Mon Mar 10 22:06:30 GMT 2008

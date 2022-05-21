@@ -1,0 +1,9 @@
+Username:7332624@N06
+URL:http://flickr.com/photos/7332624@N06/1026433705
+ID:1026433705
+Title:The Bride's Parents
+Description:null
+
+Latitude:52.135014
+Longitude:-0.463603
+Date:Sat Aug 04 15:16:30 BST 2007

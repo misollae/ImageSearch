@@ -1,0 +1,9 @@
+Username:7486487@N08
+URL:http://flickr.com/photos/7486487@N08/1170878287
+ID:1170878287
+Title:South Dundee
+Description:null
+
+Latitude:56.469814
+Longitude:-2.989279
+Date:Sun Aug 19 15:20:15 BST 2007

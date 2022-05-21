@@ -1,0 +1,9 @@
+Username:7328892@N03
+URL:http://flickr.com/photos/7328892@N03/1361480906
+ID:1361480906
+Title:Stargazing
+Description:null
+
+Latitude:1.304084
+Longitude:103.8827
+Date:Mon Sep 10 18:20:26 BST 2007

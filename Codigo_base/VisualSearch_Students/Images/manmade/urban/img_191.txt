@@ -1,0 +1,9 @@
+Username:22908912@N04
+URL:http://flickr.com/photos/22908912@N04/2198504011
+ID:2198504011
+Title:The Side Entrance
+Description:null
+
+Latitude:33.73153
+Longitude:-117.996925
+Date:Thu Jan 17 08:41:59 GMT 2008

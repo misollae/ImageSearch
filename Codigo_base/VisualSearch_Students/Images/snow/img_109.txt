@@ -1,0 +1,9 @@
+Username:16799048@N00
+URL:http://flickr.com/photos/16799048@N00/2281963625
+ID:2281963625
+Title:Zu den Skiliften
+Description:null
+
+Latitude:47.50969
+Longitude:9.98016
+Date:Sun Feb 03 16:05:02 GMT 2008

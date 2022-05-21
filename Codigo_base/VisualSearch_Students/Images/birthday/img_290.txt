@@ -1,0 +1,9 @@
+Username:75466981@N00
+URL:http://flickr.com/photos/75466981@N00/2171723551
+ID:2171723551
+Title:On the Rocks
+Description:null
+
+Latitude:32.78823
+Longitude:-96.78329
+Date:Sun Jan 06 01:26:06 GMT 2008

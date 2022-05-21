@@ -1,0 +1,9 @@
+Username:17587718@N00
+URL:http://flickr.com/photos/17587718@N00/2327996078
+ID:2327996078
+Title:Chicago behind me
+Description:null
+
+Latitude:41.882717
+Longitude:-87.62342
+Date:Mon Mar 10 16:19:31 GMT 2008

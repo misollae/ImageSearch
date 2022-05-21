@@ -1,0 +1,9 @@
+Username:48889068537@N01
+URL:http://flickr.com/photos/48889068537@N01/2332167541
+ID:2332167541
+Title:Up and down
+Description:null
+
+Latitude:45.882504
+Longitude:-123.9646
+Date:Sat Mar 01 11:05:41 GMT 2008

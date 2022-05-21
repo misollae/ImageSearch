@@ -1,0 +1,9 @@
+Username:9454850@N08
+URL:http://flickr.com/photos/9454850@N08/2339114016
+ID:2339114016
+Title:Perspectives
+Description:null
+
+Latitude:25.779488
+Longitude:-80.13633
+Date:Sun Feb 10 10:48:48 GMT 2008

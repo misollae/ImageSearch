@@ -1,0 +1,9 @@
+Username:29368678@N00
+URL:http://flickr.com/photos/29368678@N00/2196749108
+ID:2196749108
+Title:Into the Urban Jungle
+Description:null
+
+Latitude:47.613953
+Longitude:-122.3321
+Date:Fri Jan 11 16:56:30 GMT 2008

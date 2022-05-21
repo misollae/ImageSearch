@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/521040768
+ID:521040768
+Title:29 Monviso
+Description:null
+
+Latitude:45.10922
+Longitude:7.463922
+Date:Thu May 10 18:43:59 BST 2007

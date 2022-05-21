@@ -1,0 +1,9 @@
+Username:28202888@N00
+URL:http://flickr.com/photos/28202888@N00/2269488288
+ID:2269488288
+Title:IMG_0386
+Description:null
+
+Latitude:33.967323
+Longitude:-117.35158
+Date:Sat Feb 16 05:04:27 GMT 2008

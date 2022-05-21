@@ -1,0 +1,9 @@
+Username:68756453@N00
+URL:http://flickr.com/photos/68756453@N00/2331937969
+ID:2331937969
+Title:Sam shows his first interest in birds
+Description:null
+
+Latitude:37.723545
+Longitude:-122.506294
+Date:Thu Mar 13 17:52:18 GMT 2008

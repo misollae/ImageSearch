@@ -1,0 +1,9 @@
+Username:19054742@N00
+URL:http://flickr.com/photos/19054742@N00/2142892271
+ID:2142892271
+Title:Man-made snow for skiing
+Description:null
+
+Latitude:60.255585
+Longitude:24.918762
+Date:Tue Dec 25 11:59:47 GMT 2007

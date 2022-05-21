@@ -1,0 +1,9 @@
+Username:88442983@N00
+URL:http://flickr.com/photos/88442983@N00/2198966297
+ID:2198966297
+Title:Alley
+Description:null
+
+Latitude:37.554707
+Longitude:-77.4626
+Date:Wed Jan 16 18:48:34 GMT 2008

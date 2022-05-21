@@ -1,0 +1,9 @@
+Username:17538066@N07
+URL:http://flickr.com/photos/17538066@N07/2247494685
+ID:2247494685
+Title:Utah highway
+Description:null
+
+Latitude:40.18987
+Longitude:-110.08489
+Date:Thu Feb 07 00:52:45 GMT 2008

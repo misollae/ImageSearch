@@ -1,0 +1,9 @@
+Username:85853333@N00
+URL:http://flickr.com/photos/85853333@N00/2330636763
+ID:2330636763
+Title:The Twenty-Second Century
+Description:null
+
+Latitude:37.904835
+Longitude:-122.36533
+Date:Sat Jan 19 13:01:12 GMT 2008

@@ -1,0 +1,9 @@
+Username:42955034@N00
+URL:http://flickr.com/photos/42955034@N00/2287637353
+ID:2287637353
+Title:
+Description:null
+
+Latitude:37.019787
+Longitude:-76.03887
+Date:Thu Feb 10 16:59:52 GMT 2005

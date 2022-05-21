@@ -1,0 +1,9 @@
+Username:29799200@N00
+URL:http://flickr.com/photos/29799200@N00/2302455809
+ID:2302455809
+Title:Torre Agbar
+Description:null
+
+Latitude:41.40333
+Longitude:2.189648
+Date:Wed Feb 20 15:42:22 GMT 2008

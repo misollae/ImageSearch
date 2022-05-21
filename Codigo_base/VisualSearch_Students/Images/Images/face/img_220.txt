@@ -1,0 +1,9 @@
+Username:62328475@N00
+URL:http://flickr.com/photos/62328475@N00/1278809818
+ID:1278809818
+Title:Portrait with umbrella
+Description:null
+
+Latitude:35.669857
+Longitude:139.70235
+Date:Sun Sep 17 16:09:08 BST 2006

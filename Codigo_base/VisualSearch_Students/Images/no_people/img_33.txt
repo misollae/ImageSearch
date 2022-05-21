@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/2051563422
+ID:2051563422
+Title:26 Fontana e albero
+Description:null
+
+Latitude:44.842484
+Longitude:11.623642
+Date:Sun Jul 08 15:46:23 BST 2007

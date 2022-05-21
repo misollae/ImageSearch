@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/2051472148
+ID:2051472148
+Title:42 Delirio di colonnine
+Description:null
+
+Latitude:44.835377
+Longitude:11.61993
+Date:Sun Jul 08 20:45:26 BST 2007

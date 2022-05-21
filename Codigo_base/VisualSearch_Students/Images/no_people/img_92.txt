@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/843903795
+ID:843903795
+Title:25 La casa incorniciata dalle ginestre
+Description:null
+
+Latitude:43.857304
+Longitude:7.649885
+Date:Sun May 20 12:49:49 BST 2007

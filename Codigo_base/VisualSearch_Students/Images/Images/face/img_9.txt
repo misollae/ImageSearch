@@ -1,0 +1,9 @@
+Username:85853333@N00
+URL:http://flickr.com/photos/85853333@N00/2336628352
+ID:2336628352
+Title:The Beginning Of An Exploration
+Description:null
+
+Latitude:37.8005
+Longitude:-122.409
+Date:Wed Jan 23 16:55:15 GMT 2008

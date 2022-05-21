@@ -1,0 +1,9 @@
+Username:82995349@N00
+URL:http://flickr.com/photos/82995349@N00/2024056381
+ID:2024056381
+Title:puzzled alien
+Description:null
+
+Latitude:43.92319
+Longitude:12.904676
+Date:Tue Nov 13 22:17:29 GMT 2007

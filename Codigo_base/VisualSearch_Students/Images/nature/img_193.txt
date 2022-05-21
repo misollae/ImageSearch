@@ -1,0 +1,9 @@
+Username:29498428@N00
+URL:http://flickr.com/photos/29498428@N00/2249651906
+ID:2249651906
+Title:A Walkway Through the Park
+Description:null
+
+Latitude:40.83243
+Longitude:-74.187195
+Date:Fri Jan 18 12:46:16 GMT 2008

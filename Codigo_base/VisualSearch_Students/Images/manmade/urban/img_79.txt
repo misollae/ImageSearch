@@ -1,0 +1,9 @@
+Username:9048663@N05
+URL:http://flickr.com/photos/9048663@N05/2324192519
+ID:2324192519
+Title:Shadows 2181
+Description:null
+
+Latitude:30.225588
+Longitude:-92.01643
+Date:Sat Mar 08 17:32:35 GMT 2008

@@ -1,0 +1,9 @@
+Username:64707145@N00
+URL:http://flickr.com/photos/64707145@N00/2266035196
+ID:2266035196
+Title:
+Description:null
+
+Latitude:-23.589922
+Longitude:-46.653152
+Date:Sat Feb 03 13:47:11 GMT 2007

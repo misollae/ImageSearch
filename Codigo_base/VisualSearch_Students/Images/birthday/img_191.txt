@@ -1,0 +1,9 @@
+Username:78135748@N00
+URL:http://flickr.com/photos/78135748@N00/2185032083
+ID:2185032083
+Title:1999-02-0016
+Description:null
+
+Latitude:51.142673
+Longitude:-0.974982
+Date:Fri Jan 11 16:58:54 GMT 2008

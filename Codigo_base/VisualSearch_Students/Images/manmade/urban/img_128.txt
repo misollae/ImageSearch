@@ -1,0 +1,9 @@
+Username:89716538@N00
+URL:http://flickr.com/photos/89716538@N00/2200246492
+ID:2200246492
+Title:Raccoon
+Description:null
+
+Latitude:38.712135
+Longitude:-9.130234
+Date:Thu Dec 13 13:17:21 GMT 2007

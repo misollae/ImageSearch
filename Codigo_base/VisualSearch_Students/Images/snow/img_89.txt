@@ -1,0 +1,9 @@
+Username:76414778@N00
+URL:http://flickr.com/photos/76414778@N00/2283126168
+ID:2283126168
+Title:late winter afternoon
+Description:null
+
+Latitude:39.156986
+Longitude:-75.52053
+Date:Thu Feb 21 17:34:41 GMT 2008

@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/2051460836
+ID:2051460836
+Title:34 Il fossato del Castello Estense
+Description:null
+
+Latitude:44.83788
+Longitude:11.620273
+Date:Sun Jul 08 20:20:27 BST 2007

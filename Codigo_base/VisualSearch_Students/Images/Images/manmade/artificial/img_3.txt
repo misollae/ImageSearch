@@ -1,0 +1,9 @@
+Username:38916222@N00
+URL:http://flickr.com/photos/38916222@N00/2318599884
+ID:2318599884
+Title:Neon fencing
+Description:null
+
+Latitude:51.450256
+Longitude:-2.599243
+Date:Sat Feb 09 17:56:39 GMT 2008

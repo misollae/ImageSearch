@@ -1,0 +1,9 @@
+Username:63706803@N00
+URL:http://flickr.com/photos/63706803@N00/287930419
+ID:287930419
+Title:le 3 novembre 2006
+Description:null
+
+Latitude:45.422535
+Longitude:-75.689125
+Date:Fri Nov 03 15:22:55 GMT 2006

@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/2047835221
+ID:2047835221
+Title:48 Lampione
+Description:null
+
+Latitude:44.835003
+Longitude:11.620734
+Date:Sun Jul 08 21:18:31 BST 2007

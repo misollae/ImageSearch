@@ -1,0 +1,9 @@
+Username:9424255@N05
+URL:http://flickr.com/photos/9424255@N05/2299606111
+ID:2299606111
+Title:co zbylo z kolonky
+Description:null
+
+Latitude:50.097397
+Longitude:14.409813
+Date:Sat Feb 23 15:15:15 GMT 2008

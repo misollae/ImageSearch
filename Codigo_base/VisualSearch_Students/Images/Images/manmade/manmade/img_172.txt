@@ -1,0 +1,9 @@
+Username:96385007@N00
+URL:http://flickr.com/photos/96385007@N00/358688825
+ID:358688825
+Title:70'ties architecture
+Description:null
+
+Latitude:51.676487
+Longitude:8.338215
+Date:Wed Jan 03 11:42:00 GMT 2007

@@ -1,0 +1,9 @@
+Username:76475621@N00
+URL:http://flickr.com/photos/76475621@N00/2332787310
+ID:2332787310
+Title:Tattered tarpaulin is upon some chainlink.
+Description:null
+
+Latitude:44.95479
+Longitude:-93.275406
+Date:Fri Feb 29 11:22:46 GMT 2008

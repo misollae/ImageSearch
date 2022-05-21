@@ -1,0 +1,9 @@
+Username:7760519@N02
+URL:http://flickr.com/photos/7760519@N02/2211987559
+ID:2211987559
+Title:Glasgow Science Centre and Tower (No IMAX, it's hiding)
+Description:null
+
+Latitude:55.859455
+Longitude:-4.290279
+Date:Wed Jan 16 16:55:24 GMT 2008

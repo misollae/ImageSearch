@@ -1,0 +1,9 @@
+Username:22475604@N00
+URL:http://flickr.com/photos/22475604@N00/306516107
+ID:306516107
+Title:Tip 2/3
+Description:null
+
+Latitude:52.217445
+Longitude:0.12174
+Date:Sun Nov 26 02:25:42 GMT 2006

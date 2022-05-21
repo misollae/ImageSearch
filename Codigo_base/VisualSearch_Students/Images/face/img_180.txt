@@ -1,0 +1,9 @@
+Username:8550255@N03
+URL:http://flickr.com/photos/8550255@N03/1299681049
+ID:1299681049
+Title:2007-0804ChargersFanFest (1)
+Description:null
+
+Latitude:32.78371
+Longitude:-117.1201
+Date:Sat Aug 04 12:17:49 BST 2007

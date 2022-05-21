@@ -1,0 +1,9 @@
+Username:92003728@N00
+URL:http://flickr.com/photos/92003728@N00/334828147
+ID:334828147
+Title:In the Market?
+Description:null
+
+Latitude:36.30097
+Longitude:-115.310555
+Date:Sun Dec 24 14:35:28 GMT 2006

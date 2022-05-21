@@ -1,0 +1,9 @@
+Username:9454850@N08
+URL:http://flickr.com/photos/9454850@N08/2332262779
+ID:2332262779
+Title:Guy and his art
+Description:null
+
+Latitude:25.784077
+Longitude:-80.130005
+Date:Thu Mar 13 14:48:35 GMT 2008

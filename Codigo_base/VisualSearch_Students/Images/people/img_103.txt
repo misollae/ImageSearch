@@ -1,0 +1,9 @@
+Username:9454850@N08
+URL:http://flickr.com/photos/9454850@N08/2303502091
+ID:2303502091
+Title:Friends
+Description:null
+
+Latitude:25.790405
+Longitude:-80.1356
+Date:Thu Feb 28 22:40:15 GMT 2008

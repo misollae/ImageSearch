@@ -1,0 +1,9 @@
+Username:12024537@N00
+URL:http://flickr.com/photos/12024537@N00/2233691757
+ID:2233691757
+Title:Waiting in the rain
+Description:null
+
+Latitude:45.57504
+Longitude:-122.729065
+Date:Thu Jan 31 17:05:59 GMT 2008

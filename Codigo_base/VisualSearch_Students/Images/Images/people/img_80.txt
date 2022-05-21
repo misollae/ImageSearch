@@ -1,0 +1,9 @@
+Username:61518665@N00
+URL:http://flickr.com/photos/61518665@N00/2304286867
+ID:2304286867
+Title:Junior Hockey Star
+Description:null
+
+Latitude:44.978374
+Longitude:-93.22956
+Date:Sat Mar 01 21:12:53 GMT 2008

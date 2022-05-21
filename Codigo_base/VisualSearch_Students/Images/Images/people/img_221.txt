@@ -1,0 +1,9 @@
+Username:87859676@N00
+URL:http://flickr.com/photos/87859676@N00/2233098135
+ID:2233098135
+Title:East River & Downtown Manhattan
+Description:null
+
+Latitude:40.719555
+Longitude:-73.99054
+Date:Sun Jul 15 15:40:35 BST 2007

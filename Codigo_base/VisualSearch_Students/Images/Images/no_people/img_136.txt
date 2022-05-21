@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/521025922
+ID:521025922
+Title:58 La nostra ombra finisce laggiù
+Description:null
+
+Latitude:45.113785
+Longitude:7.455382
+Date:Thu May 10 19:46:27 BST 2007

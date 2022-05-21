@@ -1,0 +1,9 @@
+Username:75468733@N00
+URL:http://flickr.com/photos/75468733@N00/2280688454
+ID:2280688454
+Title:Bush too
+Description:null
+
+Latitude:39.997627
+Longitude:-83.0417
+Date:Wed Feb 20 17:17:20 GMT 2008

@@ -1,0 +1,9 @@
+Username:34145827@N00
+URL:http://flickr.com/photos/34145827@N00/2334710597
+ID:2334710597
+Title:Roommate Matt
+Description:null
+
+Latitude:41.931686
+Longitude:-87.68361
+Date:Wed Mar 12 21:09:11 GMT 2008

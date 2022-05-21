@@ -1,0 +1,9 @@
+Username:58939349@N00
+URL:http://flickr.com/photos/58939349@N00/2320229625
+ID:2320229625
+Title:In front of Wawel
+Description:null
+
+Latitude:50.049706
+Longitude:19.933716
+Date:Sun Mar 09 10:38:54 GMT 2008

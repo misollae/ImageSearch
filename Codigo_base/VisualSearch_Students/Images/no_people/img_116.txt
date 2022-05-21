@@ -1,0 +1,9 @@
+Username:65919269@N00
+URL:http://flickr.com/photos/65919269@N00/558155483
+ID:558155483
+Title:Ostrava´s main square
+Description:null
+
+Latitude:49.835926
+Longitude:18.292418
+Date:Sat Jun 16 16:05:49 BST 2007

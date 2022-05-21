@@ -1,0 +1,9 @@
+Username:85278812@N00
+URL:http://flickr.com/photos/85278812@N00/2283027738
+ID:2283027738
+Title:IMG_1044
+Description:null
+
+Latitude:44.70999
+Longitude:-74.172905
+Date:Sun Feb 17 13:20:56 GMT 2008

@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/2051502476
+ID:2051502476
+Title:28 La fontana
+Description:null
+
+Latitude:44.842484
+Longitude:11.623642
+Date:Sun Jul 08 18:18:19 BST 2007

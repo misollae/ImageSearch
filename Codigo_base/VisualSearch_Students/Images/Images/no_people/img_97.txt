@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/828099044
+ID:828099044
+Title:15 Merlo
+Description:null
+
+Latitude:45.09184
+Longitude:7.662507
+Date:Tue May 15 16:55:16 BST 2007

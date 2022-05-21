@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/767567739
+ID:767567739
+Title:03 Voce del verbo lovare
+Description:null
+
+Latitude:44.122314
+Longitude:8.254112
+Date:Sun May 13 18:17:16 BST 2007

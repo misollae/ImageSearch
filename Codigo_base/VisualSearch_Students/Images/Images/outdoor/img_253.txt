@@ -1,0 +1,9 @@
+Username:95727254@N00
+URL:http://flickr.com/photos/95727254@N00/1321031122
+ID:1321031122
+Title:The Minutemen ignoring the NY Giants
+Description:null
+
+Latitude:42.09068
+Longitude:-71.26428
+Date:Thu Aug 30 19:30:21 BST 2007

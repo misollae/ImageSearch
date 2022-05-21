@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/767566175
+ID:767566175
+Title:01 Business funebre
+Description:null
+
+Latitude:43.80239
+Longitude:7.648233
+Date:Sun May 13 10:42:52 BST 2007

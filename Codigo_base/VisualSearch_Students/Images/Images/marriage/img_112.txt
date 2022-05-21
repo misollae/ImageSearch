@@ -1,0 +1,9 @@
+Username:19217720@N00
+URL:http://flickr.com/photos/19217720@N00/1028945463
+ID:1028945463
+Title:DSC09656
+Description:null
+
+Latitude:42.60333
+Longitude:-71.348656
+Date:Sat Aug 04 17:49:26 BST 2007

@@ -1,0 +1,9 @@
+Username:22209535@N05
+URL:http://flickr.com/photos/22209535@N05/2246906097
+ID:2246906097
+Title:Rusty Ascenson
+Description:null
+
+Latitude:34.00652
+Longitude:-81.04168
+Date:Fri Feb 01 17:19:15 GMT 2008

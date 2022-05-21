@@ -1,0 +1,9 @@
+Username:77784942@N00
+URL:http://flickr.com/photos/77784942@N00/2174586700
+ID:2174586700
+Title:Philip's Birthday 1
+Description:null
+
+Latitude:39.217113
+Longitude:-76.78401
+Date:Sun Jan 06 14:54:06 GMT 2008

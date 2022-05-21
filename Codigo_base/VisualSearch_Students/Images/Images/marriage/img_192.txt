@@ -1,0 +1,9 @@
+Username:7332624@N06
+URL:http://flickr.com/photos/7332624@N06/1026282011
+ID:1026282011
+Title:Confetti II
+Description:null
+
+Latitude:52.137794
+Longitude:-0.444205
+Date:Sat Aug 04 14:33:47 BST 2007

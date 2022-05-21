@@ -1,0 +1,9 @@
+Username:9160570@N05
+URL:http://flickr.com/photos/9160570@N05/2327374493
+ID:2327374493
+Title:Gauntlet
+Description:null
+
+Latitude:41.888424
+Longitude:-87.62467
+Date:Tue Mar 11 11:16:29 GMT 2008

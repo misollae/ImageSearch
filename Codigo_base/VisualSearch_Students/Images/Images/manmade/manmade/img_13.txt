@@ -1,0 +1,9 @@
+Username:8997662@N06
+URL:http://flickr.com/photos/8997662@N06/2229788104
+ID:2229788104
+Title:Trendy Fire Escape
+Description:null
+
+Latitude:51.515858
+Longitude:-0.094853
+Date:Tue Jan 29 20:02:45 GMT 2008

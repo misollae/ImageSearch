@@ -1,0 +1,9 @@
+Username:21455786@N02
+URL:http://flickr.com/photos/21455786@N02/2259951651
+ID:2259951651
+Title:Dwarf Self
+Description:null
+
+Latitude:48.89441
+Longitude:2.344701
+Date:Wed Feb 06 16:44:25 GMT 2008

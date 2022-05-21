@@ -1,0 +1,9 @@
+Username:29215006@N00
+URL:http://flickr.com/photos/29215006@N00/2328167371
+ID:2328167371
+Title:Buttercup Valley after 08 Blizzard
+Description:null
+
+Latitude:39.174076
+Longitude:-84.538315
+Date:Tue Mar 11 19:48:07 GMT 2008

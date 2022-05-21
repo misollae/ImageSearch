@@ -1,0 +1,9 @@
+Username:21372148@N00
+URL:http://flickr.com/photos/21372148@N00/2330285145
+ID:2330285145
+Title:Apartment
+Description:null
+
+Latitude:-6.846786
+Longitude:107.59104
+Date:Thu Mar 13 09:36:23 GMT 2008

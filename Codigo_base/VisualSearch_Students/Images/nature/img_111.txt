@@ -1,0 +1,9 @@
+Username:8626571@N02
+URL:http://flickr.com/photos/8626571@N02/2325470053
+ID:2325470053
+Title:Confused
+Description:null
+
+Latitude:35.037285
+Longitude:-111.73331
+Date:Thu Dec 27 14:41:04 GMT 2007

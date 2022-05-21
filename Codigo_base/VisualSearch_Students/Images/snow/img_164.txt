@@ -1,0 +1,9 @@
+Username:98471558@N00
+URL:http://flickr.com/photos/98471558@N00/2281072626
+ID:2281072626
+Title:Snow Removal Warning
+Description:null
+
+Latitude:43.709114
+Longitude:-79.401436
+Date:Wed Feb 20 22:01:27 GMT 2008

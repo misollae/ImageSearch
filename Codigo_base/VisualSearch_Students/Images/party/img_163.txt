@@ -1,0 +1,9 @@
+Username:24602720@N04
+URL:http://flickr.com/photos/24602720@N04/2330327372
+ID:2330327372
+Title:DJ Xavier & Mc Mos
+Description:null
+
+Latitude:52.091583
+Longitude:5.118438
+Date:Fri Oct 05 00:17:34 BST 2007

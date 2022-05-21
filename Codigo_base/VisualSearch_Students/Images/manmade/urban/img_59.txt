@@ -1,0 +1,9 @@
+Username:8998833@N07
+URL:http://flickr.com/photos/8998833@N07/2326381512
+ID:2326381512
+Title:San Francisco skyline from the Coit Tower
+Description:null
+
+Latitude:37.80246
+Longitude:-122.40586
+Date:Sat Mar 08 04:30:16 GMT 2008

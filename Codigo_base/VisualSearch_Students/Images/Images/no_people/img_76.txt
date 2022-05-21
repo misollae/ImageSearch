@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/863757325
+ID:863757325
+Title:18 Avviso agli automobilisti (blucerchiati)
+Description:null
+
+Latitude:44.394688
+Longitude:8.980974
+Date:Sun Jun 10 19:11:05 BST 2007

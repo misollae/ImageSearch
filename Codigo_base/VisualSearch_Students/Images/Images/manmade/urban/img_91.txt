@@ -1,0 +1,9 @@
+Username:75468733@N00
+URL:http://flickr.com/photos/75468733@N00/2322059885
+ID:2322059885
+Title:Walking back to the car...
+Description:null
+
+Latitude:39.96919
+Longitude:-82.999275
+Date:Sun Mar 09 18:51:50 GMT 2008

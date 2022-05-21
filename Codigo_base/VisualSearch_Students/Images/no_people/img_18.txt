@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/2062567472
+ID:2062567472
+Title:78 Il tramonto ha inizio
+Description:null
+
+Latitude:44.888012
+Longitude:11.60801
+Date:Fri Jul 20 20:14:52 BST 2007

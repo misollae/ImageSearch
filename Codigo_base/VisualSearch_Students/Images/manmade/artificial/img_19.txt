@@ -1,0 +1,9 @@
+Username:21034453@N08
+URL:http://flickr.com/photos/21034453@N08/2248671608
+ID:2248671608
+Title:Artificial Suns
+Description:null
+
+Latitude:50.438873
+Longitude:2.807307
+Date:Thu Feb 07 14:25:21 GMT 2008

@@ -1,0 +1,9 @@
+Username:71408397@N00
+URL:http://flickr.com/photos/71408397@N00/2339795855
+ID:2339795855
+Title:P1000282-1
+Description:null
+
+Latitude:25.109306
+Longitude:121.84656
+Date:Sat Mar 15 15:56:04 GMT 2008

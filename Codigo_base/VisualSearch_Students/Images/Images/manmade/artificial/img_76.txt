@@ -1,0 +1,9 @@
+Username:96932198@N00
+URL:http://flickr.com/photos/96932198@N00/365603774
+ID:365603774
+Title:Reminder sign
+Description:null
+
+Latitude:38.1678
+Longitude:23.905762
+Date:Sun Jan 21 17:13:26 GMT 2007

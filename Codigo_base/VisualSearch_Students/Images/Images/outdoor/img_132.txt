@@ -1,0 +1,9 @@
+Username:42955034@N00
+URL:http://flickr.com/photos/42955034@N00/2283011007
+ID:2283011007
+Title:FDR Memorial
+Description:null
+
+Latitude:38.881577
+Longitude:-77.03332
+Date:Fri Apr 14 05:17:36 BST 2006

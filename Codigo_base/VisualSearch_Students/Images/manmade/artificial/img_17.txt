@@ -1,0 +1,9 @@
+Username:9619972@N08
+URL:http://flickr.com/photos/9619972@N08/2250982394
+ID:2250982394
+Title:Artificial
+Description:null
+
+Latitude:50.847393
+Longitude:4.360456
+Date:Fri Oct 12 16:28:38 BST 2007

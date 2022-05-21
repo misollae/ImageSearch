@@ -1,0 +1,9 @@
+Username:38676321@N00
+URL:http://flickr.com/photos/38676321@N00/2256132216
+ID:2256132216
+Title:Dark/Light
+Description:null
+
+Latitude:38.04642
+Longitude:-122.184006
+Date:Sun Feb 10 13:24:50 GMT 2008

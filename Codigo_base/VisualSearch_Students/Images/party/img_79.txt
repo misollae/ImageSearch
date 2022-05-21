@@ -1,0 +1,9 @@
+Username:29309361@N00
+URL:http://flickr.com/photos/29309361@N00/2337211312
+ID:2337211312
+Title:111 minna
+Description:null
+
+Latitude:37.78771
+Longitude:-122.39939
+Date:Sat Mar 15 19:30:09 GMT 2008

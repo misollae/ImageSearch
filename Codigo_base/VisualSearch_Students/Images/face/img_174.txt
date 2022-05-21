@@ -1,0 +1,9 @@
+Username:12560202@N04
+URL:http://flickr.com/photos/12560202@N04/1305203752
+ID:1305203752
+Title:Faces
+Description:null
+
+Latitude:13.441095
+Longitude:103.85888
+Date:Sat Aug 18 14:08:02 BST 2007

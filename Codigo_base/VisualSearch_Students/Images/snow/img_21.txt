@@ -1,0 +1,9 @@
+Username:53463930@N00
+URL:http://flickr.com/photos/53463930@N00/2331393985
+ID:2331393985
+Title:final morning 2
+Description:null
+
+Latitude:45.57559
+Longitude:6.785227
+Date:Sat Mar 08 07:37:28 GMT 2008

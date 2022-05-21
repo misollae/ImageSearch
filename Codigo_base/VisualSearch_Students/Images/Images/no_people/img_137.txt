@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/521057281
+ID:521057281
+Title:41 Croce del Musinè
+Description:null
+
+Latitude:45.113785
+Longitude:7.455382
+Date:Thu May 10 19:20:18 BST 2007

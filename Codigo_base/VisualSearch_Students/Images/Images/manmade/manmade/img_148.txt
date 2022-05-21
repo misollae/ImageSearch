@@ -1,0 +1,9 @@
+Username:51345245@N00
+URL:http://flickr.com/photos/51345245@N00/484611481
+ID:484611481
+Title:courtyard
+Description:null
+
+Latitude:34.096176
+Longitude:-118.304565
+Date:Thu Apr 26 00:05:44 BST 2007

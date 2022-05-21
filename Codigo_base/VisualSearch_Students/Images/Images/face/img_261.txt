@@ -1,0 +1,9 @@
+Username:7486994@N04
+URL:http://flickr.com/photos/7486994@N04/1257411890
+ID:1257411890
+Title:Photo 139
+Description:null
+
+Latitude:47.30707
+Longitude:5.040235
+Date:Thu Jan 01 01:24:38 GMT 2004

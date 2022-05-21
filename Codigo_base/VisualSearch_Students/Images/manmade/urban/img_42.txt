@@ -1,0 +1,9 @@
+Username:68633198@N00
+URL:http://flickr.com/photos/68633198@N00/2326817497
+ID:2326817497
+Title:Reading Time is Over
+Description:null
+
+Latitude:42.328293
+Longitude:-83.075806
+Date:Sun Feb 17 11:00:24 GMT 2008

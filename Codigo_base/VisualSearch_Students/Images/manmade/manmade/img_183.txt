@@ -1,0 +1,9 @@
+Username:26677062@N00
+URL:http://flickr.com/photos/26677062@N00/282676307
+ID:282676307
+Title:Up
+Description:null
+
+Latitude:52.478134
+Longitude:-1.893264
+Date:Thu Oct 26 13:35:21 BST 2006

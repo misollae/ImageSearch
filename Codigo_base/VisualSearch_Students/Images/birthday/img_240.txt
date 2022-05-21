@@ -1,0 +1,9 @@
+Username:81746969@N00
+URL:http://flickr.com/photos/81746969@N00/2175882339
+ID:2175882339
+Title:forte perse!
+Description:null
+
+Latitude:44.7274
+Longitude:11.039983
+Date:Sun Dec 16 22:30:00 GMT 2007

@@ -1,0 +1,9 @@
+Username:12179651@N07
+URL:http://flickr.com/photos/12179651@N07/1305604769
+ID:1305604769
+Title:Heavy Impact
+Description:null
+
+Latitude:39.0008
+Longitude:-76.58396
+Date:Sat Sep 01 14:17:00 BST 2007

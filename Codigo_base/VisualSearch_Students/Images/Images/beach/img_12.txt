@@ -1,0 +1,9 @@
+Username:48889068537@N01
+URL:http://flickr.com/photos/48889068537@N01/2332170697
+ID:2332170697
+Title:Cannon Beach sunset wide
+Description:null
+
+Latitude:45.88992
+Longitude:-123.96389
+Date:Sat Mar 01 17:47:44 GMT 2008

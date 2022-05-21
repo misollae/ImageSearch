@@ -1,0 +1,9 @@
+Username:95104082@N00
+URL:http://flickr.com/photos/95104082@N00/2280141767
+ID:2280141767
+Title:Skating
+Description:null
+
+Latitude:53.528465
+Longitude:-113.5502
+Date:Sat Feb 16 13:25:41 GMT 2008

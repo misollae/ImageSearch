@@ -1,0 +1,9 @@
+Username:70505071@N00
+URL:http://flickr.com/photos/70505071@N00/2194555267
+ID:2194555267
+Title:Skating rink at Millennium Park, Chicago, January 2008
+Description:null
+
+Latitude:41.88272
+Longitude:-87.62333
+Date:Sat Jan 12 15:33:23 GMT 2008

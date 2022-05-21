@@ -1,0 +1,9 @@
+Username:7332624@N06
+URL:http://flickr.com/photos/7332624@N06/1027079583
+ID:1027079583
+Title:Henry
+Description:null
+
+Latitude:52.13501
+Longitude:-0.465331
+Date:Sat Aug 04 18:41:25 BST 2007

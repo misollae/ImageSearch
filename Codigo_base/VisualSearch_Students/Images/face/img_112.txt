@@ -1,0 +1,9 @@
+Username:86406988@N00
+URL:http://flickr.com/photos/86406988@N00/2312022579
+ID:2312022579
+Title:Mural
+Description:null
+
+Latitude:-26.175365
+Longitude:28.00555
+Date:Sat Feb 16 18:31:21 GMT 2008

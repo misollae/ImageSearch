@@ -1,0 +1,9 @@
+Username:93336532@N00
+URL:http://flickr.com/photos/93336532@N00/481690628
+ID:481690628
+Title:Droplets (2)
+Description:null
+
+Latitude:44.079964
+Longitude:-122.868004
+Date:Tue May 01 22:27:48 BST 2007

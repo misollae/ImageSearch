@@ -1,0 +1,9 @@
+Username:8206949@N06
+URL:http://flickr.com/photos/8206949@N06/2310729899
+ID:2310729899
+Title:
+Description:null
+
+Latitude:42.748863
+Longitude:-84.46205
+Date:Tue Mar 04 17:13:09 GMT 2008

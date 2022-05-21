@@ -1,0 +1,9 @@
+Username:70944869@N00
+URL:http://flickr.com/photos/70944869@N00/2156208522
+ID:2156208522
+Title:Artificial Flower
+Description:null
+
+Latitude:32.759766
+Longitude:-117.16822
+Date:Tue Dec 11 07:10:52 GMT 2007

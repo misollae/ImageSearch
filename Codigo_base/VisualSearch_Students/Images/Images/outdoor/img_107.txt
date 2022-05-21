@@ -1,0 +1,9 @@
+Username:42955034@N00
+URL:http://flickr.com/photos/42955034@N00/2285961170
+ID:2285961170
+Title:Autumnal Shenandoah
+Description:null
+
+Latitude:38.727283
+Longitude:-78.289764
+Date:Sun Oct 23 09:26:02 BST 2005

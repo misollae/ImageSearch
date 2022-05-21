@@ -1,0 +1,9 @@
+Username:8853508@N05
+URL:http://flickr.com/photos/8853508@N05/1355797189
+ID:1355797189
+Title:Kneeling birch
+Description:null
+
+Latitude:60.445286
+Longitude:22.264984
+Date:Sun Sep 09 14:15:04 BST 2007

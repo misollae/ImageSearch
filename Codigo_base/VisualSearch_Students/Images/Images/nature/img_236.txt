@@ -1,0 +1,9 @@
+Username:22204040@N02
+URL:http://flickr.com/photos/22204040@N02/2251889648
+ID:2251889648
+Title:Bird on a sandcastle
+Description:null
+
+Latitude:27.772787
+Longitude:-82.778046
+Date:Tue Dec 25 13:06:06 GMT 2007

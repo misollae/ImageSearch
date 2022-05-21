@@ -1,0 +1,9 @@
+Username:19051026@N00
+URL:http://flickr.com/photos/19051026@N00/2306882113
+ID:2306882113
+Title:Rua da Praia II IMG_3633_fhdr
+Description:null
+
+Latitude:-30.029968
+Longitude:-51.22704
+Date:Mon Mar 03 05:16:53 GMT 2008

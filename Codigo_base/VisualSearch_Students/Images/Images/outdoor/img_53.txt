@@ -1,0 +1,9 @@
+Username:9424255@N05
+URL:http://flickr.com/photos/9424255@N05/2299605931
+ID:2299605931
+Title:na kampa most?
+Description:null
+
+Latitude:50.085354
+Longitude:14.40765
+Date:Sat Feb 23 14:03:57 GMT 2008

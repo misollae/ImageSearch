@@ -1,0 +1,9 @@
+Username:66284579@N00
+URL:http://flickr.com/photos/66284579@N00/2264616672
+ID:2264616672
+Title:We Are Here For Some Wedding Fun
+Description:null
+
+Latitude:47.634106
+Longitude:-122.33949
+Date:Sat Jul 07 11:33:19 BST 2007

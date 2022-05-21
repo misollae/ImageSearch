@@ -1,0 +1,9 @@
+Username:53638540@N00
+URL:http://flickr.com/photos/53638540@N00/819073202
+ID:819073202
+Title:Artificial
+Description:null
+
+Latitude:55.871796
+Longitude:-4.305782
+Date:Sun Jul 15 15:33:35 BST 2007

@@ -1,0 +1,9 @@
+Username:17218700@N00
+URL:http://flickr.com/photos/17218700@N00/722451763
+ID:722451763
+Title:The Turf, up close
+Description:null
+
+Latitude:38.99687
+Longitude:-77.025444
+Date:Wed Jul 04 12:31:36 BST 2007

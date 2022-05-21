@@ -1,0 +1,9 @@
+Username:96932198@N00
+URL:http://flickr.com/photos/96932198@N00/365603562
+ID:365603562
+Title:Me annoyed by the cars
+Description:null
+
+Latitude:38.1678
+Longitude:23.905762
+Date:Sun Jan 21 17:11:56 GMT 2007

@@ -1,0 +1,9 @@
+Username:60777940@N00
+URL:http://flickr.com/photos/60777940@N00/2339407232
+ID:2339407232
+Title:Earth Would Blaze
+Description:null
+
+Latitude:43.37771
+Longitude:-91.00027
+Date:Sat Mar 08 16:17:00 GMT 2008

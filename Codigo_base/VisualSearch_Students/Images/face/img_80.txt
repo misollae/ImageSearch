@@ -1,0 +1,9 @@
+Username:84223632@N00
+URL:http://flickr.com/photos/84223632@N00/2317267071
+ID:2317267071
+Title:Analysis
+Description:null
+
+Latitude:-22.754105
+Longitude:117.76721
+Date:Fri Aug 18 17:39:49 BST 2006

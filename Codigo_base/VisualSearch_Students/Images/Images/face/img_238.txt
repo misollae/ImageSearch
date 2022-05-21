@@ -1,0 +1,9 @@
+Username:8550255@N03
+URL:http://flickr.com/photos/8550255@N03/1269543495
+ID:1269543495
+Title:2007-0818CampingFryStyle (78)
+Description:null
+
+Latitude:32.758442
+Longitude:-116.77638
+Date:Sat Aug 18 10:12:40 BST 2007

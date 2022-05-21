@@ -1,0 +1,9 @@
+Username:34427466731@N01
+URL:http://flickr.com/photos/34427466731@N01/1350836237
+ID:1350836237
+Title:bird's work
+Description:null
+
+Latitude:48.65449
+Longitude:-123.44644
+Date:Thu Aug 30 04:30:10 BST 2007

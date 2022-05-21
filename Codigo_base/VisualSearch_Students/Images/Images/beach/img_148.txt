@@ -1,0 +1,9 @@
+Username:24589046@N03
+URL:http://flickr.com/photos/24589046@N03/2328143293
+ID:2328143293
+Title:Charleston 04
+Description:null
+
+Latitude:32.7577
+Longitude:-79.85876
+Date:Tue Jul 31 19:36:37 BST 2007

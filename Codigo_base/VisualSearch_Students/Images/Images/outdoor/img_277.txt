@@ -1,0 +1,9 @@
+Username:11136255@N08
+URL:http://flickr.com/photos/11136255@N08/1306544919
+ID:1306544919
+Title:Through the Looking Glass
+Description:null
+
+Latitude:32.70293
+Longitude:-96.83081
+Date:Thu Aug 09 11:59:40 BST 2007

@@ -1,0 +1,9 @@
+Username:8406045@N07
+URL:http://flickr.com/photos/8406045@N07/2338316079
+ID:2338316079
+Title:Bonefire
+Description:null
+
+Latitude:41.014923
+Longitude:-75.244286
+Date:Sat Sep 29 19:08:47 BST 2007

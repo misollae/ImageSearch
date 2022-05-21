@@ -1,0 +1,9 @@
+Username:71022830@N00
+URL:http://flickr.com/photos/71022830@N00/2279616911
+ID:2279616911
+Title:Licensed to Wed
+Description:null
+
+Latitude:38.03262
+Longitude:-78.47835
+Date:Wed Feb 20 14:09:43 GMT 2008

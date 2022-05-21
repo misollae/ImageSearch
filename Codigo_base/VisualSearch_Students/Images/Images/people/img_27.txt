@@ -1,0 +1,9 @@
+Username:98539897@N00
+URL:http://flickr.com/photos/98539897@N00/2306967483
+ID:2306967483
+Title:people and shadows bw
+Description:null
+
+Latitude:52.953407
+Longitude:-1.149873
+Date:Mon Mar 03 11:37:03 GMT 2008

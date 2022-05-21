@@ -1,0 +1,9 @@
+Username:42955034@N00
+URL:http://flickr.com/photos/42955034@N00/2281912997
+ID:2281912997
+Title:The swamp
+Description:null
+
+Latitude:39.061676
+Longitude:-77.381714
+Date:Sat Jan 27 16:26:32 GMT 2007

@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/2062568842
+ID:2062568842
+Title:79 Lidi scintillanti
+Description:null
+
+Latitude:44.888012
+Longitude:11.60801
+Date:Fri Jul 20 20:17:18 BST 2007

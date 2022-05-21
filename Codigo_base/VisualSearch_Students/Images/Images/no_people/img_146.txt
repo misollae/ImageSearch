@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/521054701
+ID:521054701
+Title:22 Paco
+Description:null
+
+Latitude:45.10893
+Longitude:7.470467
+Date:Thu May 10 18:32:21 BST 2007

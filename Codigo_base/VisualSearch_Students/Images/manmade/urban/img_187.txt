@@ -1,0 +1,9 @@
+Username:22908912@N04
+URL:http://flickr.com/photos/22908912@N04/2198512897
+ID:2198512897
+Title:3 Shipment Doors
+Description:null
+
+Latitude:33.73247
+Longitude:-117.996185
+Date:Thu Jan 17 08:48:33 GMT 2008

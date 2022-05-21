@@ -1,0 +1,9 @@
+Username:14242265@N00
+URL:http://flickr.com/photos/14242265@N00/2199293101
+ID:2199293101
+Title:Callejuelas de Lisboa
+Description:null
+
+Latitude:38.71056
+Longitude:-9.146482
+Date:Thu Jan 17 18:14:23 GMT 2008

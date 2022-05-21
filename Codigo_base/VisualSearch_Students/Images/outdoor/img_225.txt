@@ -1,0 +1,9 @@
+Username:95727254@N00
+URL:http://flickr.com/photos/95727254@N00/1336206643
+ID:1336206643
+Title:McCoy Stadium
+Description:null
+
+Latitude:41.87276
+Longitude:-71.36987
+Date:Fri Aug 31 19:52:27 BST 2007

@@ -1,0 +1,9 @@
+Username:68756453@N00
+URL:http://flickr.com/photos/68756453@N00/2331935529
+ID:2331935529
+Title:Scott marvels at the sea
+Description:null
+
+Latitude:37.72209
+Longitude:-122.50602
+Date:Thu Mar 13 17:43:35 GMT 2008

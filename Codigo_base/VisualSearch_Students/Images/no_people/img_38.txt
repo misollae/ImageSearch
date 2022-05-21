@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/2050684743
+ID:2050684743
+Title:35 Fontana nel fossato
+Description:null
+
+Latitude:44.83788
+Longitude:11.620273
+Date:Sun Jul 08 20:20:39 BST 2007

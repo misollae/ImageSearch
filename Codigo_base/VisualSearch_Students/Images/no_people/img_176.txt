@@ -1,0 +1,9 @@
+Username:15089406@N00
+URL:http://flickr.com/photos/15089406@N00/511318570
+ID:511318570
+Title:IMG_2088.JPG
+Description:null
+
+Latitude:42.359657
+Longitude:-71.09199
+Date:Mon May 14 19:55:03 BST 2007

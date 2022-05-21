@@ -1,0 +1,9 @@
+Username:79053562@N00
+URL:http://flickr.com/photos/79053562@N00/2299364903
+ID:2299364903
+Title:XYZ Bar
+Description:null
+
+Latitude:37.785267
+Longitude:-122.400764
+Date:Wed Feb 27 19:55:01 GMT 2008

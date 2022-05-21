@@ -1,0 +1,9 @@
+Username:21455786@N02
+URL:http://flickr.com/photos/21455786@N02/2278236266
+ID:2278236266
+Title:Plastic Jungle
+Description:null
+
+Latitude:41.014935
+Longitude:28.96939
+Date:Fri Mar 02 11:54:11 GMT 2007

@@ -1,0 +1,9 @@
+Username:60027857@N00
+URL:http://flickr.com/photos/60027857@N00/2325540061
+ID:2325540061
+Title:Kiss me, Eskimo style
+Description:null
+
+Latitude:60.144173
+Longitude:24.9852
+Date:Sat Feb 23 12:21:03 GMT 2008

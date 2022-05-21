@@ -1,0 +1,9 @@
+Username:7467161@N04
+URL:http://flickr.com/photos/7467161@N04/2327029012
+ID:2327029012
+Title:Jackson Street
+Description:null
+
+Latitude:40.106297
+Longitude:-85.6805
+Date:Sat Mar 08 08:49:28 GMT 2008

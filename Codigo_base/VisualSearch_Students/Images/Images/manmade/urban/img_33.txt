@@ -1,0 +1,9 @@
+Username:8998833@N07
+URL:http://flickr.com/photos/8998833@N07/2328644190
+ID:2328644190
+Title:Looking at San Francisco from Coit Tower
+Description:null
+
+Latitude:37.80246
+Longitude:-122.40586
+Date:Sat Mar 08 04:31:52 GMT 2008

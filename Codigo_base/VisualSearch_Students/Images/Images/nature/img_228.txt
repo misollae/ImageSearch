@@ -1,0 +1,9 @@
+Username:22949449@N03
+URL:http://flickr.com/photos/22949449@N03/2247205896
+ID:2247205896
+Title:Mossman Gorge
+Description:null
+
+Latitude:-16.46625
+Longitude:145.36346
+Date:Tue Feb 05 15:25:42 GMT 2008

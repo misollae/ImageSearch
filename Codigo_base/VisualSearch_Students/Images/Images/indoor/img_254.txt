@@ -1,0 +1,9 @@
+Username:22475604@N00
+URL:http://flickr.com/photos/22475604@N00/306514846
+ID:306514846
+Title:IMG_1308
+Description:null
+
+Latitude:52.217445
+Longitude:0.12174
+Date:Sun Nov 26 02:18:21 GMT 2006

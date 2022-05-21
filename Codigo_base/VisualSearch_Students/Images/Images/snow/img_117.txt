@@ -1,0 +1,9 @@
+Username:7196003@N02
+URL:http://flickr.com/photos/7196003@N02/2282693482
+ID:2282693482
+Title:Drilling holes in the ice
+Description:null
+
+Latitude:45.34688
+Longitude:-73.9846
+Date:Thu Feb 14 16:53:46 GMT 2008

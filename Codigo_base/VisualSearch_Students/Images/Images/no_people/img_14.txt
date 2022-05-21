@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/2062561012
+ID:2062561012
+Title:74 Riva destra con tramonto
+Description:null
+
+Latitude:44.88717
+Longitude:11.608933
+Date:Fri Jul 20 20:08:53 BST 2007

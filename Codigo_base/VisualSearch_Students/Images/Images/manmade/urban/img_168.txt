@@ -1,0 +1,9 @@
+Username:22908912@N04
+URL:http://flickr.com/photos/22908912@N04/2198532043
+ID:2198532043
+Title:Loose Shigle
+Description:null
+
+Latitude:33.731388
+Longitude:-117.99845
+Date:Thu Jan 17 09:10:46 GMT 2008

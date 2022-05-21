@@ -1,0 +1,9 @@
+Username:22287966@N03
+URL:http://flickr.com/photos/22287966@N03/2318412223
+ID:2318412223
+Title:Attitude
+Description:null
+
+Latitude:38.938858
+Longitude:-77.08917
+Date:Thu Mar 06 08:11:54 GMT 2008

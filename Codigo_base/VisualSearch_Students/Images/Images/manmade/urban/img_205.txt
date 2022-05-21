@@ -1,0 +1,9 @@
+Username:48891180@N00
+URL:http://flickr.com/photos/48891180@N00/2198669124
+ID:2198669124
+Title:Bridge
+Description:null
+
+Latitude:42.354225
+Longitude:-71.04882
+Date:Wed Jan 16 19:28:32 GMT 2008

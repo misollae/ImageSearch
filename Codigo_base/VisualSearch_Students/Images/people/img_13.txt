@@ -1,0 +1,9 @@
+Username:87859676@N00
+URL:http://flickr.com/photos/87859676@N00/2308587887
+ID:2308587887
+Title:Downtown Manhattan & Hudson Waterfront
+Description:null
+
+Latitude:40.713543
+Longitude:-74.00669
+Date:Sun Mar 02 14:56:32 GMT 2008

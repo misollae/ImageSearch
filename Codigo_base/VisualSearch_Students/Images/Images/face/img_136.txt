@@ -1,0 +1,9 @@
+Username:48041193@N00
+URL:http://flickr.com/photos/48041193@N00/2303202898
+ID:2303202898
+Title:Claudie
+Description:null
+
+Latitude:52.20424
+Longitude:-1.713867
+Date:Thu Feb 28 21:18:35 GMT 2008

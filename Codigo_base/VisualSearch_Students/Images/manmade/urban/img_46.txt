@@ -1,0 +1,9 @@
+Username:38305415@N00
+URL:http://flickr.com/photos/38305415@N00/2325986545
+ID:2325986545
+Title:Twilight Gothenburg
+Description:null
+
+Latitude:57.707554
+Longitude:11.971503
+Date:Tue Mar 11 07:01:55 GMT 2008

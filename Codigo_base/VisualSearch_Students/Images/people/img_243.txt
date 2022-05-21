@@ -1,0 +1,9 @@
+Username:51378257@N00
+URL:http://flickr.com/photos/51378257@N00/2231703711
+ID:2231703711
+Title:Petroglyph
+Description:null
+
+Latitude:36.060867
+Longitude:-107.95683
+Date:Wed Jan 09 12:25:59 GMT 2008

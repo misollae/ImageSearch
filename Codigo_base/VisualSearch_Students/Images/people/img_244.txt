@@ -1,0 +1,9 @@
+Username:7680947@N06
+URL:http://flickr.com/photos/7680947@N06/2231209589
+ID:2231209589
+Title:umbrellas
+Description:null
+
+Latitude:41.905823
+Longitude:12.48212
+Date:Wed Jan 16 22:49:53 GMT 2008

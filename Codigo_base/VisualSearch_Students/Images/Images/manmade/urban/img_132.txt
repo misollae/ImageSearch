@@ -1,0 +1,9 @@
+Username:89716538@N00
+URL:http://flickr.com/photos/89716538@N00/2199433555
+ID:2199433555
+Title:Oceanário  Man
+Description:null
+
+Latitude:38.762417
+Longitude:-9.093756
+Date:Fri Dec 14 13:58:29 GMT 2007

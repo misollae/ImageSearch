@@ -1,0 +1,9 @@
+Username:22467786@N03
+URL:http://flickr.com/photos/22467786@N03/2314374629
+ID:2314374629
+Title:Me... Just a kid
+Description:null
+
+Latitude:45.645794
+Longitude:25.593477
+Date:Sat Dec 08 14:05:59 GMT 2007

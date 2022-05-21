@@ -1,0 +1,9 @@
+Username:92283658@N00
+URL:http://flickr.com/photos/92283658@N00/915906039
+ID:915906039
+Title:Lovely Couple
+Description:null
+
+Latitude:34.419395
+Longitude:-119.66431
+Date:Thu Jul 26 21:54:54 BST 2007

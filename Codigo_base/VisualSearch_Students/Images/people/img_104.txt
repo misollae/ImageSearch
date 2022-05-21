@@ -1,0 +1,9 @@
+Username:9454850@N08
+URL:http://flickr.com/photos/9454850@N08/2304294430
+ID:2304294430
+Title:Couple in love
+Description:null
+
+Latitude:25.790405
+Longitude:-80.1356
+Date:Thu Feb 28 22:03:58 GMT 2008

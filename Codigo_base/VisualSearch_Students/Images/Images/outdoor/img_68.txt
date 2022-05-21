@@ -1,0 +1,9 @@
+Username:9424255@N05
+URL:http://flickr.com/photos/9424255@N05/2299606379
+ID:2299606379
+Title:zelená liška
+Description:null
+
+Latitude:50.04899
+Longitude:14.445144
+Date:Thu Feb 28 08:57:31 GMT 2008

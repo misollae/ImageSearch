@@ -1,0 +1,9 @@
+Username:36312349@N00
+URL:http://flickr.com/photos/36312349@N00/2330488627
+ID:2330488627
+Title:funston ave
+Description:null
+
+Latitude:37.772182
+Longitude:-122.46803
+Date:Fri Feb 15 15:52:45 GMT 2008

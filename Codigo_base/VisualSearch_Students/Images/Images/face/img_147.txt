@@ -1,0 +1,9 @@
+Username:22287966@N03
+URL:http://flickr.com/photos/22287966@N03/2299855697
+ID:2299855697
+Title:Eyeglasses
+Description:null
+
+Latitude:38.938858
+Longitude:-77.08917
+Date:Thu Feb 28 15:59:54 GMT 2008

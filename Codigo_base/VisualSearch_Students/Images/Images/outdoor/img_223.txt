@@ -1,0 +1,9 @@
+Username:95727254@N00
+URL:http://flickr.com/photos/95727254@N00/1337089868
+ID:1337089868
+Title:Watching the bullpen
+Description:null
+
+Latitude:41.873436
+Longitude:-71.37094
+Date:Fri Aug 31 18:50:32 BST 2007

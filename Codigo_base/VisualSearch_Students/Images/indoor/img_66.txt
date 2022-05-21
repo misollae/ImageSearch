@@ -1,0 +1,9 @@
+Username:83567758@N00
+URL:http://flickr.com/photos/83567758@N00/2264748730
+ID:2264748730
+Title:Chillin' in my Crib Old School
+Description:null
+
+Latitude:38.07846
+Longitude:-122.54878
+Date:Sat Feb 09 14:00:20 GMT 2008

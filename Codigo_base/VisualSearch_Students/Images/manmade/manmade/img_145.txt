@@ -1,0 +1,9 @@
+Username:51345245@N00
+URL:http://flickr.com/photos/51345245@N00/484617269
+ID:484617269
+Title:Cromer!
+Description:null
+
+Latitude:34.09657
+Longitude:-118.30445
+Date:Thu Apr 26 01:53:06 BST 2007

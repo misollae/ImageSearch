@@ -1,0 +1,9 @@
+Username:24505618@N00
+URL:http://flickr.com/photos/24505618@N00/2232269693
+ID:2232269693
+Title:bike traveler
+Description:null
+
+Latitude:22.454191
+Longitude:114.03475
+Date:Sun Jun 24 16:59:18 BST 2007

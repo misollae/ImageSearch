@@ -1,0 +1,9 @@
+Username:42955034@N00
+URL:http://flickr.com/photos/42955034@N00/2285564855
+ID:2285564855
+Title:Epcot, WDW
+Description:null
+
+Latitude:28.416603
+Longitude:-81.58238
+Date:Sat Apr 09 14:57:44 BST 2005

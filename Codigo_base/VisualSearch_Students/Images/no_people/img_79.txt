@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/863746031
+ID:863746031
+Title:06 Qui la fanno buona
+Description:null
+
+Latitude:44.365005
+Longitude:9.145801
+Date:Sun Jun 10 16:46:02 BST 2007

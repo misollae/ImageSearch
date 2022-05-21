@@ -1,0 +1,9 @@
+Username:86371462@N00
+URL:http://flickr.com/photos/86371462@N00/311952879
+ID:311952879
+Title:Work In Progress
+Description:null
+
+Latitude:38.55753
+Longitude:-90.195885
+Date:Wed Jul 02 13:01:05 BST 2003

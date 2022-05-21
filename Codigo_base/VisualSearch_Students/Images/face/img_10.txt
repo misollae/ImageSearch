@@ -1,0 +1,9 @@
+Username:49649387@N00
+URL:http://flickr.com/photos/49649387@N00/2335737517
+ID:2335737517
+Title:Indoor Street Photography
+Description:null
+
+Latitude:40.761734
+Longitude:-73.97763
+Date:Sat Mar 15 14:14:54 GMT 2008

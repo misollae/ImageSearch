@@ -1,0 +1,9 @@
+Username:11763796@N08
+URL:http://flickr.com/photos/11763796@N08/2329757558
+ID:2329757558
+Title:Icicles
+Description:null
+
+Latitude:40.42596
+Longitude:-80.01844
+Date:Mon Mar 10 17:47:56 GMT 2008

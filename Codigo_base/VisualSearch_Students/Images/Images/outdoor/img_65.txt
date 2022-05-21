@@ -1,0 +1,9 @@
+Username:9424255@N05
+URL:http://flickr.com/photos/9424255@N05/2299604423
+ID:2299604423
+Title:p?ed dolem mayrau
+Description:null
+
+Latitude:50.16585
+Longitude:14.084255
+Date:Fri Feb 15 13:53:45 GMT 2008

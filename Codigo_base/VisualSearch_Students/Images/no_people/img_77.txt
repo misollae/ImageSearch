@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/863765249
+ID:863765249
+Title:24 I due ciccini
+Description:null
+
+Latitude:44.406086
+Longitude:8.939389
+Date:Sun Jun 10 19:29:11 BST 2007

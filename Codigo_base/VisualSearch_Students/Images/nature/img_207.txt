@@ -1,0 +1,9 @@
+Username:22993167@N05
+URL:http://flickr.com/photos/22993167@N05/2248248425
+ID:2248248425
+Title:shallow pool
+Description:null
+
+Latitude:29.101912
+Longitude:-82.43761
+Date:Wed Feb 06 13:51:28 GMT 2008

@@ -1,0 +1,9 @@
+Username:61428962@N00
+URL:http://flickr.com/photos/61428962@N00/2324973865
+ID:2324973865
+Title:Strike a Pose
+Description:null
+
+Latitude:29.596968
+Longitude:-98.61136
+Date:Sat Mar 08 14:32:03 GMT 2008

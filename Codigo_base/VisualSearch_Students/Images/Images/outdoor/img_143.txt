@@ -1,0 +1,9 @@
+Username:42955034@N00
+URL:http://flickr.com/photos/42955034@N00/2281887991
+ID:2281887991
+Title:Autumn colors of Shenandoah
+Description:null
+
+Latitude:38.727283
+Longitude:-78.289764
+Date:Fri Oct 20 16:17:30 BST 2006

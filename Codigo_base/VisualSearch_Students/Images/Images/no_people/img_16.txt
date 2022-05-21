@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/2062565024
+ID:2062565024
+Title:76 Ponte sul Po
+Description:null
+
+Latitude:44.887497
+Longitude:11.608192
+Date:Fri Jul 20 20:11:42 BST 2007

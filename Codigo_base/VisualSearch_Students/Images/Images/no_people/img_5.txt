@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/2105459783
+ID:2105459783
+Title:110 Il cuore del tramonto
+Description:null
+
+Latitude:44.924225
+Longitude:11.727197
+Date:Sun Jul 22 20:37:20 BST 2007

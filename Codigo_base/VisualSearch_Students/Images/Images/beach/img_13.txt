@@ -1,0 +1,9 @@
+Username:48889068537@N01
+URL:http://flickr.com/photos/48889068537@N01/2332167001
+ID:2332167001
+Title:Feeble sun
+Description:null
+
+Latitude:45.881325
+Longitude:-123.96415
+Date:Sat Mar 01 11:05:26 GMT 2008

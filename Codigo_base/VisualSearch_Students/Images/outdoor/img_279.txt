@@ -1,0 +1,9 @@
+Username:12179651@N07
+URL:http://flickr.com/photos/12179651@N07/1305604049
+ID:1305604049
+Title:Sword Fighting
+Description:null
+
+Latitude:39.0008
+Longitude:-76.58396
+Date:Sat Sep 01 14:10:56 BST 2007

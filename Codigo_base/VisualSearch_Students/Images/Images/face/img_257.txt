@@ -1,0 +1,9 @@
+Username:56029500@N00
+URL:http://flickr.com/photos/56029500@N00/1261011618
+ID:1261011618
+Title:Written Kacendre #5
+Description:null
+
+Latitude:48.879406
+Longitude:2.314767
+Date:Sun Aug 19 16:06:36 BST 2007

@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/521074191
+ID:521074191
+Title:78 Monviso tra l'erba
+Description:null
+
+Latitude:45.11359
+Longitude:7.455891
+Date:Thu May 10 20:38:20 BST 2007

@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/835903983
+ID:835903983
+Title:01 Giardino del collegio
+Description:null
+
+Latitude:45.03206
+Longitude:7.644671
+Date:Fri May 18 07:28:07 BST 2007

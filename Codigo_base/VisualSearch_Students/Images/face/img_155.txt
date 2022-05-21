@@ -1,0 +1,9 @@
+Username:92025065@N00
+URL:http://flickr.com/photos/92025065@N00/1306859977
+ID:1306859977
+Title:IMGA0016
+Description:null
+
+Latitude:33.7136
+Longitude:-118.01178
+Date:Fri Aug 24 19:45:04 BST 2007

@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/2105454659
+ID:2105454659
+Title:106 Architettura sacra o civile... basta che sia in mattoni!
+Description:null
+
+Latitude:44.95897
+Longitude:11.82219
+Date:Sun Jul 22 19:56:40 BST 2007

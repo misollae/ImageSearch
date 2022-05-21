@@ -1,0 +1,9 @@
+Username:63277862@N00
+URL:http://flickr.com/photos/63277862@N00/2307197394
+ID:2307197394
+Title:_MG_3470
+Description:null
+
+Latitude:48.4625
+Longitude:-122.98893
+Date:Sat Mar 01 15:55:46 GMT 2008

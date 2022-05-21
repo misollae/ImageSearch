@@ -1,0 +1,9 @@
+Username:8550255@N03
+URL:http://flickr.com/photos/8550255@N03/1250802369
+ID:1250802369
+Title:2007-0801LibrarySummerReading (6)
+Description:null
+
+Latitude:32.858845
+Longitude:-116.92014
+Date:Wed Aug 01 15:37:10 BST 2007

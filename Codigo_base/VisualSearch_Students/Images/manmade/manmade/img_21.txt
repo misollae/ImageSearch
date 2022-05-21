@@ -1,0 +1,9 @@
+Username:8997662@N06
+URL:http://flickr.com/photos/8997662@N06/2223280567
+ID:2223280567
+Title:Canary Wharf #2
+Description:null
+
+Latitude:51.501118
+Longitude:-0.040463
+Date:Sun Jan 27 17:16:19 GMT 2008

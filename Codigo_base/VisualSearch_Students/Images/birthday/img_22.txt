@@ -1,0 +1,9 @@
+Username:34145827@N00
+URL:http://flickr.com/photos/34145827@N00/2334714273
+ID:2334714273
+Title:/Scott/
+Description:null
+
+Latitude:41.931686
+Longitude:-87.68361
+Date:Wed Mar 12 21:10:45 GMT 2008

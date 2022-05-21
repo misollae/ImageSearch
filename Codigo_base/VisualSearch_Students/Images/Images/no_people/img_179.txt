@@ -1,0 +1,9 @@
+Username:94935685@N00
+URL:http://flickr.com/photos/94935685@N00/508405544
+ID:508405544
+Title:Sleeping Beauty Courtyard
+Description:null
+
+Latitude:33.81284
+Longitude:-117.91879
+Date:Sat May 19 08:23:24 BST 2007

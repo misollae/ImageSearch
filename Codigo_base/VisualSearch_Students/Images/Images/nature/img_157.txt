@@ -1,0 +1,9 @@
+Username:22993167@N05
+URL:http://flickr.com/photos/22993167@N05/2251544898
+ID:2251544898
+Title:afternoon snack time
+Description:null
+
+Latitude:29.101912
+Longitude:-82.43761
+Date:Wed Feb 06 14:46:33 GMT 2008

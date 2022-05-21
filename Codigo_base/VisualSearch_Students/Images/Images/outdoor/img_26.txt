@@ -1,0 +1,9 @@
+Username:14628801@N08
+URL:http://flickr.com/photos/14628801@N08/2303585702
+ID:2303585702
+Title:center stage
+Description:null
+
+Latitude:33.894653
+Longitude:-117.826096
+Date:Fri Feb 29 07:45:16 GMT 2008

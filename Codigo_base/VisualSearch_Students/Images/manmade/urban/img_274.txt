@@ -1,0 +1,9 @@
+Username:70505071@N00
+URL:http://flickr.com/photos/70505071@N00/2194553585
+ID:2194553585
+Title:Chicago skyline from Millennium Park, January 2008
+Description:null
+
+Latitude:41.88272
+Longitude:-87.62333
+Date:Sat Jan 12 15:44:03 GMT 2008

@@ -1,0 +1,9 @@
+Username:14758837@N08
+URL:http://flickr.com/photos/14758837@N08/2330118860
+ID:2330118860
+Title:Lake Erie
+Description:null
+
+Latitude:41.49573
+Longitude:-82.08833
+Date:Wed Mar 12 16:21:01 GMT 2008

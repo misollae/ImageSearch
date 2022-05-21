@@ -1,0 +1,9 @@
+Username:34582332@N00
+URL:http://flickr.com/photos/34582332@N00/2329605128
+ID:2329605128
+Title:Spring Afternoon on the Back Beach
+Description:null
+
+Latitude:50.543667
+Longitude:-3.498866
+Date:Wed Apr 18 17:12:22 BST 2007

@@ -1,0 +1,9 @@
+Username:29368678@N00
+URL:http://flickr.com/photos/29368678@N00/2196745030
+ID:2196745030
+Title:Gates of the City.
+Description:null
+
+Latitude:47.613953
+Longitude:-122.3321
+Date:Fri Jan 11 16:54:30 GMT 2008

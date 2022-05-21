@@ -1,0 +1,9 @@
+Username:38425817@N00
+URL:http://flickr.com/photos/38425817@N00/2280615618
+ID:2280615618
+Title:Day Two
+Description:null
+
+Latitude:45.57297
+Longitude:6.78704
+Date:Mon Jan 28 11:33:10 GMT 2008

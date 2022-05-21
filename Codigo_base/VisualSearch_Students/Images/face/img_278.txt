@@ -1,0 +1,9 @@
+Username:42683636@N00
+URL:http://flickr.com/photos/42683636@N00/1250905773
+ID:1250905773
+Title:Home Wall, By Philip Schade
+Description:null
+
+Latitude:52.380844
+Longitude:4.877361
+Date:Tue Aug 21 22:16:43 BST 2007

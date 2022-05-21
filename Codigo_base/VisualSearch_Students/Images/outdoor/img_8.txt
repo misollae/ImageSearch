@@ -1,0 +1,9 @@
+Username:61417564@N00
+URL:http://flickr.com/photos/61417564@N00/2307488713
+ID:2307488713
+Title:Bridge 243
+Description:null
+
+Latitude:51.75612
+Longitude:-1.269429
+Date:Sat Mar 01 14:43:28 GMT 2008

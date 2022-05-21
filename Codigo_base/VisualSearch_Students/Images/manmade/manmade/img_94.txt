@@ -1,0 +1,9 @@
+Username:37978719@N00
+URL:http://flickr.com/photos/37978719@N00/490719469
+ID:490719469
+Title:sun setting
+Description:null
+
+Latitude:41.40978
+Longitude:-81.620575
+Date:Mon May 08 20:06:29 BST 2006

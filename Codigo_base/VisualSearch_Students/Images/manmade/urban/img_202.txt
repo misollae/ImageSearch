@@ -1,0 +1,9 @@
+Username:48891180@N00
+URL:http://flickr.com/photos/48891180@N00/2198666976
+ID:2198666976
+Title:Buildings
+Description:null
+
+Latitude:42.35262
+Longitude:-71.04972
+Date:Wed Jan 16 19:18:17 GMT 2008

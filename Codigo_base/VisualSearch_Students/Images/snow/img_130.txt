@@ -1,0 +1,9 @@
+Username:11376310@N00
+URL:http://flickr.com/photos/11376310@N00/2281112119
+ID:2281112119
+Title:Startgels BergRestaurant
+Description:null
+
+Latitude:46.85673
+Longitude:9.251715
+Date:Fri Feb 01 13:44:44 GMT 2008

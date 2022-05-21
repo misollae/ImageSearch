@@ -1,0 +1,9 @@
+Username:8998833@N07
+URL:http://flickr.com/photos/8998833@N07/2328645414
+ID:2328645414
+Title:Descending Telegraph Hill
+Description:null
+
+Latitude:37.80269
+Longitude:-122.40688
+Date:Sat Mar 08 04:47:25 GMT 2008

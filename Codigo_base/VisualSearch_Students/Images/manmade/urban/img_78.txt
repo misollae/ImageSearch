@@ -1,0 +1,9 @@
+Username:9048663@N05
+URL:http://flickr.com/photos/9048663@N05/2325010772
+ID:2325010772
+Title:BITC 2176
+Description:null
+
+Latitude:30.225588
+Longitude:-92.01643
+Date:Sat Mar 08 17:28:26 GMT 2008

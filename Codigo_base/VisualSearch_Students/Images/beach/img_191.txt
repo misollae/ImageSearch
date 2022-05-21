@@ -1,0 +1,9 @@
+Username:52439376@N00
+URL:http://flickr.com/photos/52439376@N00/2255178901
+ID:2255178901
+Title:The ... Er, What Is It Exactly?
+Description:null
+
+Latitude:50.820168
+Longitude:-0.143666
+Date:Sat Feb 09 16:17:38 GMT 2008

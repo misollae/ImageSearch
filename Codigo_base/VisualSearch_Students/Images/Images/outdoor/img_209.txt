@@ -1,0 +1,9 @@
+Username:7328892@N03
+URL:http://flickr.com/photos/7328892@N03/1351191610
+ID:1351191610
+Title:
+Description:null
+
+Latitude:1.310482
+Longitude:103.882065
+Date:Sat Sep 01 21:28:31 BST 2007

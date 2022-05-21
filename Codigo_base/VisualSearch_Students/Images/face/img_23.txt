@@ -1,0 +1,9 @@
+Username:11361726@N08
+URL:http://flickr.com/photos/11361726@N08/2332655467
+ID:2332655467
+Title:p1010292
+Description:null
+
+Latitude:59.349216
+Longitude:18.069462
+Date:Fri Mar 14 23:32:12 GMT 2008

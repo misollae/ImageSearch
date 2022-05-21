@@ -1,0 +1,9 @@
+Username:7332624@N06
+URL:http://flickr.com/photos/7332624@N06/1027522582
+ID:1027522582
+Title:Waiting
+Description:null
+
+Latitude:52.13501
+Longitude:-0.465331
+Date:Sat Aug 04 15:50:44 BST 2007

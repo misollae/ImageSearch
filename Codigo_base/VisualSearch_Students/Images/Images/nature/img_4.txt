@@ -1,0 +1,9 @@
+Username:21332383@N00
+URL:http://flickr.com/photos/21332383@N00/2332020663
+ID:2332020663
+Title:sunsetoversportsfield
+Description:null
+
+Latitude:41.906254
+Longitude:-87.634605
+Date:Mon Oct 08 16:57:11 BST 2007

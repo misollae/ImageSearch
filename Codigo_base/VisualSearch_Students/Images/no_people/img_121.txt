@@ -1,0 +1,9 @@
+Username:15089406@N00
+URL:http://flickr.com/photos/15089406@N00/541293396
+ID:541293396
+Title:IMG_2284.JPG
+Description:null
+
+Latitude:42.39911
+Longitude:-71.11584
+Date:Wed Jun 06 18:43:41 BST 2007

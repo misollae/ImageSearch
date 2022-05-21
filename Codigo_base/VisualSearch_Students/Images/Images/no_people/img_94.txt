@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/835911347
+ID:835911347
+Title:02 Facciata del collegio
+Description:null
+
+Latitude:45.03266
+Longitude:7.645883
+Date:Fri May 18 07:34:07 BST 2007

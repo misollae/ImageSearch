@@ -1,0 +1,9 @@
+Username:7332624@N06
+URL:http://flickr.com/photos/7332624@N06/1026117333
+ID:1026117333
+Title:Confetti I
+Description:null
+
+Latitude:52.137794
+Longitude:-0.444205
+Date:Sat Aug 04 14:32:58 BST 2007

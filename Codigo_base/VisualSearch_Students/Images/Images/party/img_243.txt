@@ -1,0 +1,9 @@
+Username:16433094@N00
+URL:http://flickr.com/photos/16433094@N00/2267078689
+ID:2267078689
+Title:Maru's Party
+Description:null
+
+Latitude:41.91863
+Longitude:12.496551
+Date:Wed Feb 13 23:58:14 GMT 2008

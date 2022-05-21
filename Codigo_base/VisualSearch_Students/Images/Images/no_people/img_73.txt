@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/876087181
+ID:876087181
+Title:Una nuvola vuole salire
+Description:null
+
+Latitude:43.85746
+Longitude:7.650293
+Date:Sun Jun 17 15:29:43 BST 2007

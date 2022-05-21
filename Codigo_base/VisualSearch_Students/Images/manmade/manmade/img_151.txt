@@ -1,0 +1,9 @@
+Username:26677062@N00
+URL:http://flickr.com/photos/26677062@N00/481157445
+ID:481157445
+Title:Which Way?
+Description:null
+
+Latitude:53.276512
+Longitude:-6.267925
+Date:Sun Apr 29 17:36:05 BST 2007

@@ -1,0 +1,9 @@
+Username:9454850@N08
+URL:http://flickr.com/photos/9454850@N08/2233554141
+ID:2233554141
+Title:Giving directions and..
+Description:null
+
+Latitude:25.787323
+Longitude:-80.1317
+Date:Thu Jan 31 14:33:04 GMT 2008

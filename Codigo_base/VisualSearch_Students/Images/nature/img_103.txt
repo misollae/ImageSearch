@@ -1,0 +1,9 @@
+Username:21059999@N08
+URL:http://flickr.com/photos/21059999@N08/2069222190
+ID:2069222190
+Title:Canyon Waves
+Description:null
+
+Latitude:36.89825
+Longitude:-111.4084
+Date:Sat Nov 24 12:02:56 GMT 2007

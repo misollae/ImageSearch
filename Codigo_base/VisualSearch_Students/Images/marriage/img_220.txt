@@ -1,0 +1,9 @@
+Username:87603889@N00
+URL:http://flickr.com/photos/87603889@N00/988192570
+ID:988192570
+Title:Everything I'll ever be, I've been
+Description:null
+
+Latitude:45.898804
+Longitude:6.126959
+Date:Sat Jul 07 19:32:16 BST 2007

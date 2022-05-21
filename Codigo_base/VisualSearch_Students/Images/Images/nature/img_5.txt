@@ -1,0 +1,9 @@
+Username:21332383@N00
+URL:http://flickr.com/photos/21332383@N00/2332021769
+ID:2332021769
+Title:LPZ Fence
+Description:null
+
+Latitude:41.917023
+Longitude:-87.63409
+Date:Fri Nov 02 11:08:01 GMT 2007

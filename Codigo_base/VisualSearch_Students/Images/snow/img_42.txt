@@ -1,0 +1,9 @@
+Username:28069677@N00
+URL:http://flickr.com/photos/28069677@N00/2331105817
+ID:2331105817
+Title:IMG_0053
+Description:null
+
+Latitude:40.69765
+Longitude:-80.07775
+Date:Tue Jan 16 09:21:50 GMT 2007

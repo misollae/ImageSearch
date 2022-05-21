@@ -1,0 +1,9 @@
+Username:29954226@N00
+URL:http://flickr.com/photos/29954226@N00/2309127755
+ID:2309127755
+Title:On the Bridge #2
+Description:null
+
+Latitude:45.76868
+Longitude:4.839209
+Date:Sat Mar 01 16:24:43 GMT 2008

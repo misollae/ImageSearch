@@ -1,0 +1,9 @@
+Username:16709278@N02
+URL:http://flickr.com/photos/16709278@N02/2330525298
+ID:2330525298
+Title:Springtime in Florida
+Description:null
+
+Latitude:29.1599
+Longitude:-82.22906
+Date:Wed Mar 12 17:23:52 GMT 2008

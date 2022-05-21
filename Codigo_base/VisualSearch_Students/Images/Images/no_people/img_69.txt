@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/885477779
+ID:885477779
+Title:07 Ondona
+Description:null
+
+Latitude:44.388798
+Longitude:8.647801
+Date:Sat Jun 23 19:16:25 BST 2007

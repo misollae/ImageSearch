@@ -1,0 +1,9 @@
+Username:75468733@N00
+URL:http://flickr.com/photos/75468733@N00/2280686488
+ID:2280686488
+Title:Bush
+Description:null
+
+Latitude:39.997627
+Longitude:-83.0417
+Date:Wed Feb 20 17:17:11 GMT 2008

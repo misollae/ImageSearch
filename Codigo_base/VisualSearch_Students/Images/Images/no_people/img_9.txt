@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/2105456233
+ID:2105456233
+Title:107 La fontana della salvezza
+Description:null
+
+Latitude:44.95897
+Longitude:11.82219
+Date:Sun Jul 22 19:57:09 BST 2007

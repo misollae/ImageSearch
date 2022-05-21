@@ -1,0 +1,9 @@
+Username:62328475@N00
+URL:http://flickr.com/photos/62328475@N00/1259259463
+ID:1259259463
+Title:The fox
+Description:null
+
+Latitude:36.08166
+Longitude:140.20238
+Date:Sun Jul 23 19:38:53 BST 2006

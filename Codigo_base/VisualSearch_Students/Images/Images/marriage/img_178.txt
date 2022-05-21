@@ -1,0 +1,9 @@
+Username:7332624@N06
+URL:http://flickr.com/photos/7332624@N06/1027521992
+ID:1027521992
+Title:Boys Will Be Boys
+Description:null
+
+Latitude:52.135014
+Longitude:-0.463603
+Date:Sat Aug 04 15:26:30 BST 2007

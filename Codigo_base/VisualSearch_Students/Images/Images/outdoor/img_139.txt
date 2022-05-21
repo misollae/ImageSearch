@@ -1,0 +1,9 @@
+Username:42955034@N00
+URL:http://flickr.com/photos/42955034@N00/2283224562
+ID:2283224562
+Title:Stormy night
+Description:null
+
+Latitude:39.04013
+Longitude:-77.40167
+Date:Thu Jun 22 23:31:58 BST 2006

@@ -1,0 +1,9 @@
+Username:73992036@N00
+URL:http://flickr.com/photos/73992036@N00/316565644
+ID:316565644
+Title:Congaree National Park - Harry Hampton Building
+Description:null
+
+Latitude:33.829662
+Longitude:-80.82347
+Date:Thu Dec 07 13:36:59 GMT 2006

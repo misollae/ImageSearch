@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/850395265
+ID:850395265
+Title:04 Vicolo taggiasco
+Description:null
+
+Latitude:43.861794
+Longitude:7.850863
+Date:Sat May 26 18:38:26 BST 2007

@@ -1,0 +1,9 @@
+Username:23968967@N05
+URL:http://flickr.com/photos/23968967@N05/2280653776
+ID:2280653776
+Title:Crystal Clear
+Description:null
+
+Latitude:48.4468
+Longitude:-123.465385
+Date:Mon Jan 28 15:59:35 GMT 2008

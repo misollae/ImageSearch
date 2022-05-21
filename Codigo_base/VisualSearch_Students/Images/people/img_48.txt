@@ -1,0 +1,9 @@
+Username:17583607@N02
+URL:http://flickr.com/photos/17583607@N02/2306094844
+ID:2306094844
+Title:Stuck in a moment
+Description:null
+
+Latitude:46.16445
+Longitude:14.306613
+Date:Sun Mar 02 18:58:24 GMT 2008

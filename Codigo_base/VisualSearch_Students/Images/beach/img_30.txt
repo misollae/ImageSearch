@@ -1,0 +1,9 @@
+Username:34582332@N00
+URL:http://flickr.com/photos/34582332@N00/2331062601
+ID:2331062601
+Title:Outgoing Tide
+Description:null
+
+Latitude:50.54233
+Longitude:-3.495004
+Date:Fri May 18 07:04:28 BST 2007

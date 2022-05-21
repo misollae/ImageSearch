@@ -1,0 +1,9 @@
+Username:92283658@N00
+URL:http://flickr.com/photos/92283658@N00/915865821
+ID:915865821
+Title:2007_07260115
+Description:null
+
+Latitude:34.419395
+Longitude:-119.66431
+Date:Thu Jul 26 19:27:49 BST 2007

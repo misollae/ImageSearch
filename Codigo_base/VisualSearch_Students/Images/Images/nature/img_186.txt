@@ -1,0 +1,9 @@
+Username:23437487@N00
+URL:http://flickr.com/photos/23437487@N00/2249771494
+ID:2249771494
+Title:Black Sea Urchin
+Description:null
+
+Latitude:18.066805
+Longitude:-63.01273
+Date:Thu Feb 07 13:36:10 GMT 2008

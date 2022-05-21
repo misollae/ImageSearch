@@ -1,0 +1,9 @@
+Username:96932198@N00
+URL:http://flickr.com/photos/96932198@N00/365603414
+ID:365603414
+Title:The dam and the artificial lake
+Description:null
+
+Latitude:38.1678
+Longitude:23.905762
+Date:Sun Jan 21 17:11:14 GMT 2007

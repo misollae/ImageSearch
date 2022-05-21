@@ -1,0 +1,9 @@
+Username:48973657@N00
+URL:http://flickr.com/photos/48973657@N00/2234365844
+ID:2234365844
+Title:20080131.10D.47824 / SML
+Description:null
+
+Latitude:40.72479
+Longitude:-73.996
+Date:Thu Jan 31 18:41:42 GMT 2008

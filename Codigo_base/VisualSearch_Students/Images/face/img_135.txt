@@ -1,0 +1,9 @@
+Username:22287966@N03
+URL:http://flickr.com/photos/22287966@N03/2303895252
+ID:2303895252
+Title:Geek in Sepia
+Description:null
+
+Latitude:38.938858
+Longitude:-77.08917
+Date:Fri Feb 29 16:05:43 GMT 2008

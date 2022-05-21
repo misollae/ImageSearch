@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/2048640886
+ID:2048640886
+Title:37 Lato ovest del castello
+Description:null
+
+Latitude:44.8372
+Longitude:11.619157
+Date:Sun Jul 08 20:24:10 BST 2007

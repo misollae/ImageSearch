@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/521055053
+ID:521055053
+Title:24 Rocce sul sentiero
+Description:null
+
+Latitude:45.108795
+Longitude:7.470391
+Date:Thu May 10 18:33:39 BST 2007

@@ -1,0 +1,9 @@
+Username:57329804@N00
+URL:http://flickr.com/photos/57329804@N00/304525097
+ID:304525097
+Title:Have a seat
+Description:null
+
+Latitude:48.196716
+Longitude:16.3651
+Date:Wed Nov 22 21:23:46 GMT 2006

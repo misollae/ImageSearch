@@ -1,0 +1,9 @@
+Username:25694343@N00
+URL:http://flickr.com/photos/25694343@N00/523449260
+ID:523449260
+Title:Heidelberg - P4090153
+Description:null
+
+Latitude:49.411957
+Longitude:8.7102
+Date:Fri Apr 09 17:25:07 BST 2004

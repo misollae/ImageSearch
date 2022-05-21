@@ -1,0 +1,9 @@
+Username:24602720@N04
+URL:http://flickr.com/photos/24602720@N04/2329503971
+ID:2329503971
+Title:Yvonne & Guido
+Description:null
+
+Latitude:52.090137
+Longitude:5.120208
+Date:Thu Nov 22 22:17:46 GMT 2007

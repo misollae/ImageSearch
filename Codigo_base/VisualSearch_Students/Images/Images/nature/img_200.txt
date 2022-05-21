@@ -1,0 +1,9 @@
+Username:18590474@N06
+URL:http://flickr.com/photos/18590474@N06/2248335005
+ID:2248335005
+Title:dawn8Jan08-7728
+Description:null
+
+Latitude:37.040535
+Longitude:-76.79411
+Date:Tue Jan 08 07:04:58 GMT 2008

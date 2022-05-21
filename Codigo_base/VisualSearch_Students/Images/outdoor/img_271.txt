@@ -1,0 +1,9 @@
+Username:26112669@N00
+URL:http://flickr.com/photos/26112669@N00/1313091124
+ID:1313091124
+Title:PennsylvaniaCanal_03
+Description:null
+
+Latitude:40.313053
+Longitude:-76.88689
+Date:Sat Sep 01 16:19:22 BST 2007

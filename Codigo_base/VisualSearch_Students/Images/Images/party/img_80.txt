@@ -1,0 +1,9 @@
+Username:29309361@N00
+URL:http://flickr.com/photos/29309361@N00/2337203640
+ID:2337203640
+Title:commemorative photos
+Description:null
+
+Latitude:37.787354
+Longitude:-122.39932
+Date:Sat Mar 15 18:22:12 GMT 2008

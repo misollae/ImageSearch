@@ -1,0 +1,9 @@
+Username:59391643@N00
+URL:http://flickr.com/photos/59391643@N00/1254505125
+ID:1254505125
+Title:IMG_0049
+Description:null
+
+Latitude:47.61069
+Longitude:-122.3132
+Date:Thu Feb 08 20:15:25 GMT 2007

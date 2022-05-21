@@ -1,0 +1,9 @@
+Username:14168523@N07
+URL:http://flickr.com/photos/14168523@N07/1544592221
+ID:1544592221
+Title:Insomnia 2
+Description:null
+
+Latitude:45.752827
+Longitude:8.56661
+Date:Wed May 21 23:40:32 BST 2003

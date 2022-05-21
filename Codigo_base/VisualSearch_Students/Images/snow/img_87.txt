@@ -1,0 +1,9 @@
+Username:30684720@N00
+URL:http://flickr.com/photos/30684720@N00/2282416179
+ID:2282416179
+Title:
+Description:null
+
+Latitude:43.057945
+Longitude:-89.411354
+Date:Sun Jan 27 17:55:31 GMT 2008

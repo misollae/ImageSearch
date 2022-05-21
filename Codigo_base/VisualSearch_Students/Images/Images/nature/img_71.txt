@@ -1,0 +1,9 @@
+Username:35693354@N00
+URL:http://flickr.com/photos/35693354@N00/2328022459
+ID:2328022459
+Title:Sunrise on the way to Ardelethan
+Description:null
+
+Latitude:-34.36271
+Longitude:146.90077
+Date:Sat Sep 15 05:23:22 BST 2007

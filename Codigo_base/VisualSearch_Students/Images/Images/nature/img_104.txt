@@ -1,0 +1,9 @@
+Username:12368550@N06
+URL:http://flickr.com/photos/12368550@N06/2140062383
+ID:2140062383
+Title:germany spreewald: blue house
+Description:null
+
+Latitude:51.861084
+Longitude:13.987738
+Date:Fri Oct 28 14:50:22 BST 2005

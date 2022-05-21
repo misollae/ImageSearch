@@ -1,0 +1,9 @@
+Username:22209645@N06
+URL:http://flickr.com/photos/22209645@N06/2322448988
+ID:2322448988
+Title:flohmarkt
+Description:null
+
+Latitude:52.51351
+Longitude:13.331362
+Date:Sun Sep 09 11:57:14 BST 2007

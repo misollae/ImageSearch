@@ -1,0 +1,9 @@
+Username:88111659@N00
+URL:http://flickr.com/photos/88111659@N00/222301080
+ID:222301080
+Title:Artificial
+Description:null
+
+Latitude:52.242638
+Longitude:21.027004
+Date:Sun Aug 20 00:37:06 BST 2006

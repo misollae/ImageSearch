@@ -1,0 +1,9 @@
+Username:22993167@N05
+URL:http://flickr.com/photos/22993167@N05/2248253217
+ID:2248253217
+Title:waterfall
+Description:null
+
+Latitude:29.101912
+Longitude:-82.43761
+Date:Wed Feb 06 14:38:48 GMT 2008

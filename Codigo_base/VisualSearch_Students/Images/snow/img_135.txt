@@ -1,0 +1,9 @@
+Username:75816562@N00
+URL:http://flickr.com/photos/75816562@N00/2281558710
+ID:2281558710
+Title:observatory
+Description:null
+
+Latitude:19.822563
+Longitude:-155.47536
+Date:Mon Feb 18 17:42:58 GMT 2008

@@ -1,0 +1,9 @@
+Username:9424255@N05
+URL:http://flickr.com/photos/9424255@N05/2300400002
+ID:2300400002
+Title:mexiko a památník
+Description:null
+
+Latitude:49.957043
+Longitude:14.192391
+Date:Sun Feb 17 11:20:34 GMT 2008

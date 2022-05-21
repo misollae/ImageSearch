@@ -1,0 +1,9 @@
+Username:29368678@N00
+URL:http://flickr.com/photos/29368678@N00/2196754848
+ID:2196754848
+Title:City in the Sky
+Description:null
+
+Latitude:47.613308
+Longitude:-122.3327
+Date:Fri Jan 11 17:02:24 GMT 2008

@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/857336296
+ID:857336296
+Title:05 Porta palazzo2
+Description:null
+
+Latitude:45.074734
+Longitude:7.684405
+Date:Wed May 30 00:28:11 BST 2007

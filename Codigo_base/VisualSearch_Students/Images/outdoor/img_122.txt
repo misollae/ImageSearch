@@ -1,0 +1,9 @@
+Username:42955034@N00
+URL:http://flickr.com/photos/42955034@N00/2283032815
+ID:2283032815
+Title:Potomac river fog
+Description:null
+
+Latitude:39.061665
+Longitude:-77.38172
+Date:Mon Dec 26 08:56:59 GMT 2005

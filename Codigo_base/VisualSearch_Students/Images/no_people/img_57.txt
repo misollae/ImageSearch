@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/1336911970
+ID:1336911970
+Title:42 Interno del santuario
+Description:null
+
+Latitude:44.55199
+Longitude:9.076799
+Date:Sun Jun 24 13:09:01 BST 2007

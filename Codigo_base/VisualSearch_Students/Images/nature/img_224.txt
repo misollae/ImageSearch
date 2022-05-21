@@ -1,0 +1,9 @@
+Username:22209535@N05
+URL:http://flickr.com/photos/22209535@N05/2246943333
+ID:2246943333
+Title:Columbia Skyline
+Description:null
+
+Latitude:34.006985
+Longitude:-81.04152
+Date:Fri Feb 01 17:20:56 GMT 2008

@@ -1,0 +1,9 @@
+Username:44124404848@N01
+URL:http://flickr.com/photos/44124404848@N01/2331884423
+ID:2331884423
+Title:Steve McQueen's bicycle
+Description:null
+
+Latitude:60.218536
+Longitude:24.881916
+Date:Wed Mar 05 17:39:58 GMT 2008

@@ -1,0 +1,9 @@
+Username:42139271@N00
+URL:http://flickr.com/photos/42139271@N00/2327771344
+ID:2327771344
+Title:Bulls Bridge II
+Description:null
+
+Latitude:41.67616
+Longitude:-73.50948
+Date:Sun Mar 09 16:20:31 GMT 2008

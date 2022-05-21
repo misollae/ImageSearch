@@ -1,0 +1,9 @@
+Username:9048663@N05
+URL:http://flickr.com/photos/9048663@N05/2324188451
+ID:2324188451
+Title:BITC 2159
+Description:null
+
+Latitude:30.225588
+Longitude:-92.01643
+Date:Sat Mar 08 16:23:36 GMT 2008

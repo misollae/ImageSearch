@@ -1,0 +1,9 @@
+Username:29522315@N00
+URL:http://flickr.com/photos/29522315@N00/2309906650
+ID:2309906650
+Title:04032008063
+Description:null
+
+Latitude:45.467346
+Longitude:6.90211
+Date:Tue Mar 04 08:53:57 GMT 2008

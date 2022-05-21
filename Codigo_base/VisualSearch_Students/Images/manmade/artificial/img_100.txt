@@ -1,0 +1,9 @@
+Username:81583686@N00
+URL:http://flickr.com/photos/81583686@N00/326358343
+ID:326358343
+Title:Turning his back
+Description:null
+
+Latitude:51.507122
+Longitude:-0.023341
+Date:Sun Dec 10 11:09:18 GMT 2006

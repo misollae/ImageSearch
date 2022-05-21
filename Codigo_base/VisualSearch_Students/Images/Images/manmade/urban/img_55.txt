@@ -1,0 +1,9 @@
+Username:8998833@N07
+URL:http://flickr.com/photos/8998833@N07/2325556677
+ID:2325556677
+Title:Posing with the Transamerica Pyramid
+Description:null
+
+Latitude:37.797077
+Longitude:-122.4054
+Date:Mon Mar 10 23:29:02 GMT 2008

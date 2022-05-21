@@ -1,0 +1,9 @@
+Username:10868346@N03
+URL:http://flickr.com/photos/10868346@N03/2303895447
+ID:2303895447
+Title:Hilde & Marc register
+Description:null
+
+Latitude:52.957684
+Longitude:-1.150335
+Date:Fri Feb 29 15:15:03 GMT 2008

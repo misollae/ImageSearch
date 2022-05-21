@@ -1,0 +1,9 @@
+Username:27124343@N00
+URL:http://flickr.com/photos/27124343@N00/1356576710
+ID:1356576710
+Title:Pic 923-672 #022
+Description:null
+
+Latitude:40.61804
+Longitude:-74.02374
+Date:Mon Aug 07 11:22:16 BST 2000

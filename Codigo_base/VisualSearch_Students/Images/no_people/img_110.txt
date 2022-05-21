@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/727574005
+ID:727574005
+Title:40 Ora lavorerò qui
+Description:null
+
+Latitude:44.428352
+Longitude:8.882912
+Date:Fri May 11 15:52:17 BST 2007

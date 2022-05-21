@@ -1,0 +1,9 @@
+Username:23549247@N08
+URL:http://flickr.com/photos/23549247@N08/2331904961
+ID:2331904961
+Title:Trees in winter III
+Description:null
+
+Latitude:45.426716
+Longitude:-73.8228
+Date:Wed Mar 12 14:21:25 GMT 2008

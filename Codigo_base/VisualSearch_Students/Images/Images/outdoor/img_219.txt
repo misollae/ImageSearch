@@ -1,0 +1,9 @@
+Username:12698115@N06
+URL:http://flickr.com/photos/12698115@N06/1338519172
+ID:1338519172
+Title:The Death of Beauty
+Description:null
+
+Latitude:42.45993
+Longitude:-75.06913
+Date:Thu Sep 06 04:43:45 BST 2007

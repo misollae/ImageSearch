@@ -1,0 +1,9 @@
+Username:34427466731@N01
+URL:http://flickr.com/photos/34427466731@N01/1313374835
+ID:1313374835
+Title:more waiting at the pier
+Description:null
+
+Latitude:49.00841
+Longitude:-123.13128
+Date:Mon Aug 27 05:37:14 BST 2007

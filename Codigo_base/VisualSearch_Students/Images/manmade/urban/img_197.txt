@@ -1,0 +1,9 @@
+Username:22908912@N04
+URL:http://flickr.com/photos/22908912@N04/2198498447
+ID:2198498447
+Title:Tires
+Description:null
+
+Latitude:33.730583
+Longitude:-117.997444
+Date:Thu Jan 17 08:31:20 GMT 2008

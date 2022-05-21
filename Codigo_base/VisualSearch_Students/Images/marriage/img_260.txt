@@ -1,0 +1,9 @@
+Username:92283658@N00
+URL:http://flickr.com/photos/92283658@N00/915908491
+ID:915908491
+Title:Speech by Michael's Brother
+Description:null
+
+Latitude:34.419395
+Longitude:-119.66431
+Date:Thu Jul 26 22:06:02 BST 2007

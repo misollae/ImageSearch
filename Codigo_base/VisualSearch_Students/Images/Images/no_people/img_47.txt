@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/2048503204
+ID:2048503204
+Title:004 Una fontana in mezzo al fosso
+Description:null
+
+Latitude:44.837307
+Longitude:11.619983
+Date:Tue Jul 03 21:27:49 BST 2007

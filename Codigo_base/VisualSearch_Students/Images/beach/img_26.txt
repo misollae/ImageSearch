@@ -1,0 +1,9 @@
+Username:15153944@N00
+URL:http://flickr.com/photos/15153944@N00/1677270080
+ID:1677270080
+Title:Cocktails on the beach
+Description:null
+
+Latitude:-3.632922
+Longitude:-38.713654
+Date:Sun Oct 21 16:28:01 BST 2007

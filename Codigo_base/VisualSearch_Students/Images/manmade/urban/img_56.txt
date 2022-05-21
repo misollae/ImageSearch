@@ -1,0 +1,9 @@
+Username:8998833@N07
+URL:http://flickr.com/photos/8998833@N07/2325560093
+ID:2325560093
+Title:Coit Tower
+Description:null
+
+Latitude:37.80184
+Longitude:-122.4057
+Date:Sat Mar 08 04:16:39 GMT 2008

@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/2047853127
+ID:2047853127
+Title:39 Ingresso del castello
+Description:null
+
+Latitude:44.837315
+Longitude:11.618825
+Date:Sun Jul 08 20:27:07 BST 2007

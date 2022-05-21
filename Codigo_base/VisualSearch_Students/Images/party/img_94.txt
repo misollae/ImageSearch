@@ -1,0 +1,9 @@
+Username:29309361@N00
+URL:http://flickr.com/photos/29309361@N00/2336128477
+ID:2336128477
+Title:et tu?
+Description:null
+
+Latitude:37.787415
+Longitude:-122.39936
+Date:Sat Mar 15 19:04:36 GMT 2008

@@ -1,0 +1,9 @@
+Username:78402279@N00
+URL:http://flickr.com/photos/78402279@N00/943926623
+ID:943926623
+Title:Frida and Pontus
+Description:null
+
+Latitude:57.66852
+Longitude:14.970154
+Date:Sat Jul 28 13:55:18 BST 2007

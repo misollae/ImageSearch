@@ -1,0 +1,9 @@
+Username:8550255@N03
+URL:http://flickr.com/photos/8550255@N03/1243235431
+ID:1243235431
+Title:2007-0824 (23)
+Description:null
+
+Latitude:32.845016
+Longitude:-116.99627
+Date:Fri Aug 24 17:00:43 BST 2007

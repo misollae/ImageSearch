@@ -1,0 +1,9 @@
+Username:46344750@N00
+URL:http://flickr.com/photos/46344750@N00/2304284118
+ID:2304284118
+Title:Time spiral
+Description:null
+
+Latitude:40.411022
+Longitude:-3.693439
+Date:Sat Mar 01 12:20:48 GMT 2008

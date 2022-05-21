@@ -1,0 +1,9 @@
+Username:52439376@N00
+URL:http://flickr.com/photos/52439376@N00/2255164771
+ID:2255164771
+Title:Casting A Shadow
+Description:null
+
+Latitude:50.820168
+Longitude:-0.143833
+Date:Sat Feb 09 16:19:36 GMT 2008

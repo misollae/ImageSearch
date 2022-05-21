@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/521055569
+ID:521055569
+Title:27 Panorama da mezza via
+Description:null
+
+Latitude:45.10874
+Longitude:7.466154
+Date:Thu May 10 18:38:36 BST 2007

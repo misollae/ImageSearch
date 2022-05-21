@@ -1,0 +1,9 @@
+Username:7332624@N06
+URL:http://flickr.com/photos/7332624@N06/1027080249
+ID:1027080249
+Title:Find Me a Song II
+Description:null
+
+Latitude:52.13501
+Longitude:-0.465331
+Date:Sat Aug 04 20:39:57 BST 2007

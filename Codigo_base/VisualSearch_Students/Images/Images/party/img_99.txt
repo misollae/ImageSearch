@@ -1,0 +1,9 @@
+Username:32374483@N00
+URL:http://flickr.com/photos/32374483@N00/2336424660
+ID:2336424660
+Title:Cuvee Dom Perignon
+Description:null
+
+Latitude:37.735527
+Longitude:-122.46911
+Date:Sat Jan 05 19:00:41 GMT 2008

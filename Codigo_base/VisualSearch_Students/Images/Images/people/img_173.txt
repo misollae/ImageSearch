@@ -1,0 +1,9 @@
+Username:48973657@N00
+URL:http://flickr.com/photos/48973657@N00/2234331822
+ID:2234331822
+Title:OLPC / 20080131.10D.47791 / SML
+Description:null
+
+Latitude:40.72461
+Longitude:-73.99537
+Date:Thu Jan 31 15:27:44 GMT 2008

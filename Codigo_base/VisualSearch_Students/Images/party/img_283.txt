@@ -1,0 +1,9 @@
+Username:64707145@N00
+URL:http://flickr.com/photos/64707145@N00/2265244603
+ID:2265244603
+Title:a brincadeira evoluiu
+Description:null
+
+Latitude:-23.589922
+Longitude:-46.653152
+Date:Sat Feb 03 13:41:03 GMT 2007

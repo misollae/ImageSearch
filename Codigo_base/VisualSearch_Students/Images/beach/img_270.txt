@@ -1,0 +1,9 @@
+Username:52439376@N00
+URL:http://flickr.com/photos/52439376@N00/2255119685
+ID:2255119685
+Title:Towards Hove
+Description:null
+
+Latitude:50.820835
+Longitude:-0.150999
+Date:Sat Feb 09 15:52:42 GMT 2008

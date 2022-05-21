@@ -1,0 +1,9 @@
+Username:68583628@N00
+URL:http://flickr.com/photos/68583628@N00/2328965113
+ID:2328965113
+Title:Kanahena 11
+Description:null
+
+Latitude:20.598707
+Longitude:-156.41342
+Date:Sat Oct 02 08:25:12 BST 2004

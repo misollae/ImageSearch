@@ -1,0 +1,9 @@
+Username:94935685@N00
+URL:http://flickr.com/photos/94935685@N00/519034912
+ID:519034912
+Title:101_1653
+Description:null
+
+Latitude:33.812298
+Longitude:-117.9213
+Date:Fri May 25 17:10:03 BST 2007

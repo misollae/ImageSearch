@@ -1,0 +1,9 @@
+Username:59316475@N00
+URL:http://flickr.com/photos/59316475@N00/2310439428
+ID:2310439428
+Title:Lincoln's Dream
+Description:null
+
+Latitude:13.745252
+Longitude:100.532166
+Date:Tue Mar 04 19:30:56 GMT 2008

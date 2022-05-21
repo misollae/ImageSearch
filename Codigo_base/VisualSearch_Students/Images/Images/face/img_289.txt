@@ -1,0 +1,9 @@
+Username:9458273@N07
+URL:http://flickr.com/photos/9458273@N07/1247741648
+ID:1247741648
+Title:Rocks, trees, and mountain
+Description:null
+
+Latitude:36.793194
+Longitude:-118.586365
+Date:Sun Aug 26 16:29:32 BST 2007

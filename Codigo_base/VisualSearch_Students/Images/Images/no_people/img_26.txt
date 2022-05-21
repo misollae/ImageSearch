@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/2061716007
+ID:2061716007
+Title:61 Anche il copricatena è danneggiato
+Description:null
+
+Latitude:44.86945
+Longitude:11.598601
+Date:Fri Jul 20 18:34:16 BST 2007

@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/2061761895
+ID:2061761895
+Title:84 Tramonto dietro l'attracco - HDR
+Description:null
+
+Latitude:44.88881
+Longitude:11.608203
+Date:Fri Jul 20 20:27:57 BST 2007

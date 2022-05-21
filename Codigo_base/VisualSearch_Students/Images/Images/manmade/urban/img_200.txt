@@ -1,0 +1,9 @@
+Username:94073839@N00
+URL:http://flickr.com/photos/94073839@N00/2198309855
+ID:2198309855
+Title:This is one of the better groups I saw last summer
+Description:null
+
+Latitude:42.37367
+Longitude:-71.11899
+Date:Wed Sep 05 17:09:06 BST 2007

@@ -1,0 +1,9 @@
+Username:20661515@N07
+URL:http://flickr.com/photos/20661515@N07/2329962554
+ID:2329962554
+Title:Wertheim, Schaufensterpuppe, Kurfürstendamm, Berlin
+Description:null
+
+Latitude:52.50364
+Longitude:13.33164
+Date:Tue Mar 11 14:30:17 GMT 2008

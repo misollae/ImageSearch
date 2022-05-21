@@ -1,0 +1,9 @@
+Username:7486487@N08
+URL:http://flickr.com/photos/7486487@N08/2324444171
+ID:2324444171
+Title:Unusual Windows
+Description:null
+
+Latitude:51.785034
+Longitude:-2.195232
+Date:Sat Mar 01 10:43:29 GMT 2008

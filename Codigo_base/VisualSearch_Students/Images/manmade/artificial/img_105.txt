@@ -1,0 +1,9 @@
+Username:70136696@N00
+URL:http://flickr.com/photos/70136696@N00/220559916
+ID:220559916
+Title:Real & Fake
+Description:null
+
+Latitude:44.935246
+Longitude:-93.302765
+Date:Sat Aug 19 15:25:50 BST 2006

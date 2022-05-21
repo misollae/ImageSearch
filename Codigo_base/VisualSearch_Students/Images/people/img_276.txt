@@ -1,0 +1,9 @@
+Username:53353745@N00
+URL:http://flickr.com/photos/53353745@N00/2230207079
+ID:2230207079
+Title:Laura hands out a gift
+Description:null
+
+Latitude:39.314003
+Longitude:-84.52552
+Date:Mon Dec 24 20:24:25 GMT 2007

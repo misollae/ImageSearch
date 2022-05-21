@@ -1,0 +1,9 @@
+Username:10591108@N02
+URL:http://flickr.com/photos/10591108@N02/2332827898
+ID:2332827898
+Title:Running
+Description:null
+
+Latitude:43.54103
+Longitude:-70.325195
+Date:Thu Mar 13 14:52:03 GMT 2008

@@ -1,0 +1,9 @@
+Username:9098127@N06
+URL:http://flickr.com/photos/9098127@N06/2221866172
+ID:2221866172
+Title:Golden Hour
+Description:null
+
+Latitude:36.962402
+Longitude:-122.00632
+Date:Sat Jan 26 07:49:04 GMT 2008

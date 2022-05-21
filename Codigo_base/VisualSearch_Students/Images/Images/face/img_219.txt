@@ -1,0 +1,9 @@
+Username:8550255@N03
+URL:http://flickr.com/photos/8550255@N03/1279682309
+ID:1279682309
+Title:2007-0813ChargersSeahawks (18)
+Description:null
+
+Latitude:32.782967
+Longitude:-117.12095
+Date:Sun Aug 12 18:55:12 BST 2007

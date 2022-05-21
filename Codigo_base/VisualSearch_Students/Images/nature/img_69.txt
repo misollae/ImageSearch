@@ -1,0 +1,9 @@
+Username:9004647@N06
+URL:http://flickr.com/photos/9004647@N06/2329649508
+ID:2329649508
+Title:1961 Krokus in Westend
+Description:null
+
+Latitude:52.508953
+Longitude:13.228113
+Date:Mon Mar 10 13:37:50 GMT 2008

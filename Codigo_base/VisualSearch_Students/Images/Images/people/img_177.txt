@@ -1,0 +1,9 @@
+Username:31797852@N00
+URL:http://flickr.com/photos/31797852@N00/2234281448
+ID:2234281448
+Title:
+Description:null
+
+Latitude:42.35952
+Longitude:-83.064545
+Date:Thu Jan 31 11:42:08 GMT 2008

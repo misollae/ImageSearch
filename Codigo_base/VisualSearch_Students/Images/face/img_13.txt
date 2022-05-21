@@ -1,0 +1,9 @@
+Username:21477288@N04
+URL:http://flickr.com/photos/21477288@N04/2335861756
+ID:2335861756
+Title:Rock Face
+Description:null
+
+Latitude:39.37842
+Longitude:-104.855705
+Date:Sat Mar 15 10:41:42 GMT 2008

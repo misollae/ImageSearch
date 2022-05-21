@@ -1,0 +1,9 @@
+Username:64977319@N00
+URL:http://flickr.com/photos/64977319@N00/2067451414
+ID:2067451414
+Title:You're doing it wrong.
+Description:null
+
+Latitude:40.152454
+Longitude:-82.93859
+Date:Thu Nov 22 13:08:47 GMT 2007

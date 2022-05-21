@@ -1,0 +1,9 @@
+Username:22678654@N04
+URL:http://flickr.com/photos/22678654@N04/2184311480
+ID:2184311480
+Title:picknick in het park
+Description:null
+
+Latitude:51.036037
+Longitude:3.718711
+Date:Sat Aug 11 17:44:39 BST 2007

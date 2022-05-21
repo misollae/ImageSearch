@@ -1,0 +1,9 @@
+Username:14886955@N03
+URL:http://flickr.com/photos/14886955@N03/2192952275
+ID:2192952275
+Title:Houses of Parliament - detail
+Description:null
+
+Latitude:51.499542
+Longitude:-0.125865
+Date:Wed Jan 10 12:54:13 GMT 2007

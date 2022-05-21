@@ -1,0 +1,9 @@
+Username:61161362@N00
+URL:http://flickr.com/photos/61161362@N00/2303715099
+ID:2303715099
+Title:Elli at the dog show
+Description:null
+
+Latitude:60.161438
+Longitude:24.903206
+Date:Sun Mar 02 14:25:41 GMT 2008

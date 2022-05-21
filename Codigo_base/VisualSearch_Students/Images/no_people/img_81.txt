@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/863718764
+ID:863718764
+Title:Insegna del collegio
+Description:null
+
+Latitude:45.031956
+Longitude:7.645851
+Date:Fri Jun 01 15:13:43 BST 2007

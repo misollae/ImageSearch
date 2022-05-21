@@ -1,0 +1,9 @@
+Username:58924194@N00
+URL:http://flickr.com/photos/58924194@N00/2255802032
+ID:2255802032
+Title:Ocean Park Beach, San Juan, Puerto Rico
+Description:null
+
+Latitude:18.454895
+Longitude:-66.054565
+Date:Thu Jan 31 17:06:17 GMT 2008

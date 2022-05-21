@@ -1,0 +1,9 @@
+Username:82736546@N00
+URL:http://flickr.com/photos/82736546@N00/298698009
+ID:298698009
+Title:Water Towers
+Description:null
+
+Latitude:-32.076546
+Longitude:115.785995
+Date:Wed Nov 15 16:32:13 GMT 2006

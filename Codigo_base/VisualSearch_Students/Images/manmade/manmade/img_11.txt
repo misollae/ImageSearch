@@ -1,0 +1,9 @@
+Username:9098127@N06
+URL:http://flickr.com/photos/9098127@N06/2252583579
+ID:2252583579
+Title:Smoke on the Water
+Description:null
+
+Latitude:37.00995
+Longitude:-122.19631
+Date:Fri Feb 08 17:39:59 GMT 2008

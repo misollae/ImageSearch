@@ -1,0 +1,9 @@
+Username:9048663@N05
+URL:http://flickr.com/photos/9048663@N05/1327255110
+ID:1327255110
+Title:GOC 8905
+Description:null
+
+Latitude:29.974064
+Longitude:-92.13593
+Date:Sun Nov 05 15:26:31 GMT 2006

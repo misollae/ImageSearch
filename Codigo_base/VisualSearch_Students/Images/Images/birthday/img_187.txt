@@ -1,0 +1,9 @@
+Username:14093872@N04
+URL:http://flickr.com/photos/14093872@N04/2187717742
+ID:2187717742
+Title:bimba seduta
+Description:null
+
+Latitude:45.97466
+Longitude:9.194333
+Date:Sat Jan 12 16:41:57 GMT 2008

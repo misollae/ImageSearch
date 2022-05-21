@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/2106239652
+ID:2106239652
+Title:112 La sera chiede permesso al giorno
+Description:null
+
+Latitude:44.924225
+Longitude:11.727197
+Date:Sun Jul 22 20:38:14 BST 2007

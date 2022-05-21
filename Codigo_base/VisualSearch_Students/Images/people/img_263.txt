@@ -1,0 +1,9 @@
+Username:53353745@N00
+URL:http://flickr.com/photos/53353745@N00/2230258701
+ID:2230258701
+Title:Computer whiz kid
+Description:null
+
+Latitude:39.314003
+Longitude:-84.52552
+Date:Mon Dec 24 22:48:08 GMT 2007

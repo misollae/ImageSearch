@@ -1,0 +1,9 @@
+Username:79781814@N00
+URL:http://flickr.com/photos/79781814@N00/2329983889
+ID:2329983889
+Title:365_031208
+Description:null
+
+Latitude:37.76433
+Longitude:-122.43323
+Date:Wed Mar 12 21:57:38 GMT 2008

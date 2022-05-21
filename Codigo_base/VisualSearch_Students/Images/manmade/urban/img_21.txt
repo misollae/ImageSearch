@@ -1,0 +1,9 @@
+Username:91357526@N00
+URL:http://flickr.com/photos/91357526@N00/2330534518
+ID:2330534518
+Title:Power & Light District
+Description:null
+
+Latitude:39.097668
+Longitude:-94.581215
+Date:Wed Mar 12 17:56:29 GMT 2008

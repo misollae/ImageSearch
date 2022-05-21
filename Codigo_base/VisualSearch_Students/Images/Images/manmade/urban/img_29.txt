@@ -1,0 +1,9 @@
+Username:12614773@N07
+URL:http://flickr.com/photos/12614773@N07/2327966867
+ID:2327966867
+Title:Balfron Tower, Poplar
+Description:null
+
+Latitude:51.513577
+Longitude:-0.008862
+Date:Fri Mar 07 14:48:20 GMT 2008

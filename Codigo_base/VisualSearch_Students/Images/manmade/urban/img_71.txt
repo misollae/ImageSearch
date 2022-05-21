@@ -1,0 +1,9 @@
+Username:21034453@N08
+URL:http://flickr.com/photos/21034453@N08/2325631728
+ID:2325631728
+Title:Defense
+Description:null
+
+Latitude:48.89219
+Longitude:2.237262
+Date:Tue Mar 11 00:45:49 GMT 2008

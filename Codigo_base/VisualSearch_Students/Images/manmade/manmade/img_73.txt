@@ -1,0 +1,9 @@
+Username:8581973@N02
+URL:http://flickr.com/photos/8581973@N02/576421747
+ID:576421747
+Title:Framed Modem
+Description:null
+
+Latitude:-23.49073
+Longitude:-46.83863
+Date:Sat Mar 10 07:08:38 GMT 2007

@@ -1,0 +1,9 @@
+Username:24537606@N07
+URL:http://flickr.com/photos/24537606@N07/2323860359
+ID:2323860359
+Title:Avda. América - Madrid
+Description:null
+
+Latitude:40.44624
+Longitude:-3.65584
+Date:Sat Oct 21 01:20:46 BST 2006

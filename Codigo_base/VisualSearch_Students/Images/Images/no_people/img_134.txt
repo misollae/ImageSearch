@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/521076649
+ID:521076649
+Title:73 Le ombre dei monti si proiettano in cielo
+Description:null
+
+Latitude:45.11409
+Longitude:7.455205
+Date:Thu May 10 20:20:56 BST 2007

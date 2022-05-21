@@ -1,0 +1,9 @@
+Username:87304876@N00
+URL:http://flickr.com/photos/87304876@N00/2330969387
+ID:2330969387
+Title:The rock tower
+Description:null
+
+Latitude:20.609287
+Longitude:-105.2355
+Date:Sat Mar 01 17:10:47 GMT 2008

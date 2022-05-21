@@ -1,0 +1,9 @@
+Username:8734821@N03
+URL:http://flickr.com/photos/8734821@N03/2195607117
+ID:2195607117
+Title:painted windows
+Description:null
+
+Latitude:42.402164
+Longitude:-83.0957
+Date:Tue Jan 15 14:28:47 GMT 2008

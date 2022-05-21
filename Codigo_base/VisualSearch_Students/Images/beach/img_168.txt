@@ -1,0 +1,9 @@
+Username:52439376@N00
+URL:http://flickr.com/photos/52439376@N00/2255968014
+ID:2255968014
+Title:The Travels of Teddy
+Description:null
+
+Latitude:50.820168
+Longitude:-0.143666
+Date:Sat Feb 09 16:21:09 GMT 2008

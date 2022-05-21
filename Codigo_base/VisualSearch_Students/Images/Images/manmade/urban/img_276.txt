@@ -1,0 +1,9 @@
+Username:72396314@N00
+URL:http://flickr.com/photos/72396314@N00/2194515935
+ID:2194515935
+Title:Lights of Town
+Description:null
+
+Latitude:35.704273
+Longitude:139.9676
+Date:Mon Jan 14 17:31:19 GMT 2008

@@ -1,0 +1,9 @@
+Username:85543821@N00
+URL:http://flickr.com/photos/85543821@N00/2337045879
+ID:2337045879
+Title:ring lite - ghetto style
+Description:null
+
+Latitude:35.084736
+Longitude:-106.650734
+Date:Sat Mar 15 18:21:22 GMT 2008

@@ -1,0 +1,9 @@
+Username:8998833@N07
+URL:http://flickr.com/photos/8998833@N07/2326376444
+ID:2326376444
+Title:This park fills in a steep part of the street grid
+Description:null
+
+Latitude:37.79918
+Longitude:-122.40406
+Date:Sat Mar 08 04:02:58 GMT 2008

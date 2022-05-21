@@ -1,0 +1,9 @@
+Username:89716538@N00
+URL:http://flickr.com/photos/89716538@N00/2199407887
+ID:2199407887
+Title:Love Number 3
+Description:null
+
+Latitude:38.722275
+Longitude:-9.14711
+Date:Thu Dec 13 10:56:31 GMT 2007

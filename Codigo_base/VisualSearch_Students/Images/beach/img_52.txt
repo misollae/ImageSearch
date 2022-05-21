@@ -1,0 +1,9 @@
+Username:68583628@N00
+URL:http://flickr.com/photos/68583628@N00/2329787810
+ID:2329787810
+Title:Kanahena 4
+Description:null
+
+Latitude:20.598707
+Longitude:-156.41342
+Date:Sat Oct 02 08:04:10 BST 2004

@@ -1,0 +1,9 @@
+Username:66092176@N00
+URL:http://flickr.com/photos/66092176@N00/2332171049
+ID:2332171049
+Title:France 2008100
+Description:null
+
+Latitude:43.74318
+Longitude:7.4308
+Date:Fri Mar 14 03:34:00 GMT 2008

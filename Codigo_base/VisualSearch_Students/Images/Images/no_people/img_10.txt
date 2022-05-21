@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/2106236170
+ID:2106236170
+Title:108 La chiesa di Guarda
+Description:null
+
+Latitude:44.973297
+Longitude:11.803854
+Date:Sun Jul 22 20:13:43 BST 2007

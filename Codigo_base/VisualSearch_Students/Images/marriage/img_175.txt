@@ -1,0 +1,9 @@
+Username:7332624@N06
+URL:http://flickr.com/photos/7332624@N06/1027733776
+ID:1027733776
+Title:Me
+Description:null
+
+Latitude:52.13501
+Longitude:-0.465331
+Date:Sat Aug 04 16:15:06 BST 2007

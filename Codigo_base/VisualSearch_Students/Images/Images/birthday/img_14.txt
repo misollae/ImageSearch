@@ -1,0 +1,9 @@
+Username:35371784@N00
+URL:http://flickr.com/photos/35371784@N00/2335370109
+ID:2335370109
+Title:Dougs 10th Birthday
+Description:null
+
+Latitude:49.67115
+Longitude:-115.9716
+Date:Sat Mar 08 16:06:43 GMT 2008

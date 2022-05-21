@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/2053127045
+ID:2053127045
+Title:50 Il fossato di notte
+Description:null
+
+Latitude:44.83827
+Longitude:11.619608
+Date:Wed Jul 18 22:14:23 BST 2007

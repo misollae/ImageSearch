@@ -1,0 +1,9 @@
+Username:83018809@N00
+URL:http://flickr.com/photos/83018809@N00/310854339
+ID:310854339
+Title:The Cave HDR
+Description:null
+
+Latitude:28.01209
+Longitude:-82.7869
+Date:Fri Dec 01 00:19:22 GMT 2006

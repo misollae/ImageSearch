@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/2062560118
+ID:2062560118
+Title:87 Sole, nuvole e ponte
+Description:null
+
+Latitude:44.887363
+Longitude:11.608697
+Date:Fri Jul 20 20:34:31 BST 2007

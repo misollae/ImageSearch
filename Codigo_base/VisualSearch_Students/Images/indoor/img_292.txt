@@ -1,0 +1,9 @@
+Username:81013304@N00
+URL:http://flickr.com/photos/81013304@N00/330097365
+ID:330097365
+Title:Hacker-Pschorr in Sudpfanne
+Description:null
+
+Latitude:49.413166
+Longitude:8.71484
+Date:Tue Dec 19 14:31:03 GMT 2006

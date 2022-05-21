@@ -1,0 +1,9 @@
+Username:22908912@N04
+URL:http://flickr.com/photos/22908912@N04/2199293446
+ID:2199293446
+Title:Stop
+Description:null
+
+Latitude:33.7313
+Longitude:-117.997
+Date:Thu Jan 17 08:41:33 GMT 2008

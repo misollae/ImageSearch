@@ -1,0 +1,9 @@
+Username:92283658@N00
+URL:http://flickr.com/photos/92283658@N00/916755370
+ID:916755370
+Title:Professor Enders Swings
+Description:null
+
+Latitude:34.419395
+Longitude:-119.66431
+Date:Thu Jul 26 22:18:07 BST 2007

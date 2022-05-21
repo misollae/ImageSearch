@@ -1,0 +1,9 @@
+Username:34427466731@N01
+URL:http://flickr.com/photos/34427466731@N01/1328235716
+ID:1328235716
+Title:beccab0t
+Description:null
+
+Latitude:48.509533
+Longitude:-123.39179
+Date:Tue Aug 28 07:00:47 BST 2007

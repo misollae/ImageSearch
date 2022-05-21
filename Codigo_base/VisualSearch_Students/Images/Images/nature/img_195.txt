@@ -1,0 +1,9 @@
+Username:23418388@N05
+URL:http://flickr.com/photos/23418388@N05/2248756017
+ID:2248756017
+Title:Ducklings
+Description:null
+
+Latitude:51.315063
+Longitude:-0.488848
+Date:Tue Feb 05 23:11:10 GMT 2008

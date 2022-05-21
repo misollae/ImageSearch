@@ -1,0 +1,9 @@
+Username:81013304@N00
+URL:http://flickr.com/photos/81013304@N00/330220252
+ID:330220252
+Title:Sausages in lentils
+Description:null
+
+Latitude:49.413166
+Longitude:8.71484
+Date:Tue Dec 19 14:40:17 GMT 2006

@@ -1,0 +1,9 @@
+Username:42139271@N00
+URL:http://flickr.com/photos/42139271@N00/2327771688
+ID:2327771688
+Title:Bulls Bridge III
+Description:null
+
+Latitude:41.67576
+Longitude:-73.50938
+Date:Sun Mar 09 16:24:51 GMT 2008

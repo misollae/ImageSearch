@@ -1,0 +1,9 @@
+Username:95727254@N00
+URL:http://flickr.com/photos/95727254@N00/1305303817
+ID:1305303817
+Title:Hockey guys
+Description:null
+
+Latitude:42.36428
+Longitude:-71.59621
+Date:Tue Aug 28 00:24:17 BST 2007

@@ -1,0 +1,9 @@
+Username:14177443@N00
+URL:http://flickr.com/photos/14177443@N00/2305382064
+ID:2305382064
+Title:_MG_1011
+Description:null
+
+Latitude:46.19228
+Longitude:6.15622
+Date:Sun Mar 02 14:27:35 GMT 2008

@@ -1,0 +1,9 @@
+Username:21796692@N06
+URL:http://flickr.com/photos/21796692@N06/2233410860
+ID:2233410860
+Title:Gordon Eaton, 1988
+Description:null
+
+Latitude:42.02392
+Longitude:-93.646
+Date:Wed Jan 30 16:14:03 GMT 2008

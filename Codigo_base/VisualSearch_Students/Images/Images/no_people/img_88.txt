@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/850408443
+ID:850408443
+Title:30 Un borgo su tre dimensioni
+Description:null
+
+Latitude:43.86143
+Longitude:7.850498
+Date:Sat May 26 19:37:56 BST 2007

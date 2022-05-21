@@ -1,0 +1,9 @@
+Username:98539897@N00
+URL:http://flickr.com/photos/98539897@N00/2307096009
+ID:2307096009
+Title:shadow on shops from Nottingham Eye
+Description:null
+
+Latitude:52.953407
+Longitude:-1.149873
+Date:Mon Mar 03 11:36:57 GMT 2008

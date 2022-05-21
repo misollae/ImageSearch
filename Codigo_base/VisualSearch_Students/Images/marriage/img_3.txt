@@ -1,0 +1,9 @@
+Username:55953217@N00
+URL:http://flickr.com/photos/55953217@N00/2291361922
+ID:2291361922
+Title:Rice & Roses
+Description:null
+
+Latitude:41.400337
+Longitude:2.15788
+Date:Sat Feb 23 14:15:06 GMT 2008

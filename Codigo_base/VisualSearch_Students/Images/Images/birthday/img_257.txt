@@ -1,0 +1,9 @@
+Username:15357170@N00
+URL:http://flickr.com/photos/15357170@N00/2174003682
+ID:2174003682
+Title:Wayne's Other House
+Description:null
+
+Latitude:26.113153
+Longitude:-80.120285
+Date:Sun Jan 06 15:18:01 GMT 2008

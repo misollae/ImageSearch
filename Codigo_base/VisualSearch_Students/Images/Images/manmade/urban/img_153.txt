@@ -1,0 +1,9 @@
+Username:23002987@N00
+URL:http://flickr.com/photos/23002987@N00/2199239475
+ID:2199239475
+Title:ON Location Studio Photography - Friends & Fun in Phoenix Arizona
+Description:null
+
+Latitude:33.45217
+Longitude:-112.071266
+Date:Wed Jan 16 20:52:53 GMT 2008

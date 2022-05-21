@@ -1,0 +1,9 @@
+Username:68455893@N00
+URL:http://flickr.com/photos/68455893@N00/2303152825
+ID:2303152825
+Title:61/365 - Fingerprint
+Description:null
+
+Latitude:40.04977
+Longitude:-79.89829
+Date:Sat Mar 01 23:43:20 GMT 2008

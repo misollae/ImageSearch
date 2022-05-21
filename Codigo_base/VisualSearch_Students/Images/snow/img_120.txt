@@ -1,0 +1,9 @@
+Username:91152759@N00
+URL:http://flickr.com/photos/91152759@N00/2281831233
+ID:2281831233
+Title:Digging for fish?
+Description:null
+
+Latitude:45.531296
+Longitude:-73.90509
+Date:Thu Feb 21 13:03:11 GMT 2008

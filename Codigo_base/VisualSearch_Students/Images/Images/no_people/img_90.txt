@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/851263434
+ID:851263434
+Title:16 Scalinata
+Description:null
+
+Latitude:43.861763
+Longitude:7.85052
+Date:Sat May 26 18:43:18 BST 2007

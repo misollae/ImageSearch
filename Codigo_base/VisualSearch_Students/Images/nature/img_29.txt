@@ -1,0 +1,9 @@
+Username:27142448@N00
+URL:http://flickr.com/photos/27142448@N00/2331406495
+ID:2331406495
+Title:American Pipit, Anthus rubescens (@ Frozen Head)
+Description:null
+
+Latitude:36.12544
+Longitude:-84.50457
+Date:Sat Mar 08 11:14:13 GMT 2008

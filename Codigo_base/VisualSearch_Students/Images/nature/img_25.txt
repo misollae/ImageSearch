@@ -1,0 +1,9 @@
+Username:27142448@N00
+URL:http://flickr.com/photos/27142448@N00/2331410283
+ID:2331410283
+Title:Rusty Blackbird, Euphagus carolinus (@ Frozen Head)
+Description:null
+
+Latitude:36.12454
+Longitude:-84.51288
+Date:Sat Mar 08 13:27:51 GMT 2008

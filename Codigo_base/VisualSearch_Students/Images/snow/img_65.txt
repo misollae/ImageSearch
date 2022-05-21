@@ -1,0 +1,9 @@
+Username:14092116@N02
+URL:http://flickr.com/photos/14092116@N02/2329166185
+ID:2329166185
+Title:Rush'ing in Spring
+Description:null
+
+Latitude:43.306187
+Longitude:-79.864365
+Date:Wed Mar 12 17:04:21 GMT 2008

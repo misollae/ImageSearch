@@ -1,0 +1,9 @@
+Username:9424255@N05
+URL:http://flickr.com/photos/9424255@N05/2299605339
+ID:2299605339
+Title:Raduška logující
+Description:null
+
+Latitude:50.0584
+Longitude:14.10895
+Date:Sat Feb 16 17:26:11 GMT 2008

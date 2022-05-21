@@ -1,0 +1,9 @@
+Username:9424255@N05
+URL:http://flickr.com/photos/9424255@N05/2300398602
+ID:2300398602
+Title:martyx logující
+Description:null
+
+Latitude:50.095413
+Longitude:14.38098
+Date:Tue Feb 12 23:35:36 GMT 2008

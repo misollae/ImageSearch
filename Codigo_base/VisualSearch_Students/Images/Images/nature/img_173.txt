@@ -1,0 +1,9 @@
+Username:12921146@N04
+URL:http://flickr.com/photos/12921146@N04/2249880575
+ID:2249880575
+Title:Green Sea Turtle
+Description:null
+
+Latitude:19.614614
+Longitude:-155.98346
+Date:Fri Feb 08 06:35:45 GMT 2008

@@ -1,0 +1,9 @@
+Username:24602720@N04
+URL:http://flickr.com/photos/24602720@N04/2329503663
+ID:2329503663
+Title:Air Guitar Contest
+Description:null
+
+Latitude:52.090137
+Longitude:5.120208
+Date:Mon Nov 12 22:44:57 GMT 2007

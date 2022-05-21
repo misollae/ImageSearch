@@ -1,0 +1,9 @@
+Username:10591108@N02
+URL:http://flickr.com/photos/10591108@N02/2282286373
+ID:2282286373
+Title:Binoculars
+Description:null
+
+Latitude:43.704933
+Longitude:-70.24066
+Date:Thu Feb 21 15:20:23 GMT 2008

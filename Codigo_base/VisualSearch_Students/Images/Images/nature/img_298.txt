@@ -1,0 +1,9 @@
+Username:7107327@N05
+URL:http://flickr.com/photos/7107327@N05/2249796986
+ID:2249796986
+Title:Stare
+Description:null
+
+Latitude:37.240025
+Longitude:-122.06867
+Date:Sun Feb 03 16:06:00 GMT 2008

@@ -1,0 +1,9 @@
+Username:24421334@N07
+URL:http://flickr.com/photos/24421334@N07/2317542524
+ID:2317542524
+Title:bidr 2
+Description:null
+
+Latitude:35.09355
+Longitude:-80.6801
+Date:Sat Dec 29 01:20:19 GMT 2007

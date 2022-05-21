@@ -1,0 +1,9 @@
+Username:34284160@N00
+URL:http://flickr.com/photos/34284160@N00/2187323247
+ID:2187323247
+Title:The shadow
+Description:null
+
+Latitude:53.384933
+Longitude:-1.508055
+Date:Fri Jan 11 18:28:44 GMT 2008

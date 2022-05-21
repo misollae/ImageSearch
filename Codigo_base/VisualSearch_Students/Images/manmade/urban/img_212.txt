@@ -1,0 +1,9 @@
+Username:72396314@N00
+URL:http://flickr.com/photos/72396314@N00/2196791997
+ID:2196791997
+Title:Way
+Description:null
+
+Latitude:35.7044
+Longitude:139.96678
+Date:Mon Jan 14 17:40:29 GMT 2008

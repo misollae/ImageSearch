@@ -1,0 +1,9 @@
+Username:8121206@N07
+URL:http://flickr.com/photos/8121206@N07/2273279430
+ID:2273279430
+Title:cute kiss
+Description:null
+
+Latitude:37.35442
+Longitude:-79.940956
+Date:Sat Oct 06 15:56:29 BST 2007

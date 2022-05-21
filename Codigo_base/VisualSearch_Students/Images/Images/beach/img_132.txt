@@ -1,0 +1,9 @@
+Username:64435420@N00
+URL:http://flickr.com/photos/64435420@N00/2328337663
+ID:2328337663
+Title:IMG00368
+Description:null
+
+Latitude:26.108442
+Longitude:-80.10568
+Date:Tue Mar 11 14:32:54 GMT 2008

@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/1336000773
+ID:1336000773
+Title:07 Treni sui binari
+Description:null
+
+Latitude:44.414646
+Longitude:8.948653
+Date:Sun Jun 24 09:07:58 BST 2007

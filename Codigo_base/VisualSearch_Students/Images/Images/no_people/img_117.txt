@@ -1,0 +1,9 @@
+Username:15089406@N00
+URL:http://flickr.com/photos/15089406@N00/541304600
+ID:541304600
+Title:IMG_2276.JPG
+Description:null
+
+Latitude:42.358814
+Longitude:-71.09003
+Date:Mon Jun 04 10:54:12 BST 2007

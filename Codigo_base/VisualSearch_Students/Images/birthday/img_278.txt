@@ -1,0 +1,9 @@
+Username:96414716@N00
+URL:http://flickr.com/photos/96414716@N00/2172983280
+ID:2172983280
+Title:Jami and Emmo
+Description:null
+
+Latitude:36.15172
+Longitude:-86.803276
+Date:Sun Jan 06 02:11:49 GMT 2008

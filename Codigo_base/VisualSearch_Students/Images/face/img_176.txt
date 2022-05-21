@@ -1,0 +1,9 @@
+Username:9461342@N03
+URL:http://flickr.com/photos/9461342@N03/1302179987
+ID:1302179987
+Title:Leeds Castle - The face under the maze
+Description:null
+
+Latitude:51.248585
+Longitude:0.629602
+Date:Wed Aug 29 14:35:25 BST 2007

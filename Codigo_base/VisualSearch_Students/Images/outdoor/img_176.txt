@@ -1,0 +1,9 @@
+Username:30265340@N00
+URL:http://flickr.com/photos/30265340@N00/2278420717
+ID:2278420717
+Title:taking off from sydney airport
+Description:null
+
+Latitude:-33.911514
+Longitude:151.16003
+Date:Wed Feb 06 17:23:02 GMT 2008

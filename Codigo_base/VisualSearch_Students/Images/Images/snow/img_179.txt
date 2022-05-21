@@ -1,0 +1,9 @@
+Username:80143123@N00
+URL:http://flickr.com/photos/80143123@N00/2279968437
+ID:2279968437
+Title:Grass Against Snowbank
+Description:null
+
+Latitude:42.782497
+Longitude:-112.41161
+Date:Mon Feb 18 04:28:25 GMT 2008

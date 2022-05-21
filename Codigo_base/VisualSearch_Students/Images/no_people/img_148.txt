@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/521056853
+ID:521056853
+Title:36 Non male per una collina
+Description:null
+
+Latitude:45.11409
+Longitude:7.455205
+Date:Thu May 10 19:18:56 BST 2007

@@ -1,0 +1,9 @@
+Username:37978719@N00
+URL:http://flickr.com/photos/37978719@N00/490720821
+ID:490720821
+Title:cinemark valley view
+Description:null
+
+Latitude:41.4089
+Longitude:-81.62089
+Date:Mon May 08 19:50:48 BST 2006

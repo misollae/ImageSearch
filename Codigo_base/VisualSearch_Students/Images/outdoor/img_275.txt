@@ -1,0 +1,9 @@
+Username:9048663@N05
+URL:http://flickr.com/photos/9048663@N05/1311573065
+ID:1311573065
+Title:Groovy 1809
+Description:null
+
+Latitude:29.972502
+Longitude:-92.13518
+Date:Sat Sep 01 09:34:09 BST 2007

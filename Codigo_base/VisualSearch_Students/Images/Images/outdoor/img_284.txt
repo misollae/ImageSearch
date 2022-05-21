@@ -1,0 +1,9 @@
+Username:12179651@N07
+URL:http://flickr.com/photos/12179651@N07/1306487616
+ID:1306487616
+Title:Knight
+Description:null
+
+Latitude:39.0008
+Longitude:-76.58396
+Date:Sat Sep 01 14:16:44 BST 2007

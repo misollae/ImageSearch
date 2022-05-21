@@ -1,0 +1,9 @@
+Username:34336751@N00
+URL:http://flickr.com/photos/34336751@N00/1429945256
+ID:1429945256
+Title:Diga della Val Carassina
+Description:null
+
+Latitude:46.54549
+Longitude:8.968888
+Date:Tue Sep 11 14:45:45 BST 2007

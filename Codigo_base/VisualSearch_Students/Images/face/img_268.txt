@@ -1,0 +1,9 @@
+Username:8454450@N08
+URL:http://flickr.com/photos/8454450@N08/1251371301
+ID:1251371301
+Title:Fountain of Roman Pantheon
+Description:null
+
+Latitude:41.899452
+Longitude:12.47667
+Date:Sat Jun 30 09:32:33 BST 2007

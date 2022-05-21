@@ -1,0 +1,9 @@
+Username:26677062@N00
+URL:http://flickr.com/photos/26677062@N00/1972105076
+ID:1972105076
+Title:What's Up?
+Description:null
+
+Latitude:53.320843
+Longitude:-6.26535
+Date:Sat Nov 10 18:12:30 GMT 2007

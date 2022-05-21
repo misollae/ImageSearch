@@ -1,0 +1,9 @@
+Username:9664652@N06
+URL:http://flickr.com/photos/9664652@N06/1390693959
+ID:1390693959
+Title:Autoportrait
+Description:null
+
+Latitude:48.845448
+Longitude:2.384022
+Date:Mon Jan 21 22:33:00 GMT 2008

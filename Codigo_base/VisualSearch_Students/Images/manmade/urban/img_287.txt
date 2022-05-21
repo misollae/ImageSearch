@@ -1,0 +1,9 @@
+Username:89716538@N00
+URL:http://flickr.com/photos/89716538@N00/2199518921
+ID:2199518921
+Title:Ponte Vasco da Gama Bridge
+Description:null
+
+Latitude:38.7857
+Longitude:-9.091749
+Date:Thu Dec 13 16:50:52 GMT 2007

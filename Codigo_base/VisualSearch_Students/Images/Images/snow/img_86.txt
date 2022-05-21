@@ -1,0 +1,9 @@
+Username:10501070@N03
+URL:http://flickr.com/photos/10501070@N03/2283240442
+ID:2283240442
+Title:City Creek Center
+Description:null
+
+Latitude:40.76659
+Longitude:-111.889496
+Date:Thu Feb 21 08:31:55 GMT 2008

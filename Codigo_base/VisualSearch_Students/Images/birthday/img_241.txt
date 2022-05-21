@@ -1,0 +1,9 @@
+Username:14093872@N04
+URL:http://flickr.com/photos/14093872@N04/2175326260
+ID:2175326260
+Title:fatina micio
+Description:null
+
+Latitude:45.97466
+Longitude:9.194333
+Date:Mon Jan 07 15:25:20 GMT 2008

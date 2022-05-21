@@ -1,0 +1,9 @@
+Username:7486994@N04
+URL:http://flickr.com/photos/7486994@N04/1256548283
+ID:1256548283
+Title:DSCF8146
+Description:null
+
+Latitude:47.30707
+Longitude:5.040235
+Date:Tue Aug 21 14:41:09 BST 2007

@@ -1,0 +1,9 @@
+Username:95727254@N00
+URL:http://flickr.com/photos/95727254@N00/1336206023
+ID:1336206023
+Title:Sox
+Description:null
+
+Latitude:41.87276
+Longitude:-71.36987
+Date:Fri Aug 31 19:43:52 BST 2007

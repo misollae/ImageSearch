@@ -1,0 +1,9 @@
+Username:10591108@N02
+URL:http://flickr.com/photos/10591108@N02/2282087437
+ID:2282087437
+Title:Hi There!
+Description:null
+
+Latitude:43.705765
+Longitude:-70.24071
+Date:Thu Feb 21 14:57:02 GMT 2008

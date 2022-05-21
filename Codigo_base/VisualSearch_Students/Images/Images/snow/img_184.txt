@@ -1,0 +1,9 @@
+Username:23968967@N05
+URL:http://flickr.com/photos/23968967@N05/2280654470
+ID:2280654470
+Title:Life in Victoria
+Description:null
+
+Latitude:48.4468
+Longitude:-123.465385
+Date:Mon Jan 28 15:59:13 GMT 2008

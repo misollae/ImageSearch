@@ -1,0 +1,9 @@
+Username:17185003@N03
+URL:http://flickr.com/photos/17185003@N03/2199484145
+ID:2199484145
+Title:A View from the Dome
+Description:null
+
+Latitude:51.513775
+Longitude:-0.098233
+Date:Fri Oct 21 06:34:06 BST 2005

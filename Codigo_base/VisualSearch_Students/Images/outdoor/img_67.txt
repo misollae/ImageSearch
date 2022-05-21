@@ -1,0 +1,9 @@
+Username:9424255@N05
+URL:http://flickr.com/photos/9424255@N05/2300398972
+ID:2300398972
+Title:Raduška na Kladn?
+Description:null
+
+Latitude:50.164486
+Longitude:14.083819
+Date:Fri Feb 15 13:44:47 GMT 2008

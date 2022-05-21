@@ -1,0 +1,9 @@
+Username:69861419@N00
+URL:http://flickr.com/photos/69861419@N00/2330877752
+ID:2330877752
+Title:Cozumel Mexico
+Description:null
+
+Latitude:20.5477
+Longitude:-86.92914
+Date:Tue Jan 01 02:06:37 GMT 2002

@@ -1,0 +1,9 @@
+Username:89716538@N00
+URL:http://flickr.com/photos/89716538@N00/2199411003
+ID:2199411003
+Title:Lisboa Night Traffic
+Description:null
+
+Latitude:38.734035
+Longitude:-9.153783
+Date:Wed Dec 12 18:16:12 GMT 2007

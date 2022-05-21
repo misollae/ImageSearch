@@ -1,0 +1,9 @@
+Username:53353745@N00
+URL:http://flickr.com/photos/53353745@N00/2230251409
+ID:2230251409
+Title:At the table
+Description:null
+
+Latitude:39.314003
+Longitude:-84.52552
+Date:Mon Dec 24 22:45:49 GMT 2007

@@ -1,0 +1,9 @@
+Username:60027857@N00
+URL:http://flickr.com/photos/60027857@N00/1468745405
+ID:1468745405
+Title:
+Description:null
+
+Latitude:60.17533
+Longitude:24.945793
+Date:Wed Dec 06 14:08:18 GMT 2006

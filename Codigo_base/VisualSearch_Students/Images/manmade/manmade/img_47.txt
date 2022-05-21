@@ -1,0 +1,9 @@
+Username:25694343@N00
+URL:http://flickr.com/photos/25694343@N00/1295763551
+ID:1295763551
+Title:Passau - IMG_5993
+Description:null
+
+Latitude:48.577805
+Longitude:13.469399
+Date:Fri Aug 24 12:06:25 BST 2007

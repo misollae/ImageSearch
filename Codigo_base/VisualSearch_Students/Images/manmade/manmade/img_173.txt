@@ -1,0 +1,9 @@
+Username:93922379@N00
+URL:http://flickr.com/photos/93922379@N00/354876284
+ID:354876284
+Title:Man made
+Description:null
+
+Latitude:40.72091
+Longitude:-73.98862
+Date:Fri Jan 12 08:21:51 GMT 2007

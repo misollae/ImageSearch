@@ -1,0 +1,9 @@
+Username:88607481@N00
+URL:http://flickr.com/photos/88607481@N00/2230133967
+ID:2230133967
+Title:Ann
+Description:null
+
+Latitude:25.043554
+Longitude:121.55077
+Date:Sun Jan 20 12:25:23 GMT 2008

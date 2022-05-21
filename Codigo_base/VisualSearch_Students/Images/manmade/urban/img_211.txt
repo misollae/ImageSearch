@@ -1,0 +1,9 @@
+Username:72396314@N00
+URL:http://flickr.com/photos/72396314@N00/2196804467
+ID:2196804467
+Title:Parking
+Description:null
+
+Latitude:35.706394
+Longitude:139.9623
+Date:Mon Jan 14 17:53:20 GMT 2008

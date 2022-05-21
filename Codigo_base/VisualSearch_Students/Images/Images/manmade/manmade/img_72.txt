@@ -1,0 +1,9 @@
+Username:49462908@N00
+URL:http://flickr.com/photos/49462908@N00/674853945
+ID:674853945
+Title:Le Grand Eléphant // The Great Elephant
+Description:null
+
+Latitude:47.20486
+Longitude:-1.568373
+Date:Sat Jun 30 18:36:58 BST 2007

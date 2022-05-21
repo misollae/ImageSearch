@@ -1,0 +1,9 @@
+Username:72396314@N00
+URL:http://flickr.com/photos/72396314@N00/2199710748
+ID:2199710748
+Title:sustentacula
+Description:null
+
+Latitude:35.684654
+Longitude:139.76787
+Date:Thu Jan 17 19:28:20 GMT 2008

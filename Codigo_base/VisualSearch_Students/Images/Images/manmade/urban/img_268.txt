@@ -1,0 +1,9 @@
+Username:59883210@N00
+URL:http://flickr.com/photos/59883210@N00/2195671832
+ID:2195671832
+Title:Herd of bucks
+Description:null
+
+Latitude:47.008617
+Longitude:-124.1537
+Date:Tue Jan 15 09:31:52 GMT 2008

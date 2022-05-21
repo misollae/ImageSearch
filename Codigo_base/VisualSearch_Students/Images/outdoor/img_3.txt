@@ -1,0 +1,9 @@
+Username:53713135@N00
+URL:http://flickr.com/photos/53713135@N00/2308955626
+ID:2308955626
+Title:S.B. Burnett Park
+Description:null
+
+Latitude:32.75081
+Longitude:-97.333595
+Date:Tue Feb 27 12:50:07 GMT 2007

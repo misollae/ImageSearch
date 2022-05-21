@@ -1,0 +1,9 @@
+Username:22908642@N06
+URL:http://flickr.com/photos/22908642@N06/2198661277
+ID:2198661277
+Title:Viking frame
+Description:null
+
+Latitude:53.22772
+Longitude:-0.536849
+Date:Mon Jan 14 10:52:56 GMT 2008

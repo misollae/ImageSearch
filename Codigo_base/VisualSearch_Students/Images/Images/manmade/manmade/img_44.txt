@@ -1,0 +1,9 @@
+Username:33917831@N00
+URL:http://flickr.com/photos/33917831@N00/1340180064
+ID:1340180064
+Title:Wax Eaters
+Description:null
+
+Latitude:38.392532
+Longitude:-122.81716
+Date:Sun Jun 17 23:36:02 BST 2007

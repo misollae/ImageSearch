@@ -1,0 +1,9 @@
+Username:42955034@N00
+URL:http://flickr.com/photos/42955034@N00/2283281012
+ID:2283281012
+Title:Claude Moore Colonial Farm
+Description:null
+
+Latitude:38.955875
+Longitude:-77.154816
+Date:Sat May 20 14:14:17 BST 2006

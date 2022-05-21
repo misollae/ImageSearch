@@ -1,0 +1,9 @@
+Username:51035785936@N01
+URL:http://flickr.com/photos/51035785936@N01/2308925561
+ID:2308925561
+Title:Sandvika
+Description:null
+
+Latitude:59.889137
+Longitude:10.522992
+Date:Sun Mar 02 14:09:31 GMT 2008

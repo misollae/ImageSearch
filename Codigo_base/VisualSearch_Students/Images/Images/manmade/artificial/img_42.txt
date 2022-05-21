@@ -1,0 +1,9 @@
+Username:80378665@N00
+URL:http://flickr.com/photos/80378665@N00/2049870621
+ID:2049870621
+Title:Manmade cave
+Description:null
+
+Latitude:13.648947
+Longitude:100.49456
+Date:Tue Nov 20 11:12:26 GMT 2007

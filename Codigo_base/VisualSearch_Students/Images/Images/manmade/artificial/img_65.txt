@@ -1,0 +1,9 @@
+Username:79006116@N00
+URL:http://flickr.com/photos/79006116@N00/485826201
+ID:485826201
+Title:clocktower
+Description:null
+
+Latitude:39.922844
+Longitude:-83.81071
+Date:Sat May 05 20:59:33 BST 2007

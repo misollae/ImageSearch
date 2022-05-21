@@ -1,0 +1,9 @@
+Username:11376310@N00
+URL:http://flickr.com/photos/11376310@N00/2281152609
+ID:2281152609
+Title:Crap Masegn
+Description:null
+
+Latitude:46.8459
+Longitude:9.179211
+Date:Fri Feb 01 14:48:25 GMT 2008

@@ -1,0 +1,9 @@
+Username:17583607@N02
+URL:http://flickr.com/photos/17583607@N02/2308055323
+ID:2308055323
+Title:Waiting
+Description:null
+
+Latitude:46.16445
+Longitude:14.306613
+Date:Sun Mar 02 19:05:44 GMT 2008

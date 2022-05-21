@@ -1,0 +1,9 @@
+Username:14177443@N00
+URL:http://flickr.com/photos/14177443@N00/2304633427
+ID:2304633427
+Title:_MG_1026
+Description:null
+
+Latitude:46.19228
+Longitude:6.15622
+Date:Sun Mar 02 14:33:43 GMT 2008

@@ -1,0 +1,9 @@
+Username:8369605@N05
+URL:http://flickr.com/photos/8369605@N05/2326921381
+ID:2326921381
+Title:Lighthouse Diver
+Description:null
+
+Latitude:47.922344
+Longitude:-122.292946
+Date:Tue Mar 11 11:28:37 GMT 2008

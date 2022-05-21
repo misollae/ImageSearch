@@ -1,0 +1,9 @@
+Username:68977046@N00
+URL:http://flickr.com/photos/68977046@N00/2280632046
+ID:2280632046
+Title:Charlevoix - Light
+Description:null
+
+Latitude:45.320198
+Longitude:-85.265
+Date:Tue Feb 19 23:32:42 GMT 2008

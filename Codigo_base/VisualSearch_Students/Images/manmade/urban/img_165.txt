@@ -1,0 +1,9 @@
+Username:22908642@N06
+URL:http://flickr.com/photos/22908642@N06/2199452846
+ID:2199452846
+Title:City frame
+Description:null
+
+Latitude:53.22772
+Longitude:-0.536849
+Date:Mon Jan 14 10:49:27 GMT 2008

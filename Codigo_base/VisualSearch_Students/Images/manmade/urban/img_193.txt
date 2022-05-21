@@ -1,0 +1,9 @@
+Username:22908912@N04
+URL:http://flickr.com/photos/22908912@N04/2199297054
+ID:2199297054
+Title:More Montgomery Deco
+Description:null
+
+Latitude:33.731457
+Longitude:-117.996574
+Date:Thu Jan 17 08:42:55 GMT 2008

@@ -1,0 +1,9 @@
+Username:23493604@N00
+URL:http://flickr.com/photos/23493604@N00/2179020128
+ID:2179020128
+Title:Birthday Card 1
+Description:null
+
+Latitude:51.88129
+Longitude:-2.115758
+Date:Tue Jan 08 18:35:11 GMT 2008

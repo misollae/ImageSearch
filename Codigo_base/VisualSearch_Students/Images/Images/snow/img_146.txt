@@ -1,0 +1,9 @@
+Username:42875348@N00
+URL:http://flickr.com/photos/42875348@N00/2281335000
+ID:2281335000
+Title:the wasteland
+Description:null
+
+Latitude:43.47756
+Longitude:-80.54676
+Date:Wed Feb 20 16:02:18 GMT 2008

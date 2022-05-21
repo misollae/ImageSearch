@@ -1,0 +1,9 @@
+Username:34468469@N00
+URL:http://flickr.com/photos/34468469@N00/2325676992
+ID:2325676992
+Title:Great Blue Heron in flight
+Description:null
+
+Latitude:47.668907
+Longitude:-122.12517
+Date:Mon Mar 10 17:24:10 GMT 2008

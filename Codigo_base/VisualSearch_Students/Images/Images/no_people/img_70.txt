@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/885487395
+ID:885487395
+Title:12 Il molo
+Description:null
+
+Latitude:44.388798
+Longitude:8.647801
+Date:Sat Jun 23 19:35:20 BST 2007

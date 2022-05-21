@@ -1,0 +1,9 @@
+Username:9160570@N05
+URL:http://flickr.com/photos/9160570@N05/2328189190
+ID:2328189190
+Title:Dirty
+Description:null
+
+Latitude:41.888554
+Longitude:-87.62461
+Date:Tue Mar 11 11:17:14 GMT 2008

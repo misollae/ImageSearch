@@ -1,0 +1,9 @@
+Username:48646584@N00
+URL:http://flickr.com/photos/48646584@N00/2143523525
+ID:2143523525
+Title:Hong Kong - Waterfall@BoC
+Description:null
+
+Latitude:22.279408
+Longitude:114.16123
+Date:Fri Dec 28 17:09:49 GMT 2007

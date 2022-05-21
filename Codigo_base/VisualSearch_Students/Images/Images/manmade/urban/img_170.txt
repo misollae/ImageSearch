@@ -1,0 +1,9 @@
+Username:22908912@N04
+URL:http://flickr.com/photos/22908912@N04/2198529261
+ID:2198529261
+Title:Grid
+Description:null
+
+Latitude:33.731773
+Longitude:-117.99702
+Date:Thu Jan 17 09:05:19 GMT 2008

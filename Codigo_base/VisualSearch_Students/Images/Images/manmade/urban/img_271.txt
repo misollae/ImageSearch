@@ -1,0 +1,9 @@
+Username:70505071@N00
+URL:http://flickr.com/photos/70505071@N00/2195334828
+ID:2195334828
+Title:Armitage El station under construction, Chicago, January 2008
+Description:null
+
+Latitude:41.918144
+Longitude:-87.65272
+Date:Sun Jan 13 14:34:08 GMT 2008

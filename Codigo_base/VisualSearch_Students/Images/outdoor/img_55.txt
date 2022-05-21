@@ -1,0 +1,9 @@
+Username:9424255@N05
+URL:http://flickr.com/photos/9424255@N05/2300400430
+ID:2300400430
+Title:svatý na most?
+Description:null
+
+Latitude:50.086548
+Longitude:14.410416
+Date:Sat Feb 23 13:41:42 GMT 2008

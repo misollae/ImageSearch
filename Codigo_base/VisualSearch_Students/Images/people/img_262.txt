@@ -1,0 +1,9 @@
+Username:53353745@N00
+URL:http://flickr.com/photos/53353745@N00/2230256691
+ID:2230256691
+Title:Who, me?
+Description:null
+
+Latitude:39.314003
+Longitude:-84.52552
+Date:Mon Dec 24 22:47:50 GMT 2007

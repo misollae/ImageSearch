@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/2061708385
+ID:2061708385
+Title:59 Per fortuna il lucchetto ha resistito
+Description:null
+
+Latitude:44.86945
+Longitude:11.598601
+Date:Fri Jul 20 18:33:11 BST 2007

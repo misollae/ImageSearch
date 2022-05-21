@@ -1,0 +1,9 @@
+Username:49744353@N00
+URL:http://flickr.com/photos/49744353@N00/2328664905
+ID:2328664905
+Title:Lake Michigan - Winter 2008
+Description:null
+
+Latitude:42.65663
+Longitude:-87.81026
+Date:Sat Jan 19 14:45:51 GMT 2008

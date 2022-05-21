@@ -1,0 +1,9 @@
+Username:22209645@N06
+URL:http://flickr.com/photos/22209645@N06/2321695049
+ID:2321695049
+Title:wasserturm
+Description:null
+
+Latitude:52.497993
+Longitude:13.477874
+Date:Sun Oct 14 11:52:54 BST 2007

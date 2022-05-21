@@ -1,0 +1,9 @@
+Username:88442983@N00
+URL:http://flickr.com/photos/88442983@N00/2199776318
+ID:2199776318
+Title:Robert E. Lee Monument
+Description:null
+
+Latitude:37.553772
+Longitude:-77.46037
+Date:Wed Jan 16 18:53:44 GMT 2008

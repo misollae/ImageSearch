@@ -1,0 +1,9 @@
+Username:56627020@N00
+URL:http://flickr.com/photos/56627020@N00/2330095227
+ID:2330095227
+Title:??
+Description:null
+
+Latitude:22.635893
+Longitude:120.32345
+Date:Sat Feb 16 18:57:34 GMT 2008

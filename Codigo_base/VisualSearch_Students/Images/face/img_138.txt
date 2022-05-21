@@ -1,0 +1,9 @@
+Username:54576824@N00
+URL:http://flickr.com/photos/54576824@N00/2302537816
+ID:2302537816
+Title:IMG_5672
+Description:null
+
+Latitude:48.724804
+Longitude:7.338642
+Date:Sun Feb 17 13:45:39 GMT 2008

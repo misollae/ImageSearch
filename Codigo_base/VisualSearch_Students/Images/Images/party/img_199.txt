@@ -1,0 +1,9 @@
+Username:28202888@N00
+URL:http://flickr.com/photos/28202888@N00/2269490654
+ID:2269490654
+Title:IMG_0395
+Description:null
+
+Latitude:33.967323
+Longitude:-117.35158
+Date:Sat Feb 16 05:05:55 GMT 2008

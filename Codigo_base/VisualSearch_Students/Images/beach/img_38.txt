@@ -1,0 +1,9 @@
+Username:11294776@N00
+URL:http://flickr.com/photos/11294776@N00/2329858793
+ID:2329858793
+Title:Ritidian Beach, Guam, Micronesia
+Description:null
+
+Latitude:13.630524
+Longitude:144.84174
+Date:Thu Mar 13 05:58:32 GMT 2008

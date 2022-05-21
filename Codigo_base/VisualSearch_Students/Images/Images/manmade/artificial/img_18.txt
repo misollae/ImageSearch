@@ -1,0 +1,9 @@
+Username:19979431@N04
+URL:http://flickr.com/photos/19979431@N04/2249345685
+ID:2249345685
+Title:Night Falls
+Description:null
+
+Latitude:47.619995
+Longitude:-122.33002
+Date:Thu Feb 07 20:14:17 GMT 2008

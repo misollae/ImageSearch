@@ -1,0 +1,9 @@
+Username:59231897@N00
+URL:http://flickr.com/photos/59231897@N00/2196281185
+ID:2196281185
+Title:Ants At War
+Description:null
+
+Latitude:42.27911
+Longitude:-83.74145
+Date:Sat Jan 12 12:43:39 GMT 2008

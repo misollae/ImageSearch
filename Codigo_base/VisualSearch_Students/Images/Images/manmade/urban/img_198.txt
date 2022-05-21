@@ -1,0 +1,9 @@
+Username:22908912@N04
+URL:http://flickr.com/photos/22908912@N04/2199291342
+ID:2199291342
+Title:Levitz Furniture
+Description:null
+
+Latitude:33.731388
+Longitude:-117.99845
+Date:Thu Jan 17 08:36:35 GMT 2008

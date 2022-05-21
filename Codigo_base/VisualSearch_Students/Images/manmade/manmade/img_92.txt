@@ -1,0 +1,9 @@
+Username:37978719@N00
+URL:http://flickr.com/photos/37978719@N00/490707178
+ID:490707178
+Title:cleveland skyline
+Description:null
+
+Latitude:41.4089
+Longitude:-81.62089
+Date:Mon May 08 19:57:55 BST 2006

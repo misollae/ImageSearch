@@ -1,0 +1,9 @@
+Username:79053562@N00
+URL:http://flickr.com/photos/79053562@N00/2303599265
+ID:2303599265
+Title:Me
+Description:null
+
+Latitude:37.794064
+Longitude:-122.40474
+Date:Tue Sep 11 12:43:43 BST 2007

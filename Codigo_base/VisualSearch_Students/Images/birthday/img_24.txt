@@ -1,0 +1,9 @@
+Username:34145827@N00
+URL:http://flickr.com/photos/34145827@N00/2335535214
+ID:2335535214
+Title:Amy
+Description:null
+
+Latitude:41.931686
+Longitude:-87.68361
+Date:Wed Mar 12 19:55:49 GMT 2008

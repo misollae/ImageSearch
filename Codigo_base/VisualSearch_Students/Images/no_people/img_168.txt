@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/518234760
+ID:518234760
+Title:03 Monti
+Description:null
+
+Latitude:44.203835
+Longitude:8.038333
+Date:Sun May 06 10:35:49 BST 2007

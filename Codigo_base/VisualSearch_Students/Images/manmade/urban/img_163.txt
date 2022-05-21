@@ -1,0 +1,9 @@
+Username:72396314@N00
+URL:http://flickr.com/photos/72396314@N00/2199712158
+ID:2199712158
+Title:bean
+Description:null
+
+Latitude:35.685173
+Longitude:139.76807
+Date:Thu Jan 17 19:29:13 GMT 2008

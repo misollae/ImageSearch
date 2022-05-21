@@ -1,0 +1,9 @@
+Username:36145468@N00
+URL:http://flickr.com/photos/36145468@N00/2280419229
+ID:2280419229
+Title:IMG_2473
+Description:null
+
+Latitude:42.974663
+Longitude:-78.79932
+Date:Fri Feb 15 10:08:14 GMT 2008

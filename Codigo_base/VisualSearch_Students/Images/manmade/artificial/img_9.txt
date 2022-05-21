@@ -1,0 +1,9 @@
+Username:54726853@N00
+URL:http://flickr.com/photos/54726853@N00/2274968685
+ID:2274968685
+Title:Route 92 out of Half Moon Bay, July 4, 2006
+Description:null
+
+Latitude:37.4883
+Longitude:-122.3708
+Date:Tue Jul 04 15:51:40 BST 2006

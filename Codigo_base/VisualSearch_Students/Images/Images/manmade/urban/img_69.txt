@@ -1,0 +1,9 @@
+Username:7200765@N08
+URL:http://flickr.com/photos/7200765@N08/2325275573
+ID:2325275573
+Title:Camden Square - Southend
+Description:null
+
+Latitude:35.21048
+Longitude:-80.86063
+Date:Mon Mar 10 18:49:46 GMT 2008

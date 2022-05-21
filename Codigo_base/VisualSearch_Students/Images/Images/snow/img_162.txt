@@ -1,0 +1,9 @@
+Username:99513767@N00
+URL:http://flickr.com/photos/99513767@N00/2281147864
+ID:2281147864
+Title:snowy day
+Description:null
+
+Latitude:41.89953
+Longitude:-87.63059
+Date:Wed Feb 06 15:18:58 GMT 2008

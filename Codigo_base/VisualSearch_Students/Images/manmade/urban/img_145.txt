@@ -1,0 +1,9 @@
+Username:89716538@N00
+URL:http://flickr.com/photos/89716538@N00/2200193760
+ID:2200193760
+Title:3 in the sky ?
+Description:null
+
+Latitude:38.73222
+Longitude:-9.15108
+Date:Sat Dec 15 10:53:59 GMT 2007

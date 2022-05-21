@@ -1,0 +1,9 @@
+Username:12179651@N07
+URL:http://flickr.com/photos/12179651@N07/1329771470
+ID:1329771470
+Title:A bit of Refreshment
+Description:null
+
+Latitude:39.002254
+Longitude:-76.58433
+Date:Sat Sep 01 17:36:29 BST 2007

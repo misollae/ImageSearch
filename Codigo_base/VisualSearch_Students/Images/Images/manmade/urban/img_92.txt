@@ -1,0 +1,9 @@
+Username:22209645@N06
+URL:http://flickr.com/photos/22209645@N06/2321779819
+ID:2321779819
+Title:eckhaus
+Description:null
+
+Latitude:52.54047
+Longitude:13.41613
+Date:Tue Feb 05 13:57:22 GMT 2008

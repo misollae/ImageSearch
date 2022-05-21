@@ -1,0 +1,9 @@
+Username:49744353@N00
+URL:http://flickr.com/photos/49744353@N00/2328667623
+ID:2328667623
+Title:Childhood Friends
+Description:null
+
+Latitude:42.65663
+Longitude:-87.81026
+Date:Wed Dec 26 16:05:12 GMT 2007

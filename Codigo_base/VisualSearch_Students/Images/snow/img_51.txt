@@ -1,0 +1,9 @@
+Username:42783290@N00
+URL:http://flickr.com/photos/42783290@N00/2329702847
+ID:2329702847
+Title:Snow Holds to Love
+Description:null
+
+Latitude:42.987335
+Longitude:-71.47375
+Date:Fri Feb 29 07:53:35 GMT 2008

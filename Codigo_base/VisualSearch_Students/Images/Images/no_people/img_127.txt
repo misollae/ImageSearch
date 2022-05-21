@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/521040532
+ID:521040532
+Title:17 Il pino e il sole
+Description:null
+
+Latitude:45.10696
+Longitude:7.473224
+Date:Thu May 10 18:23:48 BST 2007

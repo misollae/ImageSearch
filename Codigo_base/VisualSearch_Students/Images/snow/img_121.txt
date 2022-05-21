@@ -1,0 +1,9 @@
+Username:33621289@N00
+URL:http://flickr.com/photos/33621289@N00/2282591318
+ID:2282591318
+Title:Mariposa Grove
+Description:null
+
+Latitude:37.513752
+Longitude:-119.59779
+Date:Sun Feb 17 10:32:33 GMT 2008

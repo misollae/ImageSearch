@@ -1,0 +1,9 @@
+Username:53463930@N00
+URL:http://flickr.com/photos/53463930@N00/2329117547
+ID:2329117547
+Title:view from apartment 4
+Description:null
+
+Latitude:45.57559
+Longitude:6.785227
+Date:Sun Mar 02 17:56:47 GMT 2008

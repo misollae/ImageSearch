@@ -1,0 +1,9 @@
+Username:95727254@N00
+URL:http://flickr.com/photos/95727254@N00/1321028936
+ID:1321028936
+Title:Gillette Stadium
+Description:null
+
+Latitude:42.09068
+Longitude:-71.26428
+Date:Thu Aug 30 19:19:06 BST 2007

@@ -1,0 +1,9 @@
+Username:68977046@N00
+URL:http://flickr.com/photos/68977046@N00/2279824243
+ID:2279824243
+Title:Traverse City Clock Tower
+Description:null
+
+Latitude:44.764244
+Longitude:-85.624146
+Date:Tue Feb 19 21:42:52 GMT 2008

@@ -1,0 +1,9 @@
+Username:23335209@N02
+URL:http://flickr.com/photos/23335209@N02/2286185201
+ID:2286185201
+Title:Bad Mitterndorf | farmhouse Austria
+Description:null
+
+Latitude:47.549667
+Longitude:13.971996
+Date:Fri Sep 09 03:19:14 BST 2005

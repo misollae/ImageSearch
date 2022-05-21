@@ -1,0 +1,9 @@
+Username:95104082@N00
+URL:http://flickr.com/photos/95104082@N00/2280926258
+ID:2280926258
+Title:Hawrelak Park
+Description:null
+
+Latitude:53.52852
+Longitude:-113.54496
+Date:Sat Feb 16 12:18:40 GMT 2008

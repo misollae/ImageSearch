@@ -1,0 +1,9 @@
+Username:7486487@N08
+URL:http://flickr.com/photos/7486487@N08/821777955
+ID:821777955
+Title:Angles: Connel bridge (orton)
+Description:null
+
+Latitude:56.455067
+Longitude:-5.3942
+Date:Sat Jul 14 14:48:21 BST 2007

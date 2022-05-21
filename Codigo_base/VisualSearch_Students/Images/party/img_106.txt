@@ -1,0 +1,9 @@
+Username:24313118@N06
+URL:http://flickr.com/photos/24313118@N06/2333073353
+ID:2333073353
+Title:How to Dance to Kap Bambino part 1
+Description:null
+
+Latitude:52.96992
+Longitude:-1.157287
+Date:Thu Mar 13 21:36:00 GMT 2008

@@ -1,0 +1,9 @@
+Username:53878557@N00
+URL:http://flickr.com/photos/53878557@N00/2300477738
+ID:2300477738
+Title:PB030096
+Description:null
+
+Latitude:48.32968
+Longitude:17.86726
+Date:Sat Nov 03 12:05:57 GMT 2007

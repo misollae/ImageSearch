@@ -1,0 +1,9 @@
+Username:24602720@N04
+URL:http://flickr.com/photos/24602720@N04/2329502411
+ID:2329502411
+Title:DJ Xavier
+Description:null
+
+Latitude:52.091583
+Longitude:5.118438
+Date:Thu Oct 04 20:26:40 BST 2007

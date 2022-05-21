@@ -1,0 +1,9 @@
+Username:22475604@N00
+URL:http://flickr.com/photos/22475604@N00/306518456
+ID:306518456
+Title:Final score:Cambridge 3, Malory 1
+Description:null
+
+Latitude:52.217445
+Longitude:0.12174
+Date:Sun Nov 26 02:57:15 GMT 2006

@@ -1,0 +1,9 @@
+Username:95104082@N00
+URL:http://flickr.com/photos/95104082@N00/2280153485
+ID:2280153485
+Title:North Saskatchewan River
+Description:null
+
+Latitude:53.524094
+Longitude:-113.547455
+Date:Sat Feb 16 15:29:21 GMT 2008

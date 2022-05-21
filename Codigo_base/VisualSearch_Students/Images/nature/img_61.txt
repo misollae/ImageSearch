@@ -1,0 +1,9 @@
+Username:10591108@N02
+URL:http://flickr.com/photos/10591108@N02/2329965396
+ID:2329965396
+Title:Girls Making "Bird's Nests"
+Description:null
+
+Latitude:43.56171
+Longitude:-70.215
+Date:Wed Mar 12 15:06:10 GMT 2008

@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/521056657
+ID:521056657
+Title:35 Autoritratto in ombra
+Description:null
+
+Latitude:45.11409
+Longitude:7.455205
+Date:Thu May 10 19:13:52 BST 2007

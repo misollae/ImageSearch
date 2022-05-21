@@ -1,0 +1,9 @@
+Username:23594708@N00
+URL:http://flickr.com/photos/23594708@N00/2331666363
+ID:2331666363
+Title:Bam oida!
+Description:null
+
+Latitude:48.20432
+Longitude:16.347174
+Date:Wed Mar 12 01:53:38 GMT 2008

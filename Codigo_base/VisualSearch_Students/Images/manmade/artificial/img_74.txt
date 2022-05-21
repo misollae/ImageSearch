@@ -1,0 +1,9 @@
+Username:30778818@N00
+URL:http://flickr.com/photos/30778818@N00/370216748
+ID:370216748
+Title:Hamilton Mall Center Court
+Description:null
+
+Latitude:39.453827
+Longitude:-74.6435
+Date:Wed Feb 08 21:28:23 GMT 2006

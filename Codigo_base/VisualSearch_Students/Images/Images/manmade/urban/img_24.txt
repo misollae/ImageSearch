@@ -1,0 +1,9 @@
+Username:34582332@N00
+URL:http://flickr.com/photos/34582332@N00/2329599138
+ID:2329599138
+Title:Early morning Teignmouth
+Description:null
+
+Latitude:50.54644
+Longitude:-3.494628
+Date:Wed Apr 18 07:01:18 BST 2007

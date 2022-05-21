@@ -1,0 +1,9 @@
+Username:12179651@N07
+URL:http://flickr.com/photos/12179651@N07/1305605079
+ID:1305605079
+Title:Knights Celebration
+Description:null
+
+Latitude:39.0008
+Longitude:-76.58396
+Date:Sat Sep 01 14:19:20 BST 2007

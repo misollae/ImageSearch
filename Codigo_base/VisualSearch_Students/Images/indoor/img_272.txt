@@ -1,0 +1,9 @@
+Username:34427466731@N01
+URL:http://flickr.com/photos/34427466731@N01/305965629
+ID:305965629
+Title:pastry squircle
+Description:null
+
+Latitude:42.746544
+Longitude:-73.80955
+Date:Wed Nov 22 17:01:54 GMT 2006

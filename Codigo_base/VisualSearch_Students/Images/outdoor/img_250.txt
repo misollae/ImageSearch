@@ -1,0 +1,9 @@
+Username:23688516@N00
+URL:http://flickr.com/photos/23688516@N00/1322896194
+ID:1322896194
+Title:rotting roots
+Description:null
+
+Latitude:35.348473
+Longitude:-83.9052
+Date:Sat Sep 01 10:13:16 BST 2007

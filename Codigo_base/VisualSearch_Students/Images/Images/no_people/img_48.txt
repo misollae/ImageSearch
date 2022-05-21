@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/2047717707
+ID:2047717707
+Title:001 La stanza dell'albergo
+Description:null
+
+Latitude:44.848625
+Longitude:11.591037
+Date:Tue Jul 03 18:35:25 BST 2007

@@ -1,0 +1,9 @@
+Username:93174672@N00
+URL:http://flickr.com/photos/93174672@N00/390773114
+ID:390773114
+Title:Wells Fargo Center
+Description:null
+
+Latitude:39.743397
+Longitude:-104.98529
+Date:Wed Feb 14 23:22:48 GMT 2007

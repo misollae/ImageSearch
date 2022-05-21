@@ -1,0 +1,9 @@
+Username:9454850@N08
+URL:http://flickr.com/photos/9454850@N08/2321950932
+ID:2321950932
+Title:Portrait of a guy
+Description:null
+
+Latitude:25.777962
+Longitude:-80.13123
+Date:Sat Mar 08 15:32:49 GMT 2008

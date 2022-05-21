@@ -1,0 +1,9 @@
+Username:71242171@N00
+URL:http://flickr.com/photos/71242171@N00/2247404715
+ID:2247404715
+Title:snowy trees in lincoln park
+Description:null
+
+Latitude:41.97156
+Longitude:-87.65014
+Date:Wed Feb 06 17:09:06 GMT 2008

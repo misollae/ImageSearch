@@ -1,0 +1,9 @@
+Username:32986698@N00
+URL:http://flickr.com/photos/32986698@N00/2327653411
+ID:2327653411
+Title:Lorikeet
+Description:null
+
+Latitude:32.735577
+Longitude:-117.151146
+Date:Fri Oct 26 21:05:02 BST 2007

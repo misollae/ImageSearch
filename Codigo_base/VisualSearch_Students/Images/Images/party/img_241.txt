@@ -1,0 +1,9 @@
+Username:94246031@N00
+URL:http://flickr.com/photos/94246031@N00/2267947745
+ID:2267947745
+Title:Sadie and Amie
+Description:null
+
+Latitude:37.328808
+Longitude:-121.906746
+Date:Sun Feb 10 18:58:12 GMT 2008

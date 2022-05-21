@@ -1,0 +1,9 @@
+Username:7786371@N08
+URL:http://flickr.com/photos/7786371@N08/2333696233
+ID:2333696233
+Title:Wise Old Elephant
+Description:null
+
+Latitude:39.00564
+Longitude:-94.527245
+Date:Fri Mar 14 13:25:19 GMT 2008

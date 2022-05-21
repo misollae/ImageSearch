@@ -1,0 +1,9 @@
+Username:94336434@N00
+URL:http://flickr.com/photos/94336434@N00/2249897790
+ID:2249897790
+Title:K.C.
+Description:null
+
+Latitude:48.7523
+Longitude:-122.429245
+Date:Sat Nov 10 14:25:13 GMT 2007

@@ -1,0 +1,9 @@
+Username:35943421@N00
+URL:http://flickr.com/photos/35943421@N00/1286978179
+ID:1286978179
+Title:Raffles
+Description:null
+
+Latitude:1.285163
+Longitude:103.8518
+Date:Thu Feb 09 12:00:00 GMT 1995

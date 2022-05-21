@@ -1,0 +1,9 @@
+Username:23198304@N02
+URL:http://flickr.com/photos/23198304@N02/2332295635
+ID:2332295635
+Title:Graduation (17) Disney
+Description:null
+
+Latitude:28.371908
+Longitude:-81.55886
+Date:Thu Jun 28 08:03:12 BST 2007

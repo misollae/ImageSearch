@@ -1,0 +1,9 @@
+Username:63206409@N00
+URL:http://flickr.com/photos/63206409@N00/1254815856
+ID:1254815856
+Title:Lamia
+Description:null
+
+Latitude:40.74441
+Longitude:-73.92571
+Date:Sun Aug 26 16:52:54 BST 2007

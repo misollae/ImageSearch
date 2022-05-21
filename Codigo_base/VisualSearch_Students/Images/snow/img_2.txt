@@ -1,0 +1,9 @@
+Username:37185549@N00
+URL:http://flickr.com/photos/37185549@N00/2331995011
+ID:2331995011
+Title:The afternoon glow
+Description:null
+
+Latitude:43.56435
+Longitude:-110.733154
+Date:Fri Mar 14 01:21:19 GMT 2008

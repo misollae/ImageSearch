@@ -1,0 +1,9 @@
+Username:16612517@N00
+URL:http://flickr.com/photos/16612517@N00/2194056376
+ID:2194056376
+Title:God Bless Piquette
+Description:null
+
+Latitude:42.368317
+Longitude:-83.06521
+Date:Sat Jan 12 11:54:54 GMT 2008

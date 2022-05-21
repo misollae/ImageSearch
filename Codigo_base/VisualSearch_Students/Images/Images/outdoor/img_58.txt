@@ -1,0 +1,9 @@
+Username:9424255@N05
+URL:http://flickr.com/photos/9424255@N05/2300400104
+ID:2300400104
+Title:Raduška u malé ameriky
+Description:null
+
+Latitude:49.95367
+Longitude:14.174869
+Date:Sun Feb 17 12:12:42 GMT 2008

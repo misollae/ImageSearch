@@ -1,0 +1,9 @@
+Username:15581442@N00
+URL:http://flickr.com/photos/15581442@N00/1344561759
+ID:1344561759
+Title:Lurking in the shadows
+Description:null
+
+Latitude:42.162514
+Longitude:-83.78649
+Date:Sun Sep 02 18:23:42 BST 2007

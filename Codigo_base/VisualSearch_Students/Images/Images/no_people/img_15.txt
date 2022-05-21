@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/2061773557
+ID:2061773557
+Title:75 Chiatta ristorante
+Description:null
+
+Latitude:44.887497
+Longitude:11.608192
+Date:Fri Jul 20 20:09:32 BST 2007

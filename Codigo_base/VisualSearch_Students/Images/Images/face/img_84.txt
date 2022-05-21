@@ -1,0 +1,9 @@
+Username:7967700@N06
+URL:http://flickr.com/photos/7967700@N06/2317103604
+ID:2317103604
+Title:simple photograph
+Description:null
+
+Latitude:45.636253
+Longitude:-122.38043
+Date:Wed Mar 05 01:42:22 GMT 2008

@@ -1,0 +1,9 @@
+Username:96385007@N00
+URL:http://flickr.com/photos/96385007@N00/258789796
+ID:258789796
+Title:untitled
+Description:null
+
+Latitude:52.56355
+Longitude:13.411914
+Date:Fri Sep 29 13:50:05 BST 2006

@@ -1,0 +1,9 @@
+Username:24571765@N05
+URL:http://flickr.com/photos/24571765@N05/2329884837
+ID:2329884837
+Title:Ice at NiagraFalls
+Description:null
+
+Latitude:43.078693
+Longitude:-79.07873
+Date:Mon Feb 26 14:50:16 GMT 2007

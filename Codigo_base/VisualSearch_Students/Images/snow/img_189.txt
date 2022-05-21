@@ -1,0 +1,9 @@
+Username:38425817@N00
+URL:http://flickr.com/photos/38425817@N00/2279824995
+ID:2279824995
+Title:Arc 1800
+Description:null
+
+Latitude:45.574173
+Longitude:6.780087
+Date:Mon Jan 28 11:19:33 GMT 2008

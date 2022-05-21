@@ -1,0 +1,9 @@
+Username:13237694@N00
+URL:http://flickr.com/photos/13237694@N00/2329828414
+ID:2329828414
+Title:Gulf Fritillary
+Description:null
+
+Latitude:32.801895
+Longitude:-98.02539
+Date:Sat Sep 15 10:52:44 BST 2007

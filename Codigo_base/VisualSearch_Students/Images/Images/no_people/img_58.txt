@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/1336006737
+ID:1336006737
+Title:26 Vagoni vetusti
+Description:null
+
+Latitude:44.52889
+Longitude:8.995474
+Date:Sun Jun 24 10:28:32 BST 2007

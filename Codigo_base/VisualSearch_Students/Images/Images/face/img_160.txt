@@ -1,0 +1,9 @@
+Username:92025065@N00
+URL:http://flickr.com/photos/92025065@N00/1307739006
+ID:1307739006
+Title:IMGA0013
+Description:null
+
+Latitude:33.7136
+Longitude:-118.01178
+Date:Fri Aug 24 19:44:48 BST 2007

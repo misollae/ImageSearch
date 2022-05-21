@@ -1,0 +1,9 @@
+Username:8550255@N03
+URL:http://flickr.com/photos/8550255@N03/1243550777
+ID:1243550777
+Title:2007-0824NickVisit (7)
+Description:null
+
+Latitude:32.84007
+Longitude:-116.9891
+Date:Fri Aug 24 14:12:32 BST 2007

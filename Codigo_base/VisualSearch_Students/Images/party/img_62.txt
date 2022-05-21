@@ -1,0 +1,9 @@
+Username:85543821@N00
+URL:http://flickr.com/photos/85543821@N00/2337889084
+ID:2337889084
+Title:Got him behind the 8-ball
+Description:null
+
+Latitude:35.084736
+Longitude:-106.650734
+Date:Sat Mar 15 16:58:18 GMT 2008

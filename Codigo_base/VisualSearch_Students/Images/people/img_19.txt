@@ -1,0 +1,9 @@
+Username:49276504@N00
+URL:http://flickr.com/photos/49276504@N00/2307961497
+ID:2307961497
+Title:Christina Pike Place
+Description:null
+
+Latitude:47.608795
+Longitude:-122.34106
+Date:Sat Sep 09 11:30:33 BST 2006

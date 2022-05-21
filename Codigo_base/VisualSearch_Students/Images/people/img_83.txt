@@ -1,0 +1,9 @@
+Username:80318369@N00
+URL:http://flickr.com/photos/80318369@N00/2304931756
+ID:2304931756
+Title:FOSDEM 2008
+Description:null
+
+Latitude:50.813335
+Longitude:4.379661
+Date:Sat Feb 23 11:00:00 GMT 2008

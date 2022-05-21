@@ -1,0 +1,9 @@
+Username:51586455@N00
+URL:http://flickr.com/photos/51586455@N00/348516764
+ID:348516764
+Title:Ambassador Bridge
+Description:null
+
+Latitude:42.328773
+Longitude:-83.077614
+Date:Tue Jun 20 21:26:19 BST 2006

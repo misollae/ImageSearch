@@ -1,0 +1,9 @@
+Username:14886955@N03
+URL:http://flickr.com/photos/14886955@N03/2193046837
+ID:2193046837
+Title:London - Nelson Mandela
+Description:null
+
+Latitude:51.500443
+Longitude:-0.127421
+Date:Wed Jan 10 12:47:42 GMT 2007

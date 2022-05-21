@@ -1,0 +1,9 @@
+Username:71493549@N00
+URL:http://flickr.com/photos/71493549@N00/2232718966
+ID:2232718966
+Title:Mobile & Cigarette
+Description:null
+
+Latitude:44.49824
+Longitude:11.343523
+Date:Sat Jan 19 12:53:35 GMT 2008

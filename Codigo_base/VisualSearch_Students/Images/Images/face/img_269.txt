@@ -1,0 +1,9 @@
+Username:8454450@N08
+URL:http://flickr.com/photos/8454450@N08/1251371371
+ID:1251371371
+Title:Pigeon Fountain
+Description:null
+
+Latitude:41.899452
+Longitude:12.47667
+Date:Sat Jun 30 09:32:58 BST 2007

@@ -1,0 +1,9 @@
+Username:11080385@N05
+URL:http://flickr.com/photos/11080385@N05/2338657390
+ID:2338657390
+Title:St. Patrick's Day Party @ 11:25 am
+Description:null
+
+Latitude:42.274902
+Longitude:-83.740875
+Date:Sat Mar 15 10:57:05 GMT 2008

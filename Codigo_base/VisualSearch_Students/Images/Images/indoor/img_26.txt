@@ -1,0 +1,9 @@
+Username:82053658@N00
+URL:http://flickr.com/photos/82053658@N00/2300180693
+ID:2300180693
+Title:Giraffes
+Description:null
+
+Latitude:41.383133
+Longitude:-82.64307
+Date:Thu Feb 28 15:46:14 GMT 2008

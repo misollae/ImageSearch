@@ -1,0 +1,9 @@
+Username:34336751@N00
+URL:http://flickr.com/photos/34336751@N00/1429941714
+ID:1429941714
+Title:Diga del Luzzone
+Description:null
+
+Latitude:46.563126
+Longitude:8.963438
+Date:Tue Sep 11 14:03:16 BST 2007

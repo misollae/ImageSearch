@@ -1,0 +1,9 @@
+Username:8123894@N03
+URL:http://flickr.com/photos/8123894@N03/538204163
+ID:538204163
+Title:DSC_0128 Long Beach manmade water pond moon reflection
+Description:null
+
+Latitude:33.78731
+Longitude:-118.29421
+Date:Tue May 29 19:46:34 BST 2007

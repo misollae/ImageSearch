@@ -1,0 +1,9 @@
+Username:23393239@N08
+URL:http://flickr.com/photos/23393239@N08/2230905787
+ID:2230905787
+Title:Piazza Maggiore
+Description:null
+
+Latitude:44.494053
+Longitude:11.342611
+Date:Sat Jan 19 20:04:00 GMT 2008

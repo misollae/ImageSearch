@@ -1,0 +1,9 @@
+Username:12281871@N04
+URL:http://flickr.com/photos/12281871@N04/2298084118
+ID:2298084118
+Title:Classic
+Description:null
+
+Latitude:18.272846
+Longitude:-78.36751
+Date:Sat Dec 29 21:43:48 GMT 2007

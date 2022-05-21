@@ -1,0 +1,9 @@
+Username:47064447@N00
+URL:http://flickr.com/photos/47064447@N00/2195038562
+ID:2195038562
+Title:Sesc Pompéia
+Description:null
+
+Latitude:-23.525742
+Longitude:-46.683727
+Date:Thu Jan 10 18:25:20 GMT 2008

@@ -1,0 +1,9 @@
+Username:21455786@N02
+URL:http://flickr.com/photos/21455786@N02/2231854814
+ID:2231854814
+Title:Les rues grimpent sec vers Montmartre
+Description:null
+
+Latitude:48.886112
+Longitude:2.343145
+Date:Sun Jan 27 19:56:59 GMT 2008

@@ -1,0 +1,9 @@
+Username:14599524@N04
+URL:http://flickr.com/photos/14599524@N04/2183159142
+ID:2183159142
+Title:seren dg2
+Description:null
+
+Latitude:41.03396
+Longitude:28.980486
+Date:Tue Jan 09 22:46:01 GMT 2007

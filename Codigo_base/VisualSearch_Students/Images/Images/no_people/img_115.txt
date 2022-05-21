@@ -1,0 +1,9 @@
+Username:65919269@N00
+URL:http://flickr.com/photos/65919269@N00/557896360
+ID:557896360
+Title:Theatre of Antonín Dvo?ák
+Description:null
+
+Latitude:49.832672
+Longitude:18.290413
+Date:Sat Jun 16 16:14:58 BST 2007

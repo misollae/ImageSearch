@@ -1,0 +1,9 @@
+Username:7923957@N06
+URL:http://flickr.com/photos/7923957@N06/2233077736
+ID:2233077736
+Title:in una tazza di tea
+Description:null
+
+Latitude:45.734463
+Longitude:9.129467
+Date:Sun Jan 27 17:12:01 GMT 2008

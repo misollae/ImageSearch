@@ -1,0 +1,9 @@
+Username:56029500@N00
+URL:http://flickr.com/photos/56029500@N00/1294363532
+ID:1294363532
+Title:HideOut #1
+Description:null
+
+Latitude:48.85964
+Longitude:2.348445
+Date:Fri Aug 31 22:40:19 BST 2007

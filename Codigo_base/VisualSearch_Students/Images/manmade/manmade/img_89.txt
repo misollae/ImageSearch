@@ -1,0 +1,9 @@
+Username:26677062@N00
+URL:http://flickr.com/photos/26677062@N00/497803850
+ID:497803850
+Title:Ireland
+Description:null
+
+Latitude:53.349457
+Longitude:-6.26049
+Date:Sat May 12 15:27:10 BST 2007

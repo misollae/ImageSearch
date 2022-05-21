@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/886313530
+ID:886313530
+Title:04 Onda
+Description:null
+
+Latitude:44.388798
+Longitude:8.647801
+Date:Sat Jun 23 19:14:41 BST 2007

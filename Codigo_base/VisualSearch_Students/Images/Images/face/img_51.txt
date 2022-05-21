@@ -1,0 +1,9 @@
+Username:7200765@N08
+URL:http://flickr.com/photos/7200765@N08/2325270549
+ID:2325270549
+Title:Face in the Wall
+Description:null
+
+Latitude:35.212112
+Longitude:-80.85888
+Date:Mon Mar 10 18:38:04 GMT 2008

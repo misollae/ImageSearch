@@ -1,0 +1,9 @@
+Username:39691453@N00
+URL:http://flickr.com/photos/39691453@N00/1287512129
+ID:1287512129
+Title:finger
+Description:null
+
+Latitude:52.625515
+Longitude:1.278458
+Date:Fri Aug 31 21:23:25 BST 2007

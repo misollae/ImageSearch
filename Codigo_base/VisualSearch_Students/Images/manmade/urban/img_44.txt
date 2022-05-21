@@ -1,0 +1,9 @@
+Username:56848777@N00
+URL:http://flickr.com/photos/56848777@N00/2326271597
+ID:2326271597
+Title:Firebird in Pefkoto...
+Description:null
+
+Latitude:37.828686
+Longitude:23.783072
+Date:Mon Mar 10 16:14:58 GMT 2008

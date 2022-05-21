@@ -1,0 +1,9 @@
+Username:7486487@N08
+URL:http://flickr.com/photos/7486487@N08/2316234375
+ID:2316234375
+Title:Interior (HDR)
+Description:null
+
+Latitude:51.785244
+Longitude:-2.195479
+Date:Sun Mar 02 23:44:11 GMT 2008

@@ -1,0 +1,9 @@
+Username:22613857@N05
+URL:http://flickr.com/photos/22613857@N05/2179067340
+ID:2179067340
+Title:Chrysler from Waldorf
+Description:null
+
+Latitude:40.751698
+Longitude:-73.97546
+Date:Sat Nov 11 23:00:02 GMT 2006

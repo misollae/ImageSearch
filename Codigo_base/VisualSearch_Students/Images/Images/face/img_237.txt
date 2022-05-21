@@ -1,0 +1,9 @@
+Username:12482785@N00
+URL:http://flickr.com/photos/12482785@N00/1270475352
+ID:1270475352
+Title:Mother and Daughter
+Description:null
+
+Latitude:25.724064
+Longitude:-80.40054
+Date:Sun Aug 26 18:25:38 BST 2007

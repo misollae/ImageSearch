@@ -1,0 +1,9 @@
+Username:29237602@N00
+URL:http://flickr.com/photos/29237602@N00/2251383295
+ID:2251383295
+Title:Seagull
+Description:null
+
+Latitude:37.80856
+Longitude:-122.47063
+Date:Fri Feb 08 13:41:14 GMT 2008

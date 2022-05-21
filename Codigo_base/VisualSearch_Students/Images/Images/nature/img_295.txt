@@ -1,0 +1,9 @@
+Username:27924740@N00
+URL:http://flickr.com/photos/27924740@N00/2249310543
+ID:2249310543
+Title:Wolves Nose Kiss
+Description:null
+
+Latitude:48.180782
+Longitude:16.303684
+Date:Thu Feb 07 11:15:18 GMT 2008

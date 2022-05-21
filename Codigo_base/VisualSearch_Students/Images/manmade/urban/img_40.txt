@@ -1,0 +1,9 @@
+Username:17587718@N00
+URL:http://flickr.com/photos/17587718@N00/2327176355
+ID:2327176355
+Title:Cloud Gate with emerging Trump
+Description:null
+
+Latitude:41.882717
+Longitude:-87.62342
+Date:Mon Mar 10 16:17:34 GMT 2008

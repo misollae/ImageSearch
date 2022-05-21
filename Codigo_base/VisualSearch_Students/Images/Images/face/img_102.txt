@@ -1,0 +1,9 @@
+Username:20698962@N00
+URL:http://flickr.com/photos/20698962@N00/2312585091
+ID:2312585091
+Title:Spill the Wine
+Description:null
+
+Latitude:29.799679
+Longitude:-95.38639
+Date:Wed Mar 05 13:59:44 GMT 2008

@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/2061769081
+ID:2061769081
+Title:86 Il Re del cielo e la sua corte salutano il Po
+Description:null
+
+Latitude:44.88852
+Longitude:11.60815
+Date:Fri Jul 20 20:31:34 BST 2007

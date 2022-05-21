@@ -1,0 +1,9 @@
+Username:34582332@N00
+URL:http://flickr.com/photos/34582332@N00/2328776517
+ID:2328776517
+Title:Sunrise over Lyme Bay
+Description:null
+
+Latitude:50.54424
+Longitude:-3.494156
+Date:Wed Apr 18 06:52:02 BST 2007

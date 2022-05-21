@@ -1,0 +1,9 @@
+Username:70648348@N00
+URL:http://flickr.com/photos/70648348@N00/1012023488
+ID:1012023488
+Title:Depressing Fan
+Description:null
+
+Latitude:40.692116
+Longitude:-73.99029
+Date:Tue Jul 03 13:02:21 BST 2007

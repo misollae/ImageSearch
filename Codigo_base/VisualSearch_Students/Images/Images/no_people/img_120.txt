@@ -1,0 +1,9 @@
+Username:15089406@N00
+URL:http://flickr.com/photos/15089406@N00/541411771
+ID:541411771
+Title:IMG_2275.JPG
+Description:null
+
+Latitude:42.358814
+Longitude:-71.09003
+Date:Mon Jun 04 10:54:02 BST 2007

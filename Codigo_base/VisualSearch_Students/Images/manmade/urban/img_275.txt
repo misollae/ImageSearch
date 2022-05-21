@@ -1,0 +1,9 @@
+Username:70505071@N00
+URL:http://flickr.com/photos/70505071@N00/2194557125
+ID:2194557125
+Title:John Hancock Center, Chicago, January 2008
+Description:null
+
+Latitude:41.89885
+Longitude:-87.62324
+Date:Sat Jan 12 12:47:25 GMT 2008

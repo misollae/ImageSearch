@@ -1,0 +1,9 @@
+Username:48889068537@N01
+URL:http://flickr.com/photos/48889068537@N01/2332989564
+ID:2332989564
+Title:Haystack mirrored
+Description:null
+
+Latitude:45.886284
+Longitude:-123.96535
+Date:Sat Mar 01 11:02:37 GMT 2008

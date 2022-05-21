@@ -1,0 +1,9 @@
+Username:66092176@N00
+URL:http://flickr.com/photos/66092176@N00/2330626309
+ID:2330626309
+Title:View from my hotel room
+Description:null
+
+Latitude:43.74793
+Longitude:7.43645
+Date:Thu Mar 13 15:22:44 GMT 2008

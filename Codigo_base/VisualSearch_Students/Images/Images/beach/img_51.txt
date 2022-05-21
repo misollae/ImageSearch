@@ -1,0 +1,9 @@
+Username:68583628@N00
+URL:http://flickr.com/photos/68583628@N00/2329787276
+ID:2329787276
+Title:Kanahena 2
+Description:null
+
+Latitude:20.598707
+Longitude:-156.41342
+Date:Sat Oct 02 08:01:24 BST 2004

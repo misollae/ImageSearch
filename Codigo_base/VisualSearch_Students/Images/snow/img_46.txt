@@ -1,0 +1,9 @@
+Username:59231897@N00
+URL:http://flickr.com/photos/59231897@N00/2330786754
+ID:2330786754
+Title:Still Winter Here
+Description:null
+
+Latitude:42.231956
+Longitude:-83.678825
+Date:Tue Mar 11 11:57:26 GMT 2008

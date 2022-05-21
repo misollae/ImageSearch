@@ -1,0 +1,9 @@
+Username:7486487@N08
+URL:http://flickr.com/photos/7486487@N08/2316232839
+ID:2316232839
+Title:Illuminated Hymnbooks
+Description:null
+
+Latitude:51.785282
+Longitude:-2.195307
+Date:Sat Mar 01 10:55:48 GMT 2008

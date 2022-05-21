@@ -1,0 +1,9 @@
+Username:7332624@N06
+URL:http://flickr.com/photos/7332624@N06/1026434213
+ID:1026434213
+Title:A Long Wait
+Description:null
+
+Latitude:52.135014
+Longitude:-0.463603
+Date:Sat Aug 04 15:24:28 BST 2007

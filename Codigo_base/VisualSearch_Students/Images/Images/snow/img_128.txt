@@ -1,0 +1,9 @@
+Username:33621289@N00
+URL:http://flickr.com/photos/33621289@N00/2281131539
+ID:2281131539
+Title:Yosemite Valley
+Description:null
+
+Latitude:37.74738
+Longitude:-119.54988
+Date:Sat Feb 16 15:08:32 GMT 2008

@@ -1,0 +1,9 @@
+Username:34976104@N00
+URL:http://flickr.com/photos/34976104@N00/2281914955
+ID:2281914955
+Title:St John's College Chapel
+Description:null
+
+Latitude:52.208202
+Longitude:0.118231
+Date:Thu Feb 08 09:25:21 GMT 2007

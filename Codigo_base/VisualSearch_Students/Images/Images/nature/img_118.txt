@@ -1,0 +1,9 @@
+Username:22078864@N03
+URL:http://flickr.com/photos/22078864@N03/2251293805
+ID:2251293805
+Title:Sacred Letters
+Description:null
+
+Latitude:30.672531
+Longitude:-97.3701
+Date:Sun Jan 27 17:49:06 GMT 2008

@@ -1,0 +1,9 @@
+Username:57085766@N00
+URL:http://flickr.com/photos/57085766@N00/2295695632
+ID:2295695632
+Title:the parade starts
+Description:null
+
+Latitude:34.145863
+Longitude:-118.146
+Date:Tue Jan 01 08:13:22 GMT 2008

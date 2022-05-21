@@ -1,0 +1,9 @@
+Username:86716264@N00
+URL:http://flickr.com/photos/86716264@N00/2296751283
+ID:2296751283
+Title:Public sculpture
+Description:null
+
+Latitude:43.54847
+Longitude:-96.72251
+Date:Sat Feb 16 16:21:45 GMT 2008

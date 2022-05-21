@@ -1,0 +1,9 @@
+Username:12024537@N00
+URL:http://flickr.com/photos/12024537@N00/2233704185
+ID:2233704185
+Title:Introductions
+Description:null
+
+Latitude:45.57512
+Longitude:-122.72848
+Date:Thu Jan 31 17:52:08 GMT 2008

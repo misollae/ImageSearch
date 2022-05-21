@@ -1,0 +1,9 @@
+Username:7486100@N02
+URL:http://flickr.com/photos/7486100@N02/2332814241
+ID:2332814241
+Title:Self-portrait 3 v2
+Description:null
+
+Latitude:56.553474
+Longitude:9.031405
+Date:Thu Mar 13 17:22:46 GMT 2008

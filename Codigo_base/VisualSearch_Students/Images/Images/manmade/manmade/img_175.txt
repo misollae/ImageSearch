@@ -1,0 +1,9 @@
+Username:98406434@N00
+URL:http://flickr.com/photos/98406434@N00/305615347
+ID:305615347
+Title:2006-11-18 040
+Description:null
+
+Latitude:51.185184
+Longitude:-0.599484
+Date:Sat Nov 18 16:12:10 GMT 2006

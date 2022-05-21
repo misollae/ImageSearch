@@ -1,0 +1,9 @@
+Username:22908912@N04
+URL:http://flickr.com/photos/22908912@N04/2199313456
+ID:2199313456
+Title:File Cabinets
+Description:null
+
+Latitude:33.73225
+Longitude:-117.99691
+Date:Thu Jan 17 08:58:49 GMT 2008

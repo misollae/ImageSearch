@@ -1,0 +1,9 @@
+Username:96414716@N00
+URL:http://flickr.com/photos/96414716@N00/2172200455
+ID:2172200455
+Title:Emmo and Me
+Description:null
+
+Latitude:36.15172
+Longitude:-86.803276
+Date:Sun Jan 06 02:16:54 GMT 2008

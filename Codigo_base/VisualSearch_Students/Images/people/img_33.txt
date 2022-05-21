@@ -1,0 +1,9 @@
+Username:79053562@N00
+URL:http://flickr.com/photos/79053562@N00/2306706011
+ID:2306706011
+Title:Sidewalk dining
+Description:null
+
+Latitude:37.79893
+Longitude:-122.40801
+Date:Sat Sep 08 14:40:32 BST 2007

@@ -1,0 +1,9 @@
+Username:75348977@N00
+URL:http://flickr.com/photos/75348977@N00/2327599583
+ID:2327599583
+Title:Rocky beach
+Description:null
+
+Latitude:19.809696
+Longitude:-156.0069
+Date:Sun Mar 02 12:38:55 GMT 2008

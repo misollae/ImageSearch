@@ -1,0 +1,9 @@
+Username:10591108@N02
+URL:http://flickr.com/photos/10591108@N02/2332828992
+ID:2332828992
+Title:Sand Strata
+Description:null
+
+Latitude:43.541664
+Longitude:-70.32531
+Date:Thu Mar 13 14:49:53 GMT 2008

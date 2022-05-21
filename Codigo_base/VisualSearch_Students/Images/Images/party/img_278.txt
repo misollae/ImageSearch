@@ -1,0 +1,9 @@
+Username:45382436@N00
+URL:http://flickr.com/photos/45382436@N00/2265620641
+ID:2265620641
+Title:Brian Mason  03
+Description:null
+
+Latitude:51.045708
+Longitude:-114.06578
+Date:Thu Feb 14 13:21:13 GMT 2008

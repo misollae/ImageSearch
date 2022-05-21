@@ -1,0 +1,9 @@
+Username:75169302@N00
+URL:http://flickr.com/photos/75169302@N00/2282348865
+ID:2282348865
+Title:102 | 365 | The World is White
+Description:null
+
+Latitude:44.96237
+Longitude:-64.99533
+Date:Thu Feb 21 23:20:50 GMT 2008

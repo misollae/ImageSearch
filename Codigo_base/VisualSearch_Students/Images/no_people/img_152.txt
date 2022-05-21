@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/519457865
+ID:519457865
+Title:02 Ponte sul Po
+Description:null
+
+Latitude:45.063896
+Longitude:7.696647
+Date:Wed May 09 21:48:16 BST 2007

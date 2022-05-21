@@ -1,0 +1,9 @@
+Username:8998833@N07
+URL:http://flickr.com/photos/8998833@N07/2325557659
+ID:2325557659
+Title:What to shoot next?
+Description:null
+
+Latitude:37.79918
+Longitude:-122.40406
+Date:Sat Mar 08 04:03:58 GMT 2008

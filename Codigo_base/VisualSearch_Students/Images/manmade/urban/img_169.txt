@@ -1,0 +1,9 @@
+Username:22908912@N04
+URL:http://flickr.com/photos/22908912@N04/2199318292
+ID:2199318292
+Title:Montgomery Windows
+Description:null
+
+Latitude:33.731773
+Longitude:-117.99702
+Date:Thu Jan 17 09:04:45 GMT 2008

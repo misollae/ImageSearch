@@ -1,0 +1,9 @@
+Username:9424255@N05
+URL:http://flickr.com/photos/9424255@N05/2300400946
+ID:2300400946
+Title:v nižboru u k?íže
+Description:null
+
+Latitude:49.999905
+Longitude:14.000908
+Date:Sun Feb 24 15:59:58 GMT 2008

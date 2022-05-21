@@ -1,0 +1,9 @@
+Username:10058900@N05
+URL:http://flickr.com/photos/10058900@N05/2258426849
+ID:2258426849
+Title:Cleaning Saints 2: Broom VS. Floor
+Description:null
+
+Latitude:41.927937
+Longitude:-88.28281
+Date:Mon Feb 04 15:17:01 GMT 2008

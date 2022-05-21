@@ -1,0 +1,9 @@
+Username:22287966@N03
+URL:http://flickr.com/photos/22287966@N03/2319298420
+ID:2319298420
+Title:16.365 Nikki
+Description:null
+
+Latitude:38.938858
+Longitude:-77.08917
+Date:Sat Mar 08 13:33:53 GMT 2008

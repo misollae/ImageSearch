@@ -1,0 +1,9 @@
+Username:14093872@N04
+URL:http://flickr.com/photos/14093872@N04/2188806591
+ID:2188806591
+Title:S.O.S. atterraggio di fortuna
+Description:null
+
+Latitude:45.97466
+Longitude:9.194333
+Date:Sun Jan 13 15:00:23 GMT 2008

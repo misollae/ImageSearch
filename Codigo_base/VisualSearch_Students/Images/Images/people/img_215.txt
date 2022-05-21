@@ -1,0 +1,9 @@
+Username:68455893@N00
+URL:http://flickr.com/photos/68455893@N00/2234092004
+ID:2234092004
+Title:31/365 - Music
+Description:null
+
+Latitude:40.049603
+Longitude:-79.89826
+Date:Thu Jan 31 20:53:22 GMT 2008

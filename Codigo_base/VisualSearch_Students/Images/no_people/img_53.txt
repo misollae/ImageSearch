@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/1336937746
+ID:1336937746
+Title:12 ... E ora lavoro qui!
+Description:null
+
+Latitude:44.4322
+Longitude:8.886952
+Date:Wed Jun 27 13:19:23 BST 2007

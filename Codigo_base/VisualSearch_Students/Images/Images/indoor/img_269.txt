@@ -1,0 +1,9 @@
+Username:89889973@N00
+URL:http://flickr.com/photos/89889973@N00/306025998
+ID:306025998
+Title:Meeting FCPUG.it al Mac@Work
+Description:null
+
+Latitude:45.463577
+Longitude:9.175289
+Date:Sat Nov 25 16:06:32 GMT 2006

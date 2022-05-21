@@ -1,0 +1,9 @@
+Username:8998833@N07
+URL:http://flickr.com/photos/8998833@N07/2325561933
+ID:2325561933
+Title:Downtown San Francisco from the Coit Tower
+Description:null
+
+Latitude:37.80246
+Longitude:-122.40586
+Date:Sat Mar 08 04:29:59 GMT 2008

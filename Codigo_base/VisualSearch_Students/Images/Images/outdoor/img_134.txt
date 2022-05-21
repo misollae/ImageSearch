@@ -1,0 +1,9 @@
+Username:42955034@N00
+URL:http://flickr.com/photos/42955034@N00/2282468785
+ID:2282468785
+Title:Loudoun County Vineyards
+Description:null
+
+Latitude:39.165794
+Longitude:-77.64752
+Date:Sun Sep 17 14:26:25 BST 2006

@@ -1,0 +1,9 @@
+Username:76261896@N00
+URL:http://flickr.com/photos/76261896@N00/2333141512
+ID:2333141512
+Title:El Escenario
+Description:null
+
+Latitude:38.694244
+Longitude:-0.477325
+Date:Thu Mar 13 17:27:57 GMT 2008

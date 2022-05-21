@@ -1,0 +1,9 @@
+Username:48889068537@N01
+URL:http://flickr.com/photos/48889068537@N01/2332172539
+ID:2332172539
+Title:Cannon Beach sunset clouds
+Description:null
+
+Latitude:45.88992
+Longitude:-123.96389
+Date:Sat Mar 01 17:55:01 GMT 2008

@@ -1,0 +1,9 @@
+Username:29368678@N00
+URL:http://flickr.com/photos/29368678@N00/2196023415
+ID:2196023415
+Title:Great blue Building.
+Description:null
+
+Latitude:47.60669
+Longitude:-122.33994
+Date:Fri Jan 11 18:59:54 GMT 2008

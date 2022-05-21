@@ -1,0 +1,9 @@
+Username:22209645@N06
+URL:http://flickr.com/photos/22209645@N06/2321722215
+ID:2321722215
+Title:sweetdream
+Description:null
+
+Latitude:52.51448
+Longitude:13.469173
+Date:Tue Jan 01 00:24:35 GMT 2008

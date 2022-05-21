@@ -1,0 +1,9 @@
+Username:89716538@N00
+URL:http://flickr.com/photos/89716538@N00/2200177458
+ID:2200177458
+Title:P1130495
+Description:null
+
+Latitude:38.731583
+Longitude:-9.154921
+Date:Wed Dec 12 17:58:18 GMT 2007

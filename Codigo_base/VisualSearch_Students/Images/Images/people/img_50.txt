@@ -1,0 +1,9 @@
+Username:22996163@N04
+URL:http://flickr.com/photos/22996163@N04/2305246931
+ID:2305246931
+Title:C'est n'est pas la fin
+Description:null
+
+Latitude:43.77176
+Longitude:11.272562
+Date:Wed Sep 05 14:48:49 BST 2007

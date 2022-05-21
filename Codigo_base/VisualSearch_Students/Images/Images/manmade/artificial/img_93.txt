@@ -1,0 +1,9 @@
+Username:80884577@N00
+URL:http://flickr.com/photos/80884577@N00/364656532
+ID:364656532
+Title:Triangulation
+Description:null
+
+Latitude:63.420162
+Longitude:10.400453
+Date:Sun Jan 21 16:13:39 GMT 2007

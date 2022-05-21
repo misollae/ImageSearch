@@ -1,0 +1,9 @@
+Username:24313118@N06
+URL:http://flickr.com/photos/24313118@N06/2333882584
+ID:2333882584
+Title:Kap Bambino
+Description:null
+
+Latitude:52.96992
+Longitude:-1.157287
+Date:Thu Mar 13 21:23:16 GMT 2008

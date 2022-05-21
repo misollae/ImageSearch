@@ -1,0 +1,9 @@
+Username:92283658@N00
+URL:http://flickr.com/photos/92283658@N00/916745110
+ID:916745110
+Title:Snapshot: Table of the Hosts
+Description:null
+
+Latitude:34.419395
+Longitude:-119.66431
+Date:Thu Jul 26 21:47:42 BST 2007

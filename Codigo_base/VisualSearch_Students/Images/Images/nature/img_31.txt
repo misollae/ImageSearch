@@ -1,0 +1,9 @@
+Username:70619288@N00
+URL:http://flickr.com/photos/70619288@N00/2331003745
+ID:2331003745
+Title:Moonlit Serenity Over Bosque
+Description:null
+
+Latitude:33.79989
+Longitude:-106.89015
+Date:Sun Nov 25 18:20:09 GMT 2007

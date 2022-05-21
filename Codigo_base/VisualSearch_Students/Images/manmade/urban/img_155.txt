@@ -1,0 +1,9 @@
+Username:11052807@N06
+URL:http://flickr.com/photos/11052807@N06/2199981968
+ID:2199981968
+Title:Champs...
+Description:null
+
+Latitude:43.597694
+Longitude:1.441102
+Date:Thu Jan 17 17:13:50 GMT 2008

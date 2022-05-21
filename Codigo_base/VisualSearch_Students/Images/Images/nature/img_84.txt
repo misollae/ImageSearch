@@ -1,0 +1,9 @@
+Username:8760197@N08
+URL:http://flickr.com/photos/8760197@N08/2327033281
+ID:2327033281
+Title:Jackrabbit in Wyoming
+Description:null
+
+Latitude:42.867252
+Longitude:-106.32681
+Date:Mon Mar 10 13:21:19 GMT 2008

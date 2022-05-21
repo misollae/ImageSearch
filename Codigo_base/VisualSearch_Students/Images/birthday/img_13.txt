@@ -1,0 +1,9 @@
+Username:24067120@N07
+URL:http://flickr.com/photos/24067120@N07/2335520319
+ID:2335520319
+Title:Birthday
+Description:null
+
+Latitude:46.9094
+Longitude:-67.82771
+Date:Sat Nov 10 16:30:09 GMT 2007

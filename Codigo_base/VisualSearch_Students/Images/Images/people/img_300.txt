@@ -1,0 +1,9 @@
+Username:53353745@N00
+URL:http://flickr.com/photos/53353745@N00/2230936866
+ID:2230936866
+Title:Talking among friends
+Description:null
+
+Latitude:39.26925
+Longitude:-84.51413
+Date:Sat Dec 15 21:42:50 GMT 2007

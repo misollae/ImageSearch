@@ -1,0 +1,9 @@
+Username:21136019@N00
+URL:http://flickr.com/photos/21136019@N00/2337599300
+ID:2337599300
+Title:Whitby Abbey
+Description:null
+
+Latitude:54.489098
+Longitude:-0.609601
+Date:Sat Nov 10 12:59:40 GMT 2007

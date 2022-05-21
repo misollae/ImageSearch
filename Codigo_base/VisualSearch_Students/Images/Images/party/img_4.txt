@@ -1,0 +1,9 @@
+Username:23377679@N07
+URL:http://flickr.com/photos/23377679@N07/2339179750
+ID:2339179750
+Title:
+Description:null
+
+Latitude:52.23913
+Longitude:21.011578
+Date:Sun Mar 16 00:01:07 GMT 2008

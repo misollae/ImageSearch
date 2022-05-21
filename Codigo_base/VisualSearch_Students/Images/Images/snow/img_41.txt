@@ -1,0 +1,9 @@
+Username:80651083@N00
+URL:http://flickr.com/photos/80651083@N00/2332003032
+ID:2332003032
+Title:Barker Dam Footbridge & The Frozen Dead Guy, Nederland, Colorado
+Description:null
+
+Latitude:39.96681
+Longitude:-105.48248
+Date:Sat Mar 01 14:06:36 GMT 2008

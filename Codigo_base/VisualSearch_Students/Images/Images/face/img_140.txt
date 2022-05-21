@@ -1,0 +1,9 @@
+Username:98457156@N00
+URL:http://flickr.com/photos/98457156@N00/2302282828
+ID:2302282828
+Title:Coinsquolino
+Description:null
+
+Latitude:46.003155
+Longitude:8.951593
+Date:Thu Feb 28 22:01:07 GMT 2008

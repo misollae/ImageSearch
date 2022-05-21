@@ -1,0 +1,9 @@
+Username:9458273@N07
+URL:http://flickr.com/photos/9458273@N07/1246884457
+ID:1246884457
+Title:Lonely tree
+Description:null
+
+Latitude:36.793194
+Longitude:-118.586365
+Date:Sun Aug 26 16:17:33 BST 2007

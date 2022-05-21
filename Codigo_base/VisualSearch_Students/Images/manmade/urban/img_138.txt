@@ -1,0 +1,9 @@
+Username:89716538@N00
+URL:http://flickr.com/photos/89716538@N00/2199438307
+ID:2199438307
+Title:Water Train
+Description:null
+
+Latitude:38.76203
+Longitude:-9.093723
+Date:Fri Dec 14 14:10:15 GMT 2007

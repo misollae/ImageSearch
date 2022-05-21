@@ -1,0 +1,9 @@
+Username:9607676@N05
+URL:http://flickr.com/photos/9607676@N05/2251120419
+ID:2251120419
+Title:2008 Feb 06 - Tree Stump
+Description:null
+
+Latitude:37.085285
+Longitude:-76.27208
+Date:Wed Feb 06 11:30:32 GMT 2008

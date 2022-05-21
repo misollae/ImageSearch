@@ -1,0 +1,9 @@
+Username:81808814@N00
+URL:http://flickr.com/photos/81808814@N00/2330279427
+ID:2330279427
+Title:White and Blue 3
+Description:null
+
+Latitude:48.73576
+Longitude:10.0175
+Date:Sat Dec 29 07:55:30 GMT 2007

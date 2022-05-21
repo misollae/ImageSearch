@@ -1,0 +1,9 @@
+Username:8406045@N07
+URL:http://flickr.com/photos/8406045@N07/2338274747
+ID:2338274747
+Title:The only escape...
+Description:null
+
+Latitude:40.73599
+Longitude:-73.99397
+Date:Thu Aug 31 15:54:32 BST 2006

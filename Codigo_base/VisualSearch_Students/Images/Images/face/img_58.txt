@@ -1,0 +1,9 @@
+Username:24589388@N08
+URL:http://flickr.com/photos/24589388@N08/2321387953
+ID:2321387953
+Title:KITTY
+Description:null
+
+Latitude:42.218723
+Longitude:-8.741136
+Date:Fri Nov 11 23:36:21 GMT 2005

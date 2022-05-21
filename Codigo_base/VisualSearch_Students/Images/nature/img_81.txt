@@ -1,0 +1,9 @@
+Username:8760197@N08
+URL:http://flickr.com/photos/8760197@N08/2327043703
+ID:2327043703
+Title:Pronghorn Antelope in Wyoming
+Description:null
+
+Latitude:42.867252
+Longitude:-106.32681
+Date:Mon Mar 10 16:50:27 GMT 2008

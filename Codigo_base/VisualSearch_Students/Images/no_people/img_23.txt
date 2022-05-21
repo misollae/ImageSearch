@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/2061728405
+ID:2061728405
+Title:65 Corte Ovale
+Description:null
+
+Latitude:44.837616
+Longitude:11.62052
+Date:Fri Jul 20 19:20:00 BST 2007

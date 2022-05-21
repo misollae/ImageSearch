@@ -1,0 +1,9 @@
+Username:30952578@N00
+URL:http://flickr.com/photos/30952578@N00/2331605079
+ID:2331605079
+Title:Fairy Falls
+Description:null
+
+Latitude:44.524612
+Longitude:-110.84079
+Date:Fri Aug 24 11:45:10 BST 2007

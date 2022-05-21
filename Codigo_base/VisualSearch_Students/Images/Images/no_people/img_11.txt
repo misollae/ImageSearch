@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/2106237418
+ID:2106237418
+Title:109 Micio affumicato
+Description:null
+
+Latitude:44.973297
+Longitude:11.803854
+Date:Sun Jul 22 20:15:00 BST 2007

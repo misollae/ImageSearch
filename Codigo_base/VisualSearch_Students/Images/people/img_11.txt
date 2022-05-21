@@ -1,0 +1,9 @@
+Username:29954226@N00
+URL:http://flickr.com/photos/29954226@N00/2309932208
+ID:2309932208
+Title:La Fresque des Lyonnais
+Description:null
+
+Latitude:45.768105
+Longitude:4.829531
+Date:Sat Mar 01 16:57:20 GMT 2008

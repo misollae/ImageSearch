@@ -1,0 +1,9 @@
+Username:95104082@N00
+URL:http://flickr.com/photos/95104082@N00/2280928686
+ID:2280928686
+Title:Three Wise Men
+Description:null
+
+Latitude:53.528465
+Longitude:-113.5502
+Date:Sat Feb 16 12:58:06 GMT 2008

@@ -1,0 +1,9 @@
+Username:14093872@N04
+URL:http://flickr.com/photos/14093872@N04/2189640187
+ID:2189640187
+Title:portacandele fiore
+Description:null
+
+Latitude:45.97466
+Longitude:9.194333
+Date:Sun Jan 13 20:47:47 GMT 2008

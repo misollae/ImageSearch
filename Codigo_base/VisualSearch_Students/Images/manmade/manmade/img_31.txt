@@ -1,0 +1,9 @@
+Username:8264376@N03
+URL:http://flickr.com/photos/8264376@N03/2039908369
+ID:2039908369
+Title:Burj Dubai, Emirates
+Description:null
+
+Latitude:25.192898
+Longitude:55.296677
+Date:Sat Jul 07 18:39:51 BST 2007

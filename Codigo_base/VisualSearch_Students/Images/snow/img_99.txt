@@ -1,0 +1,9 @@
+Username:85278812@N00
+URL:http://flickr.com/photos/85278812@N00/2283029126
+ID:2283029126
+Title:Tim
+Description:null
+
+Latitude:44.70999
+Longitude:-74.172905
+Date:Sun Feb 17 12:51:12 GMT 2008

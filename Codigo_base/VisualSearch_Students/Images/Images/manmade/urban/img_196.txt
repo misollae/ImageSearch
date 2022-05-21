@@ -1,0 +1,9 @@
+Username:22908912@N04
+URL:http://flickr.com/photos/22908912@N04/2199290302
+ID:2199290302
+Title:Lockdown
+Description:null
+
+Latitude:33.730522
+Longitude:-117.99766
+Date:Thu Jan 17 08:33:18 GMT 2008

@@ -1,0 +1,9 @@
+Username:10317906@N02
+URL:http://flickr.com/photos/10317906@N02/2233936062
+ID:2233936062
+Title:Flash
+Description:null
+
+Latitude:-19.931477
+Longitude:-43.94191
+Date:Sun Jul 08 21:11:36 BST 2007

@@ -1,0 +1,9 @@
+Username:8430189@N06
+URL:http://flickr.com/photos/8430189@N06/2282930945
+ID:2282930945
+Title:Luke's Artificial Hand
+Description:null
+
+Latitude:39.95818
+Longitude:-75.172844
+Date:Sat Feb 16 05:20:56 GMT 2008

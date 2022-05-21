@@ -1,0 +1,9 @@
+Username:18590474@N06
+URL:http://flickr.com/photos/18590474@N06/2251191280
+ID:2251191280
+Title:PondVector14May06-0303
+Description:null
+
+Latitude:37.03708
+Longitude:-76.79467
+Date:Sun May 14 08:17:56 BST 2006

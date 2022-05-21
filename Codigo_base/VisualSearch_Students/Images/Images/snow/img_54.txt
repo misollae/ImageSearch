@@ -1,0 +1,9 @@
+Username:18590474@N06
+URL:http://flickr.com/photos/18590474@N06/2330225908
+ID:2330225908
+Title:Buzzards Bay view on Egypt Lane
+Description:null
+
+Latitude:41.63504
+Longitude:-70.891075
+Date:Sun Dec 01 00:00:00 GMT 1996

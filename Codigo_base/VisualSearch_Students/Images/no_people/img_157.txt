@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/519428112
+ID:519428112
+Title:02 Nuvole rosse e scie di aerei
+Description:null
+
+Latitude:45.031834
+Longitude:7.644386
+Date:Mon May 07 20:54:49 BST 2007

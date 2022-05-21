@@ -1,0 +1,9 @@
+Username:68455893@N00
+URL:http://flickr.com/photos/68455893@N00/2311648470
+ID:2311648470
+Title:63/365
+Description:null
+
+Latitude:40.04977
+Longitude:-79.89829
+Date:Mon Mar 03 21:49:53 GMT 2008

@@ -1,0 +1,9 @@
+Username:7486487@N08
+URL:http://flickr.com/photos/7486487@N08/2324442851
+ID:2324442851
+Title:Three Bishops
+Description:null
+
+Latitude:51.78519
+Longitude:-2.195994
+Date:Sat Mar 01 10:29:26 GMT 2008

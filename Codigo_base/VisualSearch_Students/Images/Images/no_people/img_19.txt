@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/2062571446
+ID:2062571446
+Title:80 Un fiume d'oro
+Description:null
+
+Latitude:44.888012
+Longitude:11.60801
+Date:Fri Jul 20 20:20:13 BST 2007

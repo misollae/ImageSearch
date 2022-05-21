@@ -1,0 +1,9 @@
+Username:15672358@N00
+URL:http://flickr.com/photos/15672358@N00/521023018
+ID:521023018
+Title:26 Laggiù le mucche pascolano
+Description:null
+
+Latitude:45.108795
+Longitude:7.470391
+Date:Thu May 10 18:35:02 BST 2007

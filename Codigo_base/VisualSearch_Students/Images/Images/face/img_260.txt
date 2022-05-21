@@ -1,0 +1,9 @@
+Username:7486994@N04
+URL:http://flickr.com/photos/7486994@N04/1257413128
+ID:1257413128
+Title:Photo 131
+Description:null
+
+Latitude:47.30707
+Longitude:5.040235
+Date:Thu Jan 01 01:21:00 GMT 2004

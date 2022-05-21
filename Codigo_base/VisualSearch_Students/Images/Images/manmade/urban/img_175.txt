@@ -1,0 +1,9 @@
+Username:22908912@N04
+URL:http://flickr.com/photos/22908912@N04/2199320678
+ID:2199320678
+Title:HandiCap Only
+Description:null
+
+Latitude:33.732014
+Longitude:-117.99747
+Date:Thu Jan 17 09:06:43 GMT 2008
